@@ -2,7 +2,7 @@
 export interface IProduct {
   id: number;
   name: string;
-  autor: string;
+  autor?: string;
   price: string;
   discount?: number;
   description: string;
