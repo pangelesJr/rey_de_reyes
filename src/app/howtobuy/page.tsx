@@ -10,12 +10,12 @@ import PaymentIcon from '@mui/icons-material/Payment';
 import LocalShippingIcon from '@mui/icons-material/LocalShipping';
 
 const steps = [
-  { label: 'Explorar el catálogo', icon: (active) => <SearchIcon sx={{ fontSize: 30, color: active ? '#3f51b5' : 'inherit' }} /> }, // Azul
-  { label: 'Seleccionar el producto', icon: (active) => <InfoIcon sx={{ fontSize: 30, color: active ? '#2196f3' : 'inherit' }} /> },  // Azul Claro
-  { label: 'Elegir la cantidad', icon: (active) => <ShoppingCartIcon sx={{ fontSize: 30, color: active ? '#f57c00' : 'inherit' }} /> }, // Naranja
-  { label: 'Ordenar por WhatsApp', icon: (active) => <WhatsAppIcon sx={{ fontSize: 30, color: active ? '#4caf50' : 'inherit' }} /> },  // Verde
-  { label: 'Finalizar la compra por WhatsApp', icon: (active) => <PaymentIcon sx={{ fontSize: 30, color: active ? '#1f5ef9' : 'inherit' }} /> },  // Naranja fuerte
-  { label: 'Envíos a todo México', icon: (active) => <LocalShippingIcon sx={{ fontSize: 30, color: active ? '#f91f5e' : 'inherit' }} /> },  // Morado
+  { label: 'Explorar el catálogo', icon: (active: boolean) => <SearchIcon sx={{ fontSize: 30, color: active ? '#3f51b5' : 'inherit' }} /> }, // Azul
+  { label: 'Seleccionar el producto', icon: (active: boolean) => <InfoIcon sx={{ fontSize: 30, color: active ? '#2196f3' : 'inherit' }} /> },  // Azul Claro
+  { label: 'Elegir la cantidad', icon: (active: boolean) => <ShoppingCartIcon sx={{ fontSize: 30, color: active ? '#f57c00' : 'inherit' }} /> }, // Naranja
+  { label: 'Ordenar por WhatsApp', icon: (active: boolean) => <WhatsAppIcon sx={{ fontSize: 30, color: active ? '#4caf50' : 'inherit' }} /> },  // Verde
+  { label: 'Finalizar la compra por WhatsApp', icon: (active: boolean) => <PaymentIcon sx={{ fontSize: 30, color: active ? '#1f5ef9' : 'inherit' }} /> },  // Naranja fuerte
+  { label: 'Envíos a todo México', icon: (active: boolean) => <LocalShippingIcon sx={{ fontSize: 30, color: active ? '#f91f5e' : 'inherit' }} /> },  // Morado
 ];
 
 export default function HowToBuy() {
