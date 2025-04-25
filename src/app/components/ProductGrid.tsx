@@ -54,7 +54,7 @@ export default function ProductGrid({ products }: ProductGridProps) {
               >
                 <div style={{ position: 'relative', width: '70%', height: '300px' }}>
                   <Image
-                    src="/images/products/71NZCKB-F9L._SL1500_.jpg"
+                    src="/images/books/71NZCKB-F9L._SL1500_.jpg"
                     alt={product.name}
                     layout="fill" // ocupa todo el contenedor padre
                     objectFit="contain"
