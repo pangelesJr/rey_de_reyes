@@ -2,7 +2,7 @@
   {
     "id": 5,
     "name": "Biblia del Pescador NVI",
-    "price": 450,
+    "price": "450",
     "description": "Una de las biblias más populares en español.",
     "category": "biblias",
     "image": "https://libreriapeniel.com/wp-content/uploads/2021/03/biblia-del-pescador-letra-grande-NVI-TAPA-DURA-1-libreriapeniel.png",
@@ -12,7 +12,7 @@
   {
     "id": 6,
     "name": "Incendiario",
-    "price": 300,
+    "price": "450",
     "description": "Un libro cristiano sobre la dignidad de la mujer.",
     "category": "Libros",
     "image": "https://dhjhkxawhe8q4.cloudfront.net/editorialhccp-wp/wp-content/uploads/sites/5/2022/05/04194552/libro-incendiario-web.png",
@@ -22,7 +22,7 @@
   {
     "id": 7,
     "name": "Biblia RVR 1960 semil piel",
-    "price": 450,
+    "price": "450",
     "description": "Una de las biblias más populares en español.",
     "category": "biblias",
     "image": "https://acdn.mitiendanube.com/stores/002/986/996/products/image_1024-101-311654f179faf4119216892902801465-480-0.png",
@@ -32,7 +32,7 @@
   {
     "id": 8,
     "name": "Introducción a la apologetica",
-    "price": 300,
+    "price": "450",
     "description": "Un libro cristiano sobre la dignidad de la mujer.",
     "category": "Libros",
     "image": "https://m.media-amazon.com/images/I/71JhNblMQ9L._AC_UF894,1000_QL80_.jpg",
