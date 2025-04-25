@@ -12,7 +12,7 @@ export default function Home() {
     <Box sx={{ marginTop: { xs: '-12px', sm: '-46px' }}}>
       <BannerCarousel />
       <Box style={{ marginTop: '12px' }}>
-        <CarouselHome title='Más vendidos aux' products={bestSellingProducts} />
+        <CarouselHome title='Más vendidos' products={bestSellingProducts} />
         <CarouselHome title='Novedades' products={newsProducts} />
         <CarouselHome title='Ofertas' products={productsWithOffer} />
       </Box>

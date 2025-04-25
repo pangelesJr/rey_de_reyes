@@ -1,8 +1,9 @@
 "use client";
 
 import { useRouter } from 'next/navigation';
-import { Grid, Card, CardContent, CardMedia, Button, Typography, Box, Chip } from '@mui/material';
+import { Grid, Card, CardContent, Button, Typography, Box, Chip } from '@mui/material';
 import { IProduct } from '../../interface/product.interface';
+import Image from 'next/image';
 
 interface ProductGridProps {
   products: IProduct[];
@@ -51,16 +52,14 @@ export default function ProductGrid({ products }: ProductGridProps) {
                 }}
                 onClick={() => handleMoreDetails(product.id)}
               >
-                <CardMedia
-                  component="img"
-                  image={product.image}
-                  alt={product.name}
-                  sx={{
-                    width: '70%',            // Imagen con 70% del ancho
-                    height: '100%',          // Altura completa
-                    objectFit: 'contain',    // Asegura que la imagen se ajuste sin distorsionarse
-                  }}
-                />
+                <div style={{ position: 'relative', width: '70%', height: '300px' }}>
+                  <Image
+                    src="/images/products/71NZCKB-F9L._SL1500_.jpg"
+                    alt={product.name}
+                    layout="fill" // ocupa todo el contenedor padre
+                    objectFit="contain"
+                  />
+                </div>
                 {product.discount != 0 && (
                   <Chip
                     label={`-${product.discount}%`}
