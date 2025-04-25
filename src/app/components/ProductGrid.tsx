@@ -2,7 +2,6 @@
 
 import { useRouter } from 'next/navigation';
 import { Grid, Card, CardContent, CardMedia, Button, Typography, Box, Chip } from '@mui/material';
-import Link from 'next/link';
 import { IProduct } from '../../interface/product.interface';
 
 interface ProductGridProps {

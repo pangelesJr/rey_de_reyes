@@ -17,7 +17,7 @@ export default function CarouselHome({ title, products }: ProductGridProps) {
       router.push(`/product/${id}`);
     };
 
-    const chunkArray = (arr: any[], size: number) => {
+    const chunkArray = (arr: IProduct[], size: number) => {
         const result = [];
         for (let i = 0; i < arr.length; i += size) {
             result.push(arr.slice(i, i + size));

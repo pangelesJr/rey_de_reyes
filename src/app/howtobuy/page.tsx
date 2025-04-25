@@ -63,7 +63,7 @@ export default function HowToBuy() {
         )}
         {activeStep === 3 && (
           <Typography>
-            Haz clic en el botón "Ordenar por WhatsApp" y serás redirigido con un mensaje prellenado con el nombre del producto, la cantidad y el total.
+            Haz clic en el botón &quot;Ordenar por WhatsApp&quot; y serás redirigido con un mensaje prellenado con el nombre del producto, la cantidad y el total.
           </Typography>
         )}
         {activeStep === 4 && (
