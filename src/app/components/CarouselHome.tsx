@@ -10,6 +10,7 @@ interface ProductGridProps {
   products: IProduct[]
 }
 
+
 export default function CarouselHome({ title, products }: ProductGridProps) {
     const router = useRouter();
 
