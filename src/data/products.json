@@ -414,100 +414,16 @@
 
 
   {
-    "id": 1,
-    "name": "Biblia Inspira NTV",
-    "price": "450.00",
+    "id": 100153,
+    "name": "Biblia Inspira NTV, Tapa dura de SentiPiel, Lavanda",
+    "price": "880.00",
     "discount": 0,
-    "autor": "Itiel Arroyo",
+    "autor": "",
     "description": "Una de las biblias más populares en español.",
     "category": "biblias",
-    "image": "https://www.libroscristianosmx.com/cdn/shop/products/tapa.png?v=1669415122",
+    "image": "/images/bibles/100153.jpg",
     "details": "Incluye mapas, referencias cruzadas, y concordancia.",
     "keywords": ["biblia", "biblias", "nueva traduccion", "nueva traduccion viviente", "ntv"]
-  },
-  {
-    "id": 3,
-    "name": "Biblia del Pescador RVR 1960",
-    "price": "450.00",
-    "discount": 0,
-    "autor": "Itiel Arroyo",
-    "description": "Una de las biblias más populares en español.",
-    "category": "biblias",
-    "image": "https://m.media-amazon.com/images/I/91UyAy81yDL._SL1500_.jpg",
-    "details": "Incluye mapas, referencias cruzadas, y concordancia.",
-    "keywords": ["biblia", "biblias", "reina", "reina valera", "reina valera 1960", "1960", "rvr", "rvr 1960"]
-  },
-  {
-    "id": 5,
-    "name": "Biblia del Pescador NVI",
-    "price": "450.00",
-    "discount": 0,
-    "autor": "Itiel Arroyo",
-    "description": "Una de las biblias más populares en español.",
-    "category": "biblias",
-    "image": "https://libreriapeniel.com/wp-content/uploads/2021/03/biblia-del-pescador-letra-grande-NVI-TAPA-DURA-1-libreriapeniel.png",
-    "details": "Incluye mapas, referencias cruzadas, y concordancia.",
-    "keywords": ["biblia", "biblias", "nueva version", "nueva version internacional", "nvi"]
-  },
-  {
-    "id": 7,
-    "name": "Biblia RVR 1960 semil piel",
-    "price": "450.00",
-    "discount": 0,
-    "autor": "Itiel Arroyo",
-    "description": "Una de las biblias más populares en español.",
-    "category": "biblias",
-    "image": "https://acdn.mitiendanube.com/stores/002/986/996/products/image_1024-101-311654f179faf4119216892902801465-480-0.png",
-    "details": "Incluye mapas, referencias cruzadas, y concordancia.",
-    "keywords": ["biblia", "biblias", "reina", "reina valera", "reina valera 1960", "1960", "rvr", "rvr 1960"]
-  },
-  {
-    "id": 9,
-    "name": "Biblia Inspira NTV",
-    "price": "450.00",
-    "discount": 0,
-    "autor": "Itiel Arroyo",
-    "description": "Una de las biblias más populares en español.",
-    "category": "biblias",
-    "image": "https://www.libroscristianosmx.com/cdn/shop/products/tapa.png?v=1669415122",
-    "details": "Incluye mapas, referencias cruzadas, y concordancia.",
-    "keywords": ["biblia", "biblias", "nueva traduccion", "nueva traduccion viviente", "ntv"]
-  },
-  {
-    "id": 11,
-    "name": "Biblia del Pescador RVR 1960",
-    "price": "450.00",
-    "discount": 0,
-    "autor": "Itiel Arroyo",
-    "description": "Una de las biblias más populares en español.",
-    "category": "biblias",
-    "image": "https://m.media-amazon.com/images/I/91UyAy81yDL._SL1500_.jpg",
-    "details": "Incluye mapas, referencias cruzadas, y concordancia.",
-    "keywords": ["biblia", "biblias", "reina", "reina valera", "reina valera 1960", "1960", "rvr", "rvr 1960"]
-  },
-  {
-    "id": 13,
-    "name": "Biblia del Pescador NVI",
-    "price": "450.00",
-    "discount": 0,
-    "autor": "Itiel Arroyo",
-    "description": "Una de las biblias más populares en español.",
-    "category": "biblias",
-    "image": "https://libreriapeniel.com/wp-content/uploads/2021/03/biblia-del-pescador-letra-grande-NVI-TAPA-DURA-1-libreriapeniel.png",
-    "details": "Incluye mapas, referencias cruzadas, y concordancia.",
-    "keywords": ["biblia", "biblias", "nueva version", "nueva version internacional", "nvi"]
-  },
-  {
-    "id": 15,
-    "name": "Biblia RVR 1960 semil piel",
-    "price": "450.00",
-    "discount": 0,
-    "autor": "Itiel Arroyo",
-    "description": "Una de las biblias más populares en español.",
-    "category": "biblias",
-    "image": "https://acdn.mitiendanube.com/stores/002/986/996/products/image_1024-101-311654f179faf4119216892902801465-480-0.png",
-    "details": "Incluye mapas, referencias cruzadas, y concordancia.",
-    "keywords": ["biblia", "biblias", "reina", "reina valera", "reina valera 1960", "1960", "rvr", "rvr 1960"]
   }
 ]
   

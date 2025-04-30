@@ -13,7 +13,7 @@ interface LayoutProps {
 }
 
 export default function Layout({ children }: LayoutProps) {
-  const showConstructionPage = false;
+  const showConstructionPage = true;
 
     if (showConstructionPage) {
       return (

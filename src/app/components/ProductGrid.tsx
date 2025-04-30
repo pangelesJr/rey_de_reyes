@@ -10,9 +10,10 @@ import { useTheme } from '@mui/material/styles';
 
 interface ProductGridProps {
   products: IProduct[];
+  showPaginate: boolean;
 }
 
-export default function ProductGrid({ products }: ProductGridProps) {
+export default function ProductGrid({ products, showPaginate = true }: ProductGridProps) {
   const router = useRouter();
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down('sm')); // Detecta si es móvil
@@ -150,14 +151,16 @@ export default function ProductGrid({ products }: ProductGridProps) {
         </Grid>
       </Box>
 
-      <Box sx={{ mt: 4 }}>
-        <Pagination
-          count={totalPages}
-          page={currentPage}
-          onChange={handlePageChange}
-          color="primary"
-        />
-      </Box>
+      {showPaginate && (
+        <Box sx={{ mt: 4 }}>
+          <Pagination
+            count={totalPages}
+            page={currentPage}
+            onChange={handlePageChange}
+            color="primary"
+          />
+        </Box>
+      )}
     </Box>
   );
 }

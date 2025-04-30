@@ -2,15 +2,12 @@
 
 import products from '../data/products.json';
 import BannerCarousel from './components/BannerCarousel';
-import ProductCarousel from './components/ProductCarousel';
+import ProductGrid from './components/ProductGrid';
 import { Box, Typography, Button } from '@mui/material';
-import useMediaQuery from '@mui/material/useMediaQuery';
-import { useTheme } from '@mui/material/styles';
 import Link from 'next/link';
+import ArrowForwardIcon from '@mui/icons-material/ArrowForward'; // Agrega este import
 
 export default function Home() {
-  const theme = useTheme();
-  const isMobile = useMediaQuery(theme.breakpoints.down('sm'))
   const newsProducts = products.filter((product) => product.category.includes('novedades'));
   const productsWithOffer = products.filter((product) => product.category.includes('ofertas'));
   const bestSellingProducts = products.filter((product) => product.category.includes('masvendidos'));
@@ -21,38 +18,65 @@ export default function Home() {
         <BannerCarousel />
       </Box>
 
-      <Box sx={{ mt: 6, px: 2 }}>
-        <Typography variant="h5" sx={{ mb: 2, textAlign: 'center' }}>Novedades</Typography>
-        <Box sx={{ display: 'flex', justifyContent: 'center' }}>
-          <ProductCarousel products={newsProducts.slice(0, isMobile ? 4 : 5)} />
-        </Box>
-        <Box sx={{ display: 'flex', justifyContent: 'center', mt: 1 }}>
-          <Button variant="text" component={Link} href="/category/novedades">
-            Más...
+      {/* Novedades */}
+      <Box sx={{ mt: 8, px: 2 }}>
+        <Typography 
+          variant="h5" 
+          sx={{ mb: 3, textAlign: 'center', fontWeight: 'bold', fontSize: '1.6rem' }}
+        >
+          Novedades
+        </Typography>
+        <ProductGrid products={newsProducts.slice(0, 4)} showPaginate={false} />
+        <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2 }}>
+          <Button 
+            variant="outlined" 
+            endIcon={<ArrowForwardIcon />} 
+            component={Link} 
+            href="/category/novedades"
+          >
+            Ver más
           </Button>
         </Box>
       </Box>
 
-      <Box sx={{ mt: 6, px: 2 }}>
-        <Typography variant="h5" sx={{ mb: 2, textAlign: 'center' }}>Más Vendidos</Typography>
-        <Box sx={{ display: 'flex', justifyContent: 'center' }}>
-          <ProductCarousel products={bestSellingProducts.slice(0, isMobile ? 4 : 5)} />
-        </Box>
-        <Box sx={{ display: 'flex', justifyContent: 'center', mt: 1 }}>
-          <Button variant="text" component={Link} href="/category/masvendidos">
-            Más...
+      {/* Más vendidos */}
+      <Box sx={{ mt: 8, px: 2 }}>
+        <Typography 
+          variant="h5" 
+          sx={{ mb: 3, textAlign: 'center', fontWeight: 'bold', fontSize: '1.6rem' }}
+        >
+          Más vendidos
+        </Typography>
+        <ProductGrid products={bestSellingProducts.slice(0, 4)} showPaginate={false} />
+        <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2 }}>
+          <Button 
+            variant="outlined" 
+            endIcon={<ArrowForwardIcon />} 
+            component={Link} 
+            href="/category/masvendidos"
+          >
+            Ver más
           </Button>
         </Box>
       </Box>
 
-      <Box sx={{ mt: 6, px: 2 }}>
-        <Typography variant="h5" sx={{ mb: 2, textAlign: 'center' }}>Ofertas</Typography>
-        <Box sx={{ display: 'flex', justifyContent: 'center' }}>
-          <ProductCarousel products={productsWithOffer.slice(0, isMobile ? 4 : 5)} />
-        </Box>
-        <Box sx={{ display: 'flex', justifyContent: 'center', mt: 1 }}>
-          <Button variant="text" component={Link} href="/category/ofertas">
-            Más...
+      {/* Ofertas */}
+      <Box sx={{ mt: 8, px: 2 }}>
+        <Typography 
+          variant="h5" 
+          sx={{ mb: 3, textAlign: 'center', fontWeight: 'bold', fontSize: '1.6rem' }}
+        >
+          Ofertas
+        </Typography>
+        <ProductGrid products={productsWithOffer.slice(0, 4)} showPaginate={false} />
+        <Box sx={{ display: 'flex', justifyContent: 'center', mt: 2 }}>
+          <Button 
+            variant="outlined" 
+            endIcon={<ArrowForwardIcon />} 
+            component={Link} 
+            href="/category/ofertas"
+          >
+            Ver más
           </Button>
         </Box>
       </Box>
