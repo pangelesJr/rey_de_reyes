@@ -30,7 +30,7 @@ export default function HowToBuy() {
   };
 
   return (
-    <Container maxWidth="lg">
+    <Container maxWidth="lg" sx={{ mt: 4 }}>
       <Typography variant="h4" gutterBottom align="center" sx={{ marginBottom: { xs: '20px', sm: '40px'}}}>
         Cómo comprar
       </Typography>

@@ -112,7 +112,7 @@ const faqData = [
 const FAQ = () => {
   return (
     <Container maxWidth="md" sx={{ mt: 4 }}>
-      <Typography variant="h4" align="center" gutterBottom>
+      <Typography variant="h4" align="center" gutterBottom sx={{ mb: 3 }}>
         Preguntas Frecuentes
       </Typography>
       {faqData.map((faq, index) => (

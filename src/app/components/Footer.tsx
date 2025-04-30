@@ -9,6 +9,7 @@ import BookIcon from '@mui/icons-material/Book';
 import SchoolIcon from '@mui/icons-material/School';
 import AutoStoriesIcon from '@mui/icons-material/AutoStories';
 
+
 export default function Footer() {
 
     return (
