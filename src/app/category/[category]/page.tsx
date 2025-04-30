@@ -67,7 +67,7 @@ export default function Category({ params }: { params: { category: string } }) {
       >
         Productos en la categoría: <span style={{ color: '#1976d2' }}>{categoryLabel[category]}</span>
       </Typography>
-      <ProductGrid products={filteredProducts} />
+      <ProductGrid products={filteredProducts} showPaginate={true}/>
     </Box>
   );
 }

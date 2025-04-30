@@ -13,7 +13,7 @@ interface ProductGridProps {
   showPaginate: boolean;
 }
 
-export default function ProductGrid({ products, showPaginate = true }: ProductGridProps) {
+export default function ProductGrid({ products, showPaginate }: ProductGridProps) {
   const router = useRouter();
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down('sm')); // Detecta si es móvil

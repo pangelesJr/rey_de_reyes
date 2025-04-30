@@ -98,7 +98,7 @@ export default function SearchResults({ params }: { params: { query: string } })
         Resultados de búsqueda para:
         <span style={{ color: '#1976d2' }}> {decodedQuery}</span>
       </Typography>
-      <ProductGrid products={filteredProducts} />
+      <ProductGrid products={filteredProducts} showPaginate={true}/>
     </Box>
   );
 }
