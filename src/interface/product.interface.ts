@@ -6,7 +6,7 @@ export interface IProduct {
   price: string;
   discount?: number;
   description: string;
-  features?: Record<string, string>;
+  features?: Record<string, string | undefined>;
   category: string;
   image: string;
   details: string;
