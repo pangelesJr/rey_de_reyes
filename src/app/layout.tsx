@@ -16,7 +16,7 @@ interface LayoutProps {
 export default function Layout({ children }: LayoutProps) {
   const pathname = usePathname();
   const isRedesPage = pathname == "/redes";
-  const showConstructionPage = false;
+  const showConstructionPage = true;
 
     if (showConstructionPage && !isRedesPage) {
       return (
