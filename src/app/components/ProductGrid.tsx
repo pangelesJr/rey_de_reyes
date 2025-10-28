@@ -16,20 +16,27 @@ interface ProductGridProps {
 export default function ProductGrid({ products, showPaginate }: ProductGridProps) {
   const router = useRouter();
   const theme = useTheme();
-  const isMobile = useMediaQuery(theme.breakpoints.down('sm')); // Detecta si es móvil
+  const isMobile = useMediaQuery(theme.breakpoints.down('sm'));
 
-  const [currentPage, setCurrentPage] = useState(1);
-  const [itemsPerPage, setItemsPerPage] = useState(20); // Inicializamos en 20
+  const [currentPage, setCurrentPage] = useState<number | null>(null);
+  const [itemsPerPage, setItemsPerPage] = useState(20);
 
-  // Ajuste dinámico en función del tamaño de la pantalla
+  // Inicializar página desde query param al montar
   useEffect(() => {
-    setItemsPerPage(isMobile ? 10 : 20); // 10 en móvil, 20 en pantallas más grandes
-  }, [isMobile]);
+    const params = new URLSearchParams(window.location.search);
+    const page = parseInt(params.get('page') || '1', 10);
+    setCurrentPage(page);
+  }, []);
 
-  const totalPages = Math.ceil(products.length / itemsPerPage);
+  useEffect(() => {
+    setItemsPerPage(isMobile ? 10 : 20);
+  }, [isMobile]);
 
   const handlePageChange = (_event: React.ChangeEvent<unknown>, page: number) => {
     setCurrentPage(page);
+    const url = new URL(window.location.href);
+    url.searchParams.set('page', page.toString());
+    window.history.pushState({}, '', url.toString());
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
@@ -38,10 +45,17 @@ export default function ProductGrid({ products, showPaginate }: ProductGridProps
   };
 
   const calculateDiscount = (product: IProduct) => {
-    const discountAmount = product.discount !== 0 ? (Number(product.price) * (Number(product.discount) / 100)) : 0;
+    const discountAmount = product.discount !== 0
+      ? Number(product.price) * (Number(product.discount) / 100)
+      : 0;
     return Number(product.price) - discountAmount;
   };
 
+  if (currentPage === null) {
+    return null; // o un loader opcional
+  }
+
+  const totalPages = Math.ceil(products.length / itemsPerPage);
   const paginatedProducts = products.slice((currentPage - 1) * itemsPerPage, currentPage * itemsPerPage);
 
   return (
@@ -57,7 +71,6 @@ export default function ProductGrid({ products, showPaginate }: ProductGridProps
                     width: '100%',
                     height: { xs: '200px', sm: '250px', md: '300px' },
                     padding: 2,
-                    boxSizing: 'border-box',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
@@ -65,13 +78,7 @@ export default function ProductGrid({ products, showPaginate }: ProductGridProps
                   }}
                   onClick={() => handleMoreDetails(product.id)}
                 >
-                  <Box
-                    sx={{
-                      position: 'relative',
-                      width: '100%',
-                      height: '100%',
-                    }}
-                  >
+                  <Box sx={{ position: 'relative', width: '100%', height: 300 }}>
                     <Image
                       src={product.image}
                       alt={product.name}

@@ -7,15 +7,18 @@ import Navbar from './components/Navbar';
 import WhatsAppButton from './components/WhatsAppButton';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import InstagramIcon from '@mui/icons-material/Instagram';
+import { usePathname } from "next/navigation";
 
 interface LayoutProps {
   children: ReactNode;
 }
 
 export default function Layout({ children }: LayoutProps) {
+  const pathname = usePathname();
+  const isRedesPage = pathname == "/redes";
   const showConstructionPage = true;
 
-    if (showConstructionPage) {
+    if (showConstructionPage && !isRedesPage) {
       return (
         <html lang="es">
           <body style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
@@ -53,6 +56,22 @@ export default function Layout({ children }: LayoutProps) {
           </body>
         </html>
       );
+    }else if(isRedesPage){
+      return (
+        <html lang="es">
+          <body style={{ display: 'flex', flexDirection: 'column', minHeight: '100vh' }}>
+            <Box
+              sx={{
+                marginTop: { xs: '70px', sm: '115px' },
+                paddingBottom: { xs: '90px', sm: '120px' },
+                flex: 1,
+              }}
+            >
+              <main>{children}</main>
+            </Box>
+          </body>
+        </html>
+      )
     }
 
 

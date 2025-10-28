@@ -1,10 +1,11 @@
 "use client";
 
 import { useEffect, useState } from 'react';
-import { Typography, Button, Card, CardContent, CardMedia, Grid, MenuItem, Select, FormControl, InputLabel } from '@mui/material';
+import Image from 'next/image'; // ✅ Importar el componente Image
+import { Typography, Button, Card, CardContent, Grid, MenuItem, Select, FormControl, InputLabel, Box } from '@mui/material';
 import { SelectChangeEvent } from '@mui/material';
 import WhatsAppIcon from '@mui/icons-material/WhatsApp';
-import LocalShippingIcon from '@mui/icons-material/LocalShipping'; // Icono de paquetería
+import LocalShippingIcon from '@mui/icons-material/LocalShipping';
 import { IProduct } from '../../../interface/product.interface';
 import products from '../../../data/products.json';
 
@@ -12,11 +13,11 @@ export default function ProductDetail({ params }: { params: { id: string } }) {
   const { id } = params;
   const product: IProduct | undefined = products.find((prod) => prod.id.toString() === id);
   const [quantity, setQuantity] = useState(1);
-  const [productUrl, setProductUrl] = useState(''); // Estado para almacenar la URL del producto
+  const [productUrl, setProductUrl] = useState('');
 
   useEffect(() => {
     if (typeof window !== 'undefined') {
-      setProductUrl(window.location.href); // Solo se ejecuta en el cliente
+      setProductUrl(window.location.href);
     }
   }, []);
 
@@ -28,10 +29,8 @@ export default function ProductDetail({ params }: { params: { id: string } }) {
     setQuantity(event.target.value as number);
   };
 
-  // Cálculo del precio con descuento
   const discountAmount = product.discount ? (Number(product.price) * (Number(product.discount) / 100)) : 0;
   const discountedPrice = Number(product.price) - discountAmount;
-
   const totalPrice = quantity * (product.discount ? discountedPrice : Number(product.price));
 
   const whatsappMessage = `Hola, me interesa este artículo...
@@ -44,45 +43,60 @@ export default function ProductDetail({ params }: { params: { id: string } }) {
   return (
     <Card sx={{ maxWidth: 1200, margin: 'auto', padding: 3 }}>
       <Grid container spacing={4}>
-
-        {/* Sección de imagen del producto (lado izquierdo) */}
-        <Grid item xs={12} md={6}>
-          <CardMedia
-            component="img"
-            image={product.image}
+        <Grid item xs={12} md={6} sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+          <Image
+            src={product.image}
             alt={product.name}
-            sx={{
-              width: '70%',            // Imagen con 70% del ancho
-              height: '100%',          // Altura completa
-            }}
+            width={500}
+            height={500}
+            style={{ objectFit: 'contain' }}
           />
         </Grid>
 
+        {/* Detalles del producto */}
         <Grid item xs={12} md={6}>
           <CardContent>
             <Typography variant="h4" gutterBottom>
               {product.name}
             </Typography>
 
-            {/* Precio con descuento */}
             {product.discount ? (
-              <>
+              <Box sx={{ display: 'flex' }}>
                 <Typography variant="h5" color="primary" sx={{ fontWeight: 'bold' }}>
                   ${discountedPrice.toFixed(2)}
-                  <Typography variant="h6" sx={{ textDecoration: 'line-through', color: '#72767c', display: 'inline', mx: 1 }}>
+                </Typography>
+                <Typography variant="h6" sx={{ textDecoration: 'line-through', color: '#72767c', display: 'inline', mx: 1 }}>
                     ${product.price}
                   </Typography>
-                </Typography>
-              </>
+              </Box>
             ) : (
               <Typography variant="h5" color="primary" sx={{ fontWeight: 'bold' }}>
                 ${product.price}
               </Typography>
             )}
-
-            <Typography variant="body1" sx={{ mt: 2 }}>
-              {product.description}
-            </Typography>
+            <Box sx={{ mt: 2 }}>
+              {product.description.split('\n').map((line, index) => (
+                <Typography key={index} variant="body1" component="p" sx={{ mb: 1 }}>
+                  {line}
+                </Typography>
+              ))}
+              {product.features && (
+                <Box sx={{ mt: 2 }}>
+                  <Typography variant="h6" gutterBottom>
+                    Características:
+                  </Typography>
+                  <ul style={{ paddingLeft: 20 }}>
+                    {Object.entries(product.features).map(([key, value]) => (
+                      <li key={key}>
+                        <Typography variant="body2">
+                          <strong>{key}:</strong> {value}
+                        </Typography>
+                      </li>
+                    ))}
+                  </ul>
+                </Box>
+              )}
+            </Box>
             <FormControl fullWidth sx={{ mt: 2 }}>
               <InputLabel id="quantity-select-label">Cantidad</InputLabel>
               <Select
@@ -109,14 +123,12 @@ export default function ProductDetail({ params }: { params: { id: string } }) {
               Ordenar por WhatsApp
             </Button>
 
-            {/* Mensaje de envío con icono, ahora debajo del botón */}
             <Typography variant="body2" sx={{ mt: 2, display: 'flex', alignItems: 'center' }}>
               <LocalShippingIcon sx={{ mr: 1 }} />
               Envío a todo México
             </Typography>
           </CardContent>
         </Grid>
-        
       </Grid>
     </Card>
   );

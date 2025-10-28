@@ -6,6 +6,7 @@ export interface IProduct {
   price: string;
   discount?: number;
   description: string;
+  features?: Record<string, string>;
   category: string;
   image: string;
   details: string;

@@ -21,7 +21,7 @@
     "category": "libros,masvendidos",
     "image": "/images/books/100010.jpg",
     "details": "",
-    "keywords": ["libros", "Wendy Bello", "mujeres", "sabiduria", "matrimonio", "familia"]
+    "keywords": ["libros", "Wendy Bello", "mujeres", "libro para mujeres", "libros para mujeres", "sabiduria", "matrimonio", "familia"]
   },
   {
     "id": 100011,
@@ -33,7 +33,7 @@
     "category": "libros,masvendidos",
     "image": "/images/books/100011.jpg",
     "details": "",
-    "keywords": ["libros", "Elisabeth Elliot", "pasión", "pureza", "jovenes", "mujeres"]
+    "keywords": ["libros", "Elisabeth Elliot", "pasión", "pureza", "jovenes", "mujeres", "relaciones sexuales", "sexualidad", "sexo"]
   },
   {
     "id": 100012,
@@ -45,11 +45,11 @@
     "category": "libros,ofertas,masvendidos",
     "image": "/images/books/100012.jpg",
     "details": "",
-    "keywords": ["descuentos", "ofertas", "promociones", "libros", "Stephen Kendrick", "Alex Kendrick", "devocional", "matrimonio"]
+    "keywords": ["descuentos", "ofertas", "promociones", "libros", "Stephen Kendrick", "Alex Kendrick", "devocional", "devocionales", "matrimonio"]
   },
   {
     "id": 100013,
-    "name": "Criando Hijos en un Mundo Hipersexualizado",
+    "name": "Criando hijos en un mundo hipersexualizado (Bolsillo)",
     "price": "120.00",
     "discount": 0,
     "autor": "Eliza Huie",
@@ -57,7 +57,7 @@
     "category": "libros,masvendidos",
     "image": "/images/books/100013.jpg",
     "details": "",
-    "keywords": ["libros", "Eliza Huie", "padres", "crianza"]
+    "keywords": ["libros", "Eliza Huie", "padres", "crianza", "hijos", "Bolsillo"]
   },
   {
     "id": 100014,
@@ -93,15 +93,15 @@
     "category": "libros,masvendidos",
     "image": "/images/books/100016.jpg",
     "details": "",
-    "keywords": ["libros", "Robert Wolgemuth", "padres", "hijas", "crianza"]
+    "keywords": ["libros", "Robert Wolgemuth", "padres", "hijas", "crianza", "varones", "hombres"]
   },
   {
     "id": 100017,
-    "name": "Hijos Exitosos",
+    "name": "Hijos exitosos",
     "price": "300.00",
     "discount": 0,
     "autor": "Sixto Porras",
-    "description": "Mi hija me llama papi ofrece orientación práctica y aliento a los padres que crían hijas, destacando siete elementos clave para una crianza efectiva: proteger, enseñar a conversar, expresar afecto, disciplinar adecuadamente, crear momentos de risa, inculcar fe en Dios y demostrar una conducta apropiada. A través de estos principios, Wolgemuth ofrece herramientas para conocer profundamente a tu hija y fortalecer una conexión significativa y duradera, sin importar su edad.",
+    "description": "Si mañana fuera tu último día en la tierra, ¿qué legado dejarías a tus hijos? \nA lo largo de su experiencia acompañando a familias, el Dr. Sixto Porras ha identificado una verdad poderosa: muchos padres educan y guían con amor, pero olvidan transmitir las lecciones de vida más profundas que ellos mismos han aprendido. Aquellas que moldearon su carácter, afianzaron sus valores y los ayudaron a alcanzar el éxito. \nEste libro es una invitación a reflexionar sobre esas enseñanzas esenciales, y cómo compartirlas con tus hijos para prepararlos, no solo para enfrentar la vida, sino para triunfar en ella. Una guía práctica y profunda para padres comprometidos con el futuro emocional, espiritual y personal de sus hijos.",
     "category": "libros",
     "image": "/images/books/100017.jpg",
     "details": "",
@@ -129,7 +129,7 @@
     "category": "libros,novedades",
     "image": "/images/books/100023.jpg",
     "details": "",
-    "keywords": ["libros", "Sergio y Carina Valerga", "Adolescentes", "Preadolescentes", "Lecciones", "Estudio", "sexualidad", "clases bíblicas"]
+    "keywords": ["libros", "Sergio y Carina Valerga", "jovenes", "Adolescentes", "Preadolescentes", "Lecciones", "Estudio", "sexualidad", "clases bíblicas"]
   },
   {
     "id": 100025,
@@ -158,14 +158,14 @@
   {
     "id": 100027,
     "name": "El Evangelio Según Satanás",
-    "price": "300.00",
+    "price": "320.00",
     "discount": 0,
     "autor": "Jared C Wilson",
     "description": "Un libro escrito por el pastor Jared C. Wilson, donde explora cómo el enemigo intenta engañarnos a través de mentiras disfrazadas de verdades espirituales. Wilson examina ocho mentiras populares que muchos cristianos creen, como \"Dios solo quiere que seas feliz\" o \"Solo vives una vez\", y ofrece contraataques basados en la verdad del evangelio. Con un enfoque lleno de humor y sabiduría pastoral, ayuda a los lectores a reconocer y rechazar estas falsas enseñanzas que pueden desviar su fe.",
     "category": "libros",
     "image": "/images/books/100027.jpg",
     "details": "",
-    "keywords": ["libros", "Jared C Wilson", "verdad", "engaño"]
+    "keywords": ["libros", "Jared C Wilson", "Nelson", "verdad", "engaño", "Apologética", "Sectas", "diablo", "mitos"]
   },
   {
     "id": 100028,
@@ -217,7 +217,7 @@
   },
   {
     "id": 100034,
-    "name": "¿Por Que Dios Me Hizo Niña?",
+    "name": "¿Por qué Dios me hizo niña?",
     "price": "270.00",
     "discount": 0,
     "autor": "Joe Owen, Abby Owen",
@@ -225,11 +225,11 @@
     "category": "infantil",
     "image": "/images/books/100034.jpg",
     "details": "",
-    "keywords": ["libros", "Joe Owen", "Abby Owen", "niños", "niñas", "infantil", "identidad", "ideología de género", "madres", "padres", "redención"]
+    "keywords": ["libros", "Joe Owen", "Abby Owen", "libro para niños", "libros para niños", "libro para niñas", "libros para niñas", "infantil", "identidad", "ideología de género", "madres", "padres", "redención"]
   },
   {
     "id": 100035,
-    "name": "¿Por Que Dios Me Hizo Niño?",
+    "name": "¿Por qué Dios me hizo niño?",
     "price": "270.00",
     "discount": 0,
     "autor": "Joe Owen, Abby Owen",
@@ -237,7 +237,7 @@
     "category": "infantil",
     "image": "/images/books/100035.jpg",
     "details": "",
-    "keywords": ["libros", "Joe Owen", "Abby Owen", "niños", "niñas", "infantil", "identidad", "ideología de género", "madres", "padres", "redención"]
+    "keywords": ["libros", "Joe Owen", "Abby Owen", "libro para niños", "libros para niños", "infantil", "identidad", "ideología de género", "madres", "padres", "redención"]
   },
   {
     "id": 100036,
@@ -297,7 +297,7 @@
     "category": "libros",
     "image": "/images/books/100041.jpg",
     "details": "",
-    "keywords": ["libros", "Timothy Keller", "dolor", "soberanía", "sufrimiento"]
+    "keywords": ["libros", "Timothy Keller", "dolor", "soberanía", "sufrimiento", "Apologética"]
   },
   {
     "id": 100042,
@@ -357,7 +357,7 @@
     "category": "libros",
     "image": "/images/books/100046.jpg",
     "details": "",
-    "keywords": ["libros", "Chris Tiegreen", "devocional", "sal y luz"]
+    "keywords": ["libros", "Chris Tiegreen", "devocional", "devocionales", "sal y luz"]
   },
   {
     "id": 100047,
@@ -381,7 +381,7 @@
     "category": "libros",
     "image": "/images/books/100048.jpg",
     "details": "",
-    "keywords": ["libros", "Rick Warren", "proposito", "devocional", "mentalidad", "siervo", "transfomacion", "vida crisitiana"]
+    "keywords": ["libros", "Rick Warren", "proposito", "devocional", "devocionales", "mentalidad", "siervo", "transfomacion", "vida crisitiana"]
   },
   {
     "id": 100049,
@@ -407,6 +407,1178 @@
     "details": "",
     "keywords": ["libros", "Daniel Puerto", "Josué Pineda Dale", "familia", "humildad", "luchas", "orgullo", "trabajo"]
   },
+  {
+    "id": 100051,
+    "name": "Generación idiota",
+    "price": "350.00",
+    "discount": 10,
+    "autor": "Agustín Laje",
+    "description": "Vivimos en una época marcada por la disolución del diálogo entre generaciones y el auge de una cultura adolescente que ha penetrado profundamente en la política, la educación y la sociedad. Este libro plantea una crítica frontal a esa mentalidad dominante, señalando cómo la juventud ha sido moldeada por discursos que promueven el conformismo disfrazado de rebeldía, el empoderamiento vacío y una falsa autenticidad. \n Con un enfoque directo y provocador, Agustín Laje propone un llamado a despertar: a rechazar el adoctrinamiento cultural, recuperar el pensamiento crítico y comprometerse con una verdadera transformación social. Inspirado en la visión clásica del \"idiota\" como aquel ajeno a los asuntos públicos, el autor reta a las nuevas generaciones a dejar la pasividad y sumarse a una batalla cultural urgente y necesaria.",
+    "category": "libros",
+    "image": "/images/books/100051.jpg",
+    "details": "",
+    "keywords": ["libros", "Agustín Laje", "Harper Enfoque", "adoctrinamiento", "adolescentes", "batalla cultural", "entretenimiento", "jovenes", "moda", "pensamiento", "sociedad", "tecnologia digital" ]
+  },
+  {
+    "id": 100052,
+    "name": "La Batalla Cultural",
+    "price": "400.00",
+    "discount": 0,
+    "autor": "Agustín Laje",
+    "description": "En un mundo donde los cambios culturales ocurren a una velocidad vertiginosa, comprender el verdadero significado de las batallas culturales se ha vuelto indispensable. Este libro ofrece una mirada profunda a cómo la cultura se ha transformado en un campo estratégico de poder, donde ideologías y agendas luchan por moldear la sociedad desde sus raíces.\nCon un enfoque directo y documentado, Agustín Laje expone cómo la Nueva Izquierda ha comprendido —y explotado— el potencial de la cultura, mientras la derecha tradicional lo ha subestimado. A través de un recorrido por la historia moderna y posmoderna, el autor ofrece herramientas para comprender, enfrentar y participar activamente en esta lucha por el alma de la sociedad. Una guía esencial para quienes buscan tomar posición informada en medio del conflicto ideológico que define nuestros tiempos.",
+    "category": "libros",
+    "image": "/images/books/100052.jpg",
+    "details": "",
+    "keywords": ["libros", "Agustín Laje", "Harper Enfoque", "jovenes", "adoctrinamiento", "batalla cultural", "entretenimiento", "cultura", "politica", "reflexiones", "sociedad" ]
+  },
+  {
+    "id": 100486,
+    "name": "Globalismo: Ingeniería social y control total en el siglo XXI",
+    "price": "440.00",
+    "discount": 0,
+    "autor": "Agustín Laje",
+    "description": "Globalismo: Ingeniería social y control total en el siglo XXI expone, con una mirada crítica, los mecanismos de poder que operan detrás de la ideología globalista. Agustín Laje analiza cómo esta corriente busca reemplazar las democracias nacionales por una gobernanza global no representativa, impulsada por organismos supranacionales y fundaciones privadas. El autor advierte sobre la pérdida de soberanía, el avance de la tecnocracia y el impacto de iniciativas como la Agenda 2030. Esta obra invita a la resistencia cultural e intelectual, ofreciendo argumentos sólidos para comprender y enfrentar los desafíos de nuestro tiempo.",
+    "category": "libros",
+    "image": "/images/books/100486.jpg",
+    "details": "",
+    "keywords": ["libros", "Agustín Laje", "Harper Enfoque", "jovenes", "adoctrinamiento", "batalla cultural", "entretenimiento", "cultura", "politica", "reflexiones", "sociedad", "batalla cultural", "filantropía", "tecnocracia"]
+  },
+  {
+    "id": 100053,
+    "name": "Un Pequeño Libro sobre Por Qué Nos Escondemos (Bolsillo)",
+    "price": "180.00",
+    "discount": 0,
+    "autor": "Edward T. Welch",
+    "description": "Muchas veces nos escondemos detrás de máscaras de autosuficiencia, miedo o vergüenza, intentando protegernos de los demás e incluso de Dios. Este devocional invita a salir de esos escondites internos y a enfrentar con honestidad nuestras inseguridades, fracasos y heridas.\nA lo largo de cincuenta lecturas breves y profundamente personales, el consejero Edward T. Welch nos guía con sabiduría bíblica para comprender por qué sentimos la necesidad de ocultarnos y cómo la gracia de Dios nos llama a vivir con autenticidad. Con un tono compasivo y esperanzador, cada devocional nos recuerda que, gracias a Cristo, ya no necesitamos vivir con culpa o miedo, sino que podemos encontrar aceptación, identidad y seguridad en nuestro Creador.",
+    "category": "libros",
+    "image": "/images/books/100053.jpg",
+    "details": "",
+    "keywords": ["libros", "Edward T. Welch", "inseguridad", "bolsillo", "devocional", "devocionales", "autenticidad"]
+  },
+  {
+    "id": 100054,
+    "name": "Un Pequeño Libro para un Corazón Ansioso (Bolsillo)",
+    "price": "180.00",
+    "discount": 0,
+    "autor": "Edward T. Welch",
+    "description": "El miedo y la ansiedad son cargas que muchos llevan en silencio, con el corazón agobiado y la mente inquieta. Este devocional ofrece una guía práctica y reconfortante a través de cincuenta lecturas breves que invitan a entregar esas preocupaciones a Jesús.\nCon un enfoque bíblico, compasivo y directo, Edward T. Welch ayuda al lector a profundizar en las promesas de Dios, aprendiendo a confiar cada día más en su amor, cuidado y soberanía. En lugar de soluciones superficiales, este libro dirige el corazón ansioso a la única fuente de paz verdadera: la Palabra de Dios.",
+    "category": "libros",
+    "image": "/images/books/100054.jpg",
+    "details": "",
+    "keywords": ["libros", "Edward T. Welch", "ansiedad", "bolsillo", "devocional", "devocionales", "sanidad emocional"]
+  },
+  {
+    "id": 100055,
+    "name": "Textos fuera de contexto",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "Jairo E. Namnún, Steven Morales",
+    "description": "¿Alguna vez has escuchado un versículo bíblico usado de forma motivacional… pero algo no encajaba del todo? Frases como “todo lo puedo en Cristo” se citan con frecuencia, pero ¿qué quiso decir realmente el apóstol Pablo? Este libro invita a examinar con profundidad el contexto original de varios textos bíblicos muy populares, que a menudo se malinterpretan o se sacan de su propósito.\nA través del análisis claro y bíblico de reconocidos líderes cristianos, descubrirás por qué es fundamental interpretar correctamente la Palabra de Dios. Más que corregir errores, este libro busca formar creyentes más fieles, comprometidos y maduros, que honran a Dios al estudiar y aplicar Su Palabra con fidelidad.",
+    "category": "libros",
+    "image": "/images/books/100055.jpg",
+    "details": "",
+    "keywords": ["libros", "Jairo E. Namnun", "Steven Morales", "discipulado", "interpretacion", "estudio biblico", "hermeneutica"]
+  },
+  {
+    "id": 100056,
+    "name": "Dios Hace Sus Mejores Obras En Lo Vacío",
+    "price": "270.00",
+    "discount": 0,
+    "autor": "Nancy Guthrie",
+    "description": "El vacío puede sentirse abrumador: pesa, duele, y parece ocupar más espacio del que tiene. Pero lo que para nosotros es una pérdida, para Dios es una oportunidad. A lo largo de la Biblia, vemos cómo Él obra con poder en medio de la soledad, las decepciones, el anhelo de sentido y las pérdidas. Nancy Guthrie nos lleva en un recorrido lleno de esperanza y gracia, mostrándonos que nuestros vacíos no son el final, sino el escenario perfecto para que Dios se revele y llene todo con Su presencia. Descubre cómo las áreas más áridas de tu vida pueden convertirse en tierra fértil para la obra de Dios.",
+    "category": "libros",
+    "image": "/images/books/100056.jpg",
+    "details": "",
+    "keywords": ["libros", "Nancy Guthrie", "esperanza", "sanidad", "soledad"]
+  },
+  {
+    "id": 100057,
+    "name": "Esperanza",
+    "price": "310.00",
+    "discount": 0,
+    "autor": "David Jeremiah",
+    "description": "En un mundo lleno de incertidumbre, muchos viven paralizados por el miedo: a la muerte, al dolor, a lo desconocido. Pero no estamos llamados a vivir atrapados en la ansiedad. En este libro, el Dr. David Jeremiah identifica siete temores comunes que nos roban la paz y nos impiden vivir plenamente. A través de enseñanzas bíblicas prácticas, nos recuerda que Dios ya ha provisto todo lo necesario para enfrentar el futuro con confianza. Esta lectura fortalecerá tu fe y renovará tu esperanza en Aquel que tiene el control de todo.",
+    "category": "libros",
+    "image": "/images/books/100057.png",
+    "details": "",
+    "keywords": ["libros", "David Jeremiah", "esperanza", "sanidad", "soledad", "ansiedad", "miedo", "muerte", "preocupación"]
+  },
+  {
+    "id": 100058,
+    "name": "Jesús es",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Judah Smith",
+    "description": "¿Quién es Jesús realmente? No una idea vaga o una figura lejana, sino alguien real, cercano y profundamente relevante para tu vida hoy. \nEn Jesús es __. Judah Smith te invita a dejar atrás ideas limitadas y a redescubrir al hombre más extraordinario que ha existido. Este libro es una inspiración para redefinir tu relación con Jesús, enamorarte de sus infinitas características y experimentar una transformación profunda y duradera. Con un estilo honesto, sabio y lleno de humor, cada página te acercará más a conocerlo tal como es: irresistible.",
+    "category": "libros",
+    "image": "/images/books/100058.jpg",
+    "details": "",
+    "keywords": ["libros", "Judah Smith", "esperanza", "caracter", "gracia", "Jesus", "vida"]
+  },
+  {
+    "id": 100059,
+    "name": "13 Mitos acerca del Sexo",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "Michelle Espinoza de Mejía",
+    "description": "En un mundo saturado por mensajes confusos sobre la sexualidad —desde Hollywood hasta TikTok— es fácil caer en ideas erróneas que distorsionan el verdadero propósito del sexo. Este libro confronta 13 de los mitos más comunes y dañinos sobre la sexualidad, desafiando las creencias populares con verdades bíblicas y fundamentos científicos. \nA través de un lenguaje claro y ejemplos precisos, este recurso ayuda a jóvenes y adultos a desarrollar una conciencia más sana, honesta y elevada sobre el sexo, libre de mentiras culturales. Descubre por qué el sexo no es una necesidad fisiológica, ni algo sucio, ni exclusivo de los hombres, y cómo vivir una sexualidad plena conforme al diseño de Dios.",
+    "category": "libros",
+    "image": "/images/books/100059.jpg",
+    "details": "",
+    "keywords": ["libros", "Michelle Espinoza de Mejía", "sexualidad", "jovenes", "sexo", "pureza", "identidad", "relaciones sexuales"]
+  },
+  {
+    "id": 100060,
+    "name": "Sobre el matrimonio (Bolsillo)",
+    "price": "130.00",
+    "discount": 0,
+    "autor": "Timothy Keller, Kathy Keller",
+    "description": "Con más de cuarenta y cinco años de experiencia matrimonial, los Keller combinan sabiduría bíblica y experiencia personal para ofrecer una guía breve pero profunda sobre el propósito y el significado del matrimonio según Dios. \nIdeal como regalo para bodas o aniversarios, este libro es una herramienta valiosa para quienes desean comenzar su matrimonio con bases sólidas o fortalecer su relación actual. Con empatía, verdad y esperanza, los Keller nos recuerdan que un matrimonio centrado en Dios no solo es posible, sino profundamente transformador.",
+    "category": "libros",
+    "image": "/images/books/100060.jpg",
+    "details": "",
+    "keywords": ["libros", "Timothy Keller", "Kathy Keller", "aniversario", "boda", "bolsillo", "parejas", "matrimonio"]
+  },
+  {
+    "id": 100061,
+    "name": "Sobre el nacimiento (Bolsillo)",
+    "price": "130.00",
+    "discount": 0,
+    "autor": "Timothy Keller",
+    "description": "En este pequeño pero profundo libro, Timothy Keller nos guía a reflexionar sobre el nacimiento físico y espiritual, y cómo el bautismo los conecta. Con su estilo claro y compasivo, Keller nos invita a considerar el nuevo nacimiento que Dios ofrece y la esperanza que lo acompaña. \nPerfecto como regalo para nuevos padres o para quienes asisten a un bautismo o presentación, este libro ilumina el valor de la vida desde la perspectiva divina.",
+    "category": "libros",
+    "image": "/images/books/100061.jpg",
+    "details": "",
+    "keywords": ["libros", "Timothy Keller", "bautismo", "bolsillo", "nacimiento", "padres"]
+  },
+  {
+    "id": 100062,
+    "name": "Sobre la muerte (Bolsillo)",
+    "price": "130.00",
+    "discount": 0,
+    "autor": "Timothy Keller",
+    "description": "En un mundo que a menudo evita la reflexión sobre la muerte, Timothy Keller nos ofrece una visión cristiana que nos ayuda a enfrentarla con esperanza y fe. Con sabiduría y compasión, este libro breve pero poderoso nos lleva a explorar lo que la Biblia dice sobre la muerte y cómo nos prepara para enfrentarla con la visión de Dios.",
+    "category": "libros",
+    "image": "/images/books/100062.jpg",
+    "details": "",
+    "keywords": ["libros", "Timothy Keller", "bolsillo", "vida", "desesperanza", "negacion", "muerte"]
+  },
+  {
+    "id": 100063,
+    "name": "Un joven conforme al corazón de Dios (Bolsillo)",
+    "price": "130.00",
+    "discount": 0,
+    "autor": "Jim George",
+    "description": "Jim George, autor del reconocido libro Un hombre conforme al corazón de Dios, invita a los jóvenes a emprender un viaje radical de fe. Este libro ayuda a los jóvenes a convertirse en hombres y mujeres que honran a Dios en todas sus acciones. Ideal para la escuela dominical, grupos de estudio bíblico o cualquier joven que desee crecer espiritualmente.",
+    "category": "libros",
+    "image": "/images/books/100063.jpg",
+    "details": "",
+    "keywords": ["libros", "Jim George", "jovenes", "bolsillo", "esfuerzo", "meta", "proposito"]
+  },
+  {
+    "id": 100064,
+    "name": "Por el poder del Espíritu",
+    "price": "330.00",
+    "discount": 0,
+    "autor": "Miguel Núñez",
+    "description": "En Por el poder del Espíritu, el exitoso autor y pastor Miguel Núñez ofrece una profunda reflexión sobre la lucha espiritual descrita por el apóstol Pablo en Gálatas 5:17, entre los deseos de la carne y los deseos del Espíritu. El cristiano, a menudo enfrentado a esta batalla interna, busca vivir de acuerdo con la voluntad de Dios, pero sus esfuerzos en la carne terminan en fracaso. Núñez nos muestra cómo la clave para vencer esta lucha radica en rendir nuestras vidas al Espíritu Santo, permitiendo que Él desarrolle el fruto del Espíritu en nosotros y nos guíe a vivir bajo Su control. A través de esta entrega, experimentamos la promesa de Cristo: “Mi yugo es fácil y mi carga ligera”.",
+    "category": "libros",
+    "image": "/images/books/100064.jpg",
+    "details": "",
+    "keywords": ["libros", "Miguel Núñez", "deseos de la carne", "deseos del Espíritu", "Espíritu de Dios", "Espíritu Santo", "frutos", "guerra espiritual"]
+  },
+  {
+    "id": 100067,
+    "name": "Mentiras que las niñas creen",
+    "price": "290.00",
+    "discount": 0,
+    "autor": "Dannah Gresh",
+    "description": "Las niñas de hoy enfrentan desafíos que generaciones anteriores ni imaginaban: ansiedad, comparaciones en redes sociales, bullying y muchas mentiras disfrazadas de verdad. \n¿Cómo ayudarlas a caminar en libertad? Con la Verdad. \n Mentiras que las niñas creen, escrito por Dannah Gresh, es un libro divertido y fácil de leer que guía a las niñas a identificar 20 mentiras comunes y reemplazarlas por las verdades de Dios. Incluye secciones interactivas, cuestionarios, gráficos, juegos y citas que las ayudarán a absorber el mensaje de una forma práctica y significativa. \nUn recurso ideal para madres, líderes, maestras y cualquiera que desea equipar a una niña para vivir con libertad y propósito.",
+    "category": "libros,infantil",
+    "image": "/images/books/100067.jpg",
+    "details": "",
+    "keywords": ["libros", "Dannah Gresh", "niños", "libro para niñas", "libros para niñas", "ayuda a hija", "libertad", "mamás", "mentiras", "niñas"]
+  },
+  {
+    "id": 100068,
+    "name": "Mentiras que las mujeres creen",
+    "price": "350.00",
+    "discount": 0,
+    "autor": "Nancy DeMoss Wolgemuth",
+    "description": "Puede que la verdad no cambie tus circunstancias, pero sí te cambiará a ti. \nEste libro, que ha impactado a millones de mujeres en todo el mundo desde su primera edición en 2001, regresa en una versión actualizada y aumentada, con contenido nuevo y relevante para esta generación. \nEn Mentiras que las mujeres creen, Nancy DeMoss expone 45 mentiras comunes que muchas mujeres cristianas han creído sobre Dios, su identidad, sus emociones, el matrimonio, la maternidad, la sexualidad y más. \nPero no todo se queda en el diagnóstico: este libro ofrece el único antídoto real contra el engaño: la verdad de Dios. \nYa sea que lo leas por primera vez o lo vuelvas a leer, esta edición te dará herramientas profundas para vivir una vida verdaderamente libre.",
+    "category": "libros",
+    "image": "/images/books/100068.jpg",
+    "details": "",
+    "keywords": ["libros", "Nancy DeMoss Wolgemuth", "mujeres", "libro para mujeres", "libros para mujeres", "la verdad de Dios para la mujer"]
+  },
+  {
+    "id": 100069,
+    "name": "Mentiras que las jóvenes creen",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Nancy DeMoss Wolgemuth",
+    "description": "Intentar escuchar las voces correctas puede ser difícil, especialmente en un mundo lleno de confusión y mensajes contradictorios. \nEn este libro, Nancy y Dannah revelan 25 mentiras comunes que muchas mujeres jóvenes creen acerca de Dios, la identidad, las emociones, las relaciones y más. A través de historias reales de chicas entrevistadas y testimonios personales, ofrecen herramientas prácticas para identificar el engaño y reemplazarlo con la verdad de Dios. \nEste recurso es una guía esencial para toda joven cristiana que desea crecer con una fe firme, clara y centrada en la Palabra.",
+    "category": "libros",
+    "image": "/images/books/100069.jpg",
+    "details": "",
+    "keywords": ["libros", "Nancy DeMoss Wolgemuth", "jóvenes", "mujeres", "libro para jóvenes", "libros para jóvenes", "chicas", "confianza", "verdades"]
+  },
+  {
+    "id": 100070,
+    "name": "Mentiras que los hombres creen",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Robert Wolgemuth",
+    "description": "Como un cazador experimentado, nuestro enemigo sabe usar mentiras para atraparnos. Cada mentira que creemos abre la puerta al dolor, a relaciones rotas y a una vida lejos del propósito que Dios tiene para nosotros. \nEste libro desenmascara las mentiras más comunes que los hombres tienden a creer —acerca de Dios, el éxito, el sexo, el matrimonio, el trabajo, entre otras— y ofrece respuestas sólidas basadas en la verdad bíblica. \nUna herramienta directa, desafiante y transformadora para hombres que desean vivir en libertad y plenitud.",
+    "category": "libros",
+    "image": "/images/books/100070.jpg",
+    "details": "",
+    "keywords": ["libros", "Robert Wolgemuth", "hombres", "varones", "libro para hombres", "libros para hombres", "mentiras", "verdades"]
+  },
+  {
+    "id": 100071,
+    "name": "Oraciones de 3 Minutos Para Hombres",
+    "price": "130.00",
+    "discount": 0,
+    "autor": "Tracy M. Sumner",
+    "description": "Este libro de oración devocional ofrece lecturas breves pero profundas, diseñadas especialmente para hombres de todas las edades que desean tener un tiempo significativo con Dios, incluso en medio de agendas ocupadas. \nCada devocional de 3 minutos incluye: \nUna lectura inspiradora, \nUn versículo bíblico, y \nUna pregunta para reflexionar. \nCon temas como el amor a Dios y al prójimo, la amistad, el legado, la pureza y la vida reflexiva, este libro te ayudará a fortalecer tu vida espiritual y a caminar más cerca de Dios cada día.",
+    "category": "libros",
+    "image": "/images/books/100071.jpg",
+    "details": "",
+    "keywords": ["libros", "Tracy M. Sumner", "hombres", "varones", "libro para hombres", "libros para hombres", "devocional", "devocionales"]
+  },
+  {
+    "id": 100072,
+    "name": "Una nueva vida, de Cristo en adelante",
+    "price": "270.00",
+    "discount": 10,
+    "autor": "Kike Torres",
+    "description": "Muchas personas viven esperando un momento que transforme su vida… sin saber que ese momento ya ocurrió en la cruz. En este libro, el pastor Kike Torres te muestra cómo romper los ciclos destructivos y comenzar de verdad una nueva vida en Cristo. \nSi te has sentido atrapado por errores repetidos, por la frustración o por sentirte lejos del propósito para el cual fuiste creado, este libro es para ti. Dios no ha terminado contigo, y tu historia aún puede cambiar.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100072.jpg",
+    "details": "",
+    "keywords": ["libros", "Kike Torres", "ofertas", "promociones", "nueva vida en Cristo", "fe práctica", "propósito", "transformación", "discipulado"]
+  },
+  {
+    "id": 100073,
+    "name": "Guia de Supervivencia para Universitarios",
+    "price": "220.00",
+    "discount": 0,
+    "autor": "Lucas Leys",
+    "description": "La universidad es una etapa emocionante, pero también llena de retos: decisiones importantes, nuevas amistades, independencia y presión académica. En este libro, el Dr. Lucas Leys ofrece consejos sabios y prácticos para ayudarte a transitar esta etapa sin perder el rumbo. Una herramienta ideal para jóvenes que desean vivir su fe con propósito en la vida universitaria.",
+    "category": "libros",
+    "image": "/images/books/100073.jpg",
+    "details": "",
+    "keywords": ["libros", "Lucas Leys", "libro para jóvenes", "libros para jóvenes", "jovenes", "juvenil", "estudiantes", "universidad", "amistades", "prioridades", "Regreso a clases"]
+  },
+  {
+    "id": 100074,
+    "name": "De la Biblia a la vida",
+    "price": "290.00",
+    "discount": 0,
+    "autor": "Paty Namnún, Chárbela Antonia El Hage",
+    "description": "En tiempos donde hay una mayor atención a los múltiples roles que desempeñan las mujeres, este libro ofrece una guía práctica que conecta la enseñanza bíblica con la vida diaria. De la Biblia a la vida responde no solo al “qué” y al “por qué”, sino también al “cómo” vivir una fe integral. Ayuda a aplicar principios bíblicos en áreas como el trabajo, el hogar, la iglesia, la vida comunitaria y el servicio a los demás. Ideal para mujeres que desean glorificar a Dios en cada aspecto de su vida.",
+    "category": "libros",
+    "image": "/images/books/100074.jpg",
+    "details": "",
+    "keywords": ["libros", "Paty Namnún", "Chárbela Antonia El Hage", "libro para mujeres", "libros para mujeres", "rol de la mujer", "mujeres cristianas"]
+  },
+  {
+    "id": 100137,
+    "name": "Amar es para valientes",
+    "price": "240.00",
+    "discount": 0,
+    "autor": "Itiel Arroyo",
+    "description": "Nadie en el universo tiene más para decir acerca del amor que Dios. \nAunque el amor sigue siendo fascinante para las nuevas generaciones, también es una de las áreas donde más ansiedad, confusión y decisiones equivocadas se toman. Por eso, \"Amar es para valientes\" se vuelve una lectura esencial para quienes desean entender el amor desde la perspectiva correcta. Este libro redefine lo que la cultura contemporánea dice sobre el amor a la luz de la Palabra de Dios. Con un mensaje claro, profundo y contextualizado para los jóvenes de hoy, brinda orientación práctica y bíblica sobre cómo vivir relaciones sanas, auténticas y con propósito. \nIdeal para adolescentes, jóvenes adultos, líderes juveniles o cualquier persona que desee amar con valentía, verdad y fe.",
+    "category": "libros",
+    "image": "/images/books/100137.jpg",
+    "details": "",
+    "keywords": ["libros", "Itiel Arroyo", "E625", "libro para jóvenes", "libros para jóvenes", "jovenes", "juvenil", "adolescentes", "Regreso a clases", "lider de jovenes"]
+  },
+  {
+    "id": 100075,
+    "name": "Amar es para valientes - Lecciones",
+    "price": "260.00",
+    "discount": 0,
+    "autor": "Itiel Arroyo",
+    "description": "Este manual acompaña el libro Amar es para Valientes y está diseñado para jóvenes y adolescentes mayores. Se trata de una herramienta bíblica y conversacional que ayuda a redescubrir el verdadero significado del amor, contrastando lo que dice la cultura contemporánea con lo que enseña la Palabra de Dios. Incluye lecciones prácticas y dinámicas que permiten a líderes juveniles facilitar conversaciones profundas sobre el amor, la identidad y las relaciones sanas.",
+    "category": "libros",
+    "image": "/images/books/100075.jpg",
+    "details": "",
+    "keywords": ["libros", "Itiel Arroyo", "E625", "libro para jóvenes", "libros para jóvenes", "jovenes", "juvenil", "adolescentes", "lecciones", "Regreso a clases"]
+  },
+  {
+    "id": 100076,
+    "name": "Salta (Bilingüe)",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "Calo Y Nash",
+    "description": "Este libro está dirigido a preadolescentes y se centra en el autodescubrimiento, la identidad y el futuro. Presenta principios fundamentales de la vida de forma clara y accesible para que los lectores comiencen a escribir una historia con propósito desde ahora. Es una excelente herramienta tanto para quienes aman leer como para quienes no, ya que habla directamente de su propia vida. Además, es un libro bilingüe (español - inglés), ideal para escuelas cristianas y padres interesados en enseñar uno de los dos idiomas.",
+    "category": "libros",
+    "image": "/images/books/100076.jpg",
+    "details": "",
+    "keywords": ["libros", "Calo Y Nash", "libro para jóvenes", "libros para jóvenes", "adolescentes", "juvenil", "preadolescentes"]
+  },
+  {
+    "id": 100077,
+    "name": "En redes - para teens",
+    "price": "220.00",
+    "discount": 0,
+    "autor": "Duff Fernández de Lara",
+    "description": "Este libro es ideal para adolescentes y preadolescentes que pasan gran parte de su tiempo en redes sociales. Ofrece consejos prácticos para usar las redes con inteligencia y así proteger su mente, corazón e integridad. Aborda riesgos comunes y enseña cómo navegar el mundo digital sin comprometer su salud emocional, social, espiritual ni física.",
+    "category": "libros",
+    "image": "/images/books/100077.jpg",
+    "details": "",
+    "keywords": ["libros", "Duff Fernández de Lara", "libro para adolescentes", "libros para adolescentes", "jovenes", "juvenil", "preadolescentes", "redes sociales", "teens"]
+  },
+  {
+    "id": 100078,
+    "name": "La supremacia de Cristo en un mundo postmoderno",
+    "price": "300.00",
+    "discount": 5,
+    "autor": "John Piper, Justin Taylor",
+    "description": "En una sociedad que busca desesperadamente la verdad, este libro presenta una visión clara y práctica de la supremacía de Cristo como respuesta a los desafíos de la cultura postmoderna. Equipará a los creyentes para compartir la verdad con confianza, profundidad bíblica y relevancia en el siglo XXI.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100078.jpg",
+    "details": "",
+    "keywords": ["libros", "John Piper", "Justin Taylor", "ofertas", "promociones", "postmodernismo", "apologética", "verdad bíblica"]
+  },
+  {
+    "id": 100079,
+    "name": "Cómo ayudar a tus hijos a limpiar su enredo mental",
+    "price": "330.00",
+    "discount": 10,
+    "autor": "Caroline Leaf",
+    "description": "Este libro es una guía práctica para padres, cuidadores y educadores que desean apoyar la salud mental infantil. Frente a problemas como la ansiedad, la depresión y el estrés emocional en niños de 3 a 10 años, la Dra. Caroline Leaf propone un plan de cinco pasos basado en investigaciones científicas y principios de neurociencia. \nA través de ejemplos reales y estrategias sencillas, aprenderás a enseñar a los niños a reconocer y manejar sus emociones, reemplazar pensamientos tóxicos y desarrollar resiliencia y fortaleza emocional.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100079.jpg",
+    "details": "",
+    "keywords": ["libros", "Caroline Leaf", "ofertas", "promociones", "padres", "hijos", "guía para padres", "guía para maestros", "emociones"]
+  },
+  {
+    "id": 100080,
+    "name": "Chicas sabias en un mundo salvaje",
+    "price": "330.00",
+    "discount": 0,
+    "autor": "Mary Kassian",
+    "description": "Inundadas por una cultura que distorsiona el verdadero valor de la femineidad bíblica, muchas mujeres han perdido el rumbo. En este libro, Mary Kassian utiliza el poderoso contraste entre la chica sabia y la chica salvaje de Proverbios 7 para enseñar, a través de 20 principios prácticos, cómo distinguir lo bueno de lo engañoso, lo piadoso de lo superficial, y lo verdadero de lo popular. \nCon un enfoque profundo y basado en la Palabra, este libro es ideal para mujeres que desean crecer en sabiduría, discernimiento y carácter cristiano en medio de un mundo cada vez más confuso.",
+    "category": "libros",
+    "image": "/images/books/100080.jpg",
+    "details": "",
+    "keywords": ["libros", "Mary Kassian", "libro para jóvenes", "libros para jóvenes", "libro para mujeres", "libros para mujeres", "juvenil", "femineidad", "Feminidad", "proverbios", "sabiduría"]
+  },
+  {
+    "id": 100081,
+    "name": "El Dios pródigo",
+    "price": "220.00",
+    "discount": 0,
+    "autor": "Timothy Keller",
+    "description": "En este libro breve pero profundo, Timothy Keller nos lleva a una comprensión más rica del evangelio a través de una de las parábolas más conocidas —y a menudo malinterpretadas—: la del hijo pródigo. Keller revela que esta historia no se trata solo de un hijo rebelde, sino de dos hijos perdidos y de un Padre pródigo en gracia y amor. \nCon una mirada clara y desafiante, este libro confronta tanto a escépticos como a religiosos, y muestra que el mensaje central de Jesús es de gracia desbordante, esperanza transformadora y salvación inmerecida. Un llamado a reconsiderar nuestras ideas sobre Dios, el pecado y lo que realmente significa volver a casa.",
+    "category": "libros",
+    "image": "/images/books/100081.jpg",
+    "details": "",
+    "keywords": ["libros", "Timothy Keller", "evangelio", "Dios", "esperanza", "fe", "gracia", "historia", "parábola", "pecado", "vida cristiana"]
+  },
+  {
+    "id": 100082,
+    "name": "Redime tus redes en un mundo “Insta”",
+    "price": "230.00",
+    "discount": 0,
+    "autor": "Sarah Eekhoff Zylstra",
+    "description": "Las redes sociales son parte integral de la vida moderna, especialmente para las mujeres que buscan amar a Dios y a su prójimo. Pero este entorno digital, aunque fascinante, también puede ser una trampa. En este libro, nueve autoras cristianas abordan con franqueza y sabiduría cómo navegar las redes con gracia, discernimiento y principios bíblicos. \nA través de consejos prácticos y verdades profundas, aprenderás a usar tus redes no solo con propósito, sino también con un enfoque que honre a Dios. Ideal para mujeres que desean redimir su tiempo en línea y dejar una huella que refleje su fe.",
+    "category": "libros",
+    "image": "/images/books/100082.jpg",
+    "details": "",
+    "keywords": ["libros", "Sarah Eekhoff Zylstra", "libro para jóvenes", "libros para jóvenes", "libro para mujeres", "libros para mujeres", "redes sociales", "sabiduría bíblica", "principios bíblicos"]
+  },
+  {
+    "id": 100083,
+    "name": "La torre oscura (y otras historias)",
+    "price": "270.00",
+    "discount": 0,
+    "autor": "C. S. Lewis",
+    "description": "Esta colección póstuma reúne relatos futuristas que exploran la realidad, el tiempo y la espiritualidad desde la inconfundible perspectiva de C. S. Lewis. Aunque muchas de las historias están inacabadas, cada una ofrece una mirada profunda y provocadora a los misterios del universo y de la fe. Un libro imprescindible para los amantes del autor y quienes disfrutan de las reflexiones filosóficas envueltas en narrativa fantástica.",
+    "category": "libros,masvendidos",
+    "image": "/images/books/100083.jpg",
+    "details": "",
+    "keywords": ["libros", "C. S. Lewis", "Ficción", "Novelas", "ciencia ficción", "novelas alegóricas", "relatos futuristas"]
+  },
+  {
+    "id": 100084,
+    "name": "Incendiario",
+    "price": "350.00",
+    "discount": 0,
+    "autor": "Itiel Arroyo",
+    "description": "Un devocional interactivo de 40 días para quienes anhelan vivir con pasión y propósito. Itiel Arroyo invita a una generación apática a reenfocar su corazón en lo eterno y avivar la llama del entusiasmo espiritual. Con capítulos breves, desafíos creativos y propuestas prácticas, Incendiario es más que un diario: es una experiencia que transforma. \nContiene: \nCapítulos de alto impacto \nRetos para llevar la fe al entorno diario \nEspacios creativos para dibujar, pintar o escribir \nDiseño visualmente atractivo e inspirador",
+    "category": "libros,masvendidos",
+    "image": "/images/books/100084.jpg",
+    "details": "",
+    "keywords": ["libros", "Itiel Arroyo", "libro para jóvenes", "libros para jóvenes", "devocional", "devocionales", "diario"]
+  },
+  {
+    "id": 100085,
+    "name": "Chica gay, Dios bueno",
+    "price": "350.00",
+    "discount": 10,
+    "autor": "Jackie Hill Perry",
+    "description": "En este poderoso testimonio, Jackie Hill Perry relata su historia de confusión, lucha con la identidad y encuentro transformador con el amor de Dios. Criada sin una figura paterna, Jackie abrazó la homosexualidad como parte de su identidad. Pero a los 19 años, en la intimidad de su cuarto, Dios irrumpió en su vida y le mostró el camino hacia una nueva integridad. \nEste libro es para quienes buscan entender, encontrar esperanza o experimentar una vida renovada por el poder del evangelio.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100085.jpg",
+    "details": "",
+    "keywords": ["libros", "Jackie Hill Perry", "ofertas", "promociones", "libro para jóvenes", "libros para jóvenes", "testimonio", "identidad", "redencion", "gay", "homosexualidad"]
+  },
+  {
+    "id": 100086,
+    "name": "Santos Y sinvergüenzas en la historia de Jesús",
+    "price": "300.00",
+    "discount": 10,
+    "autor": "Nancy Guthrie",
+    "description": "La historia de Jesús está llena de personas sorprendentes: \"santos\" que eran en realidad sinvergüenzas, y sinvergüenzas que fueron transformados por la gracia. En este libro, Nancy Guthrie nos invita a redescubrir a personajes como Juan el Bautista, Pedro, Zaqueo, Judas, los fariseos, Barrabás y Pablo, revelando lo que sus vidas nos dicen acerca de la misericordia escandalosa de Jesús. \nUn libro ideal para lectores que desean profundizar en los Evangelios y descubrir cómo la gracia de Dios alcanza a todo tipo de personas… incluso a nosotros.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100086.jpg",
+    "details": "",
+    "keywords": ["libros", "Nancy Guthrie", "ofertas", "promociones", "transformación", "transformación", "historia de Jesús", "personajes bíblicos", "gracia", "evangelios"]
+  },
+  {
+    "id": 100087,
+    "name": "Limites en el noviazgo",
+    "price": "320.00",
+    "discount": 0,
+    "autor": "Henry Cloud, John Townsend",
+    "description": "Entre la soltería y el matrimonio hay un camino llamado noviazgo, y este libro te enseña a recorrerlo con sabiduría. Los doctores Cloud y Townsend te ayudan a establecer límites claros y saludables que fomenten la libertad, el respeto, la integridad y el autocontrol. \nIdeal para quienes atraviesan un noviazgo complicado o quieren enriquecer una relación que ya marcha bien. Límites en el noviazgo es una guía práctica para construir una relación de pareja que te prepare para una vida plena junto a tu futuro cónyuge.",
+    "category": "libros",
+    "image": "/images/books/100087.jpg",
+    "details": "",
+    "keywords": ["libros", "Henry Cloud", "John Townsend", "libro para jóvenes", "libros para jóvenes", "noviazgo", "límites saludables", "relaciones con propósito", "prematrimonial", "compromiso", "integridad", "libertad", "limites"]
+  },
+  {
+    "id": 100088,
+    "name": "Amando a tu esposa",
+    "price": "260.00",
+    "discount": 10,
+    "autor": "Larry E. McCall",
+    "description": "El secreto de un matrimonio fuerte y duradero no está en estrategias humanas, sino en una adoración centrada en Cristo. En este libro, se nos recuerda que, aunque somos esposos imperfectos, Dios nos llama a amar a nuestras esposas como Cristo ama a Su iglesia: con entrega, sacrificio y fidelidad. \nBasado en las enseñanzas del Dr. D. Martyn Lloyd-Jones, este libro invita a los esposos a estudiar a Cristo como el modelo perfecto de amor y a aplicar esa verdad al corazón de su matrimonio. \nUn llamado profundo a los hombres para liderar espiritualmente, amar sinceramente y reflejar a Cristo en el hogar.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100088.jpg",
+    "details": "",
+    "keywords": ["libros", "Larry E. McCall", "ofertas", "promociones", "Familia", "matrimonio", "Relación matrimonial", "esposas", "esposos"]
+  },
+  {
+    "id": 100092,
+    "name": "Límites en el matrimonio",
+    "price": "320.00",
+    "discount": 0,
+    "autor": "Henry Cloud",
+    "description": "¿Dónde trazar la línea para proteger tu matrimonio? \nEn este libro transformador, los Drs. Henry Cloud y John Townsend exploran cómo establecer límites saludables dentro del matrimonio puede traer libertad, respeto y amor verdadero. Aprenderás a decir que sí y que no en el momento correcto, fortaleciendo la relación con tu cónyuge sin perder tu identidad. \nDescubre cómo aplicar las diez leyes de los límites para mejorar la comunicación, sanar heridas profundas, establecer valores compartidos y proteger tu relación de influencias externas. Ya sea que tu matrimonio esté en buen estado o necesite restauración, este libro te dará las herramientas necesarias para construir una relación sólida, santa y satisfactoria.",
+    "category": "libros",
+    "image": "/images/books/100092.jpg",
+    "details": "",
+    "keywords": ["libros", "Henry Cloud", "Familia", "matrimonio", "Relación matrimonial", "esposas", "esposos"]
+  },
+  {
+    "id": 100093,
+    "name": "Recta final",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Robert Wolgemuth",
+    "description": "Corre con propósito hasta el final. \nEste libro es una llamada desafiante y alentadora para los hombres que están en la última etapa de su vida… o que quieren prepararse para terminar bien. A través de reflexiones profundas y sabias, Robert Wolgemuth invita al lector a vivir con fuerza, intención y fe los años que quedan por delante. \nInspirado en Hebreos 12:1, Recta final te anima a correr con perseverancia, sin importar tu edad o circunstancias. No se trata de cuán rápido corres, sino de cómo terminas la carrera. Este es un libro esencial para quienes desean dejar un legado, vivir con sabiduría y honrar a Dios en cada paso.",
+    "category": "libros",
+    "image": "/images/books/100093.jpg",
+    "details": "",
+    "keywords": ["libros", "Robert Wolgemuth", "hombres", "varones", "libro para hombres", "libros para hombres", "vida con propósito", "hombres mayores", "vejez"]
+  },
+  {
+    "id": 100094,
+    "name": "Dignas",
+    "price": "270.00",
+    "discount": 0,
+    "autor": "Elyse Fitzpatrick, Eric Schumacher",
+    "description": "Dios creó a la mujer con dignidad. \nDesde el Génesis hasta el Nuevo Testamento, la Biblia muestra cómo Dios ha usado a mujeres con propósito, poder y valor para cumplir Sus planes. En Dignas, Elyse Fitzpatrick y Eric Schumacher nos invitan a redescubrir el papel de la mujer a través de las Escrituras, no como secundaria o frágil, sino como imagen de Dios, llena de propósito y dignidad. \nEste libro no solo edifica a las mujeres al recordarles su valor ante Dios, sino que también desafía a los hombres, especialmente a líderes, a verlas con los ojos del Creador. Con preguntas de estudio y secciones para profundizar, Dignas se convierte en una herramienta para restaurar la honra, el respeto y la unidad en el pueblo de Dios.",
+    "category": "libros",
+    "image": "/images/books/100094.jpg",
+    "details": "",
+    "keywords": ["libros", "Elyse Fitzpatrick", "Eric Schumacher", "mujeres", "libro para mujeres", "libros para mujeres", "mujeres en la Biblia"]
+  },
+  {
+    "id": 100095,
+    "name": "Nuestro extraordinario Dios",
+    "price": "230.00",
+    "discount": 0,
+    "autor": "John MacArthur",
+    "description": "En un mundo lleno de ideas distorsionadas sobre Dios, Nuestro extraordinario Dios de John MacArthur nos lleva de vuelta a la verdad bíblica. Con su estilo claro y fundamentado, MacArthur desmantela creencias erróneas y nos revela, a través de las Escrituras, quién es Dios realmente: santo, justo, fiel, todopoderoso y lleno de gracia. \nEste libro es una guía valiosa para cualquier creyente que desea profundizar en el carácter de Dios, desarrollar una fe sólida y vivir en respuesta a Su grandeza.",
+    "category": "libros",
+    "image": "/images/books/100095.jpg",
+    "details": "",
+    "keywords": ["libros", "John MacArthur", "Doctrina y teología", "atributos de Dios", "doctrina"]
+  },
+  {
+    "id": 100096,
+    "name": "La crianza de los hijos",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Paul David Tripp",
+    "description": "En lugar de enfocarse solo en el comportamiento externo, este poderoso libro de Paul David Tripp guía a los padres a ir más allá: directo al corazón de sus hijos. Tripp ofrece una visión bíblica profunda de la paternidad, mostrando que la tarea de criar no es solo una responsabilidad, sino un llamado de Dios que requiere gracia, paciencia y dependencia del evangelio. \nMás que un manual de reglas, este libro brinda esperanza, dirección y descanso a padres que desean formar el carácter de sus hijos con sabiduría y propósito eterno.",
+    "category": "libros",
+    "image": "/images/books/100096.jpg",
+    "details": "",
+    "keywords": ["libros", "Paul David Tripp", "paternidad", "padres", "hijos", "guía para padres"]
+  },
+  {
+    "id": 100098,
+    "name": "La sexualidad definida por Dios",
+    "price": "280.00",
+    "discount": 0,
+    "autor": "Kristen Clark, Bethany Beal",
+    "description": "En un mundo saturado de mensajes confusos sobre el sexo, Kristen Clark y Bethany Beal ofrecen un llamado claro y esperanzador para la mujer cristiana de hoy. Este libro es una invitación a redescubrir el propósito, la pureza y el valor del diseño de Dios, tanto para mujeres solteras como casadas. \nCon testimonios personales, verdad bíblica y mucha empatía, las autoras abordan temas como la pornografía, el sexo casual, la presión cultural y los desafíos reales que enfrentan las mujeres. Un recurso transformador para quienes desean vivir una sexualidad redimida, intencional y alineada con la voluntad de Dios.",
+    "category": "libros",
+    "image": "/images/books/100098.jpg",
+    "details": "",
+    "keywords": ["libros", "Kristen Clark", "Bethany Beal", "mujeres", "libro para mujeres", "libros para mujeres", "libro para jóvenes", "libros para jóvenes", "chicas", "sexualidad"]
+  },
+  {
+    "id": 100101,
+    "name": "Aprovecha bien el tiempo",
+    "price": "320.00",
+    "discount": 10,
+    "autor": "Ana Avila",
+    "description": "Aprovecha bien el tiempo transformará tu perspectiva sobre la productividad, mostrándola no como una lista interminable de tareas, sino como una herramienta espiritual que te ayuda a vivir con propósito. Ya sea que trabajes sin descanso y sientas que nunca es suficiente, o que simplemente vayas flotando por la vida sin un rumbo claro, este libro te guiará hacia una vida más enfocada y organizada. Ana Ávila nos enseña seis principios esenciales para ser eficientes en todas las áreas: entender que sí tienes tiempo para lo que realmente importa, aprender a establecer límites, tomar decisiones sabias, desarrollar un enfoque claro, formar hábitos que te impulsen, y usar herramientas que liberen tu mente para lo creativo. Ideal para jóvenes, adultos y todo cristiano que desea alinear su vida con el propósito eterno de Dios.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100101.jpg",
+    "details": "",
+    "keywords": ["libros", "Ana Avila", "ofertas", "promociones", "Estudio personal", "Vida cristiana", "administración del tiempo", "hábitos", "limites", "productividad", "trabajo"]
+  },
+  {
+    "id": 100102,
+    "name": "Un corazón en el desierto",
+    "price": "320.00",
+    "discount": 0,
+    "autor": "Patricia Namnún",
+    "description": "Patricia Namnún invita a un viaje de esperanza que ayuda a reconocer una temporada de sequía espiritual, identificar los caminos que llevaron hasta ahí, dejar atrás las mentiras internas y volver a Jesús, quien es la única fuente de agua viva. Es un recurso ideal para mujeres que se sienten espiritualmente vacías, desanimadas o desconectadas, y desean reenfocar su corazón hacia Dios. También anima a quienes buscan acompañar a otras mujeres en sus procesos de restauración espiritual.",
+    "category": "libros",
+    "image": "/images/books/100102.jpg",
+    "details": "",
+    "keywords": ["libros", "Patricia Namnún", "mujeres", "libro para mujeres", "libros para mujeres", "Familia", "matrimonio", "esperanza", "mentira", "vida cristiana"]
+  },
+  {
+    "id": 100103,
+    "name": "Los libros de la biblia explicados en gráficos: Antiguo Testamento",
+    "price": "290.00",
+    "discount": 0,
+    "autor": "Lucas Leys, Emanuel Barrientos",
+    "description": "Una herramienta visualmente atractiva que presenta cada libro del Antiguo Testamento como una historia ilustrada, ideal para quienes aprenden mejor con imágenes. Incluye infografías, esquemas temáticos y referencias visuales que facilitan la comprensión de la estructura y el mensaje central de cada libro. Es un recurso valioso para maestros, padres y líderes que desean enseñar la Biblia de forma clara y dinámica a nuevas generaciones.",
+    "category": "libros",
+    "image": "/images/books/100103.jpg",
+    "details": "",
+    "keywords": ["libros", "Lucas Leys", "Emanuel Barrientos", "Enseñanza", "aprendizaje visual", "infográficas", "discipulado"]
+  },
+  {
+    "id": 100104,
+    "name": "Los libros de la Biblia explicados en gráficos: Nuevo Testamento",
+    "price": "290.00",
+    "discount": 0,
+    "autor": "Lucas Leys, Emanuel Barrientos",
+    "description": "Una guía visual que presenta cada libro del Nuevo Testamento como una narrativa ilustrada, ideal para quienes aprenden con imágenes. Incluye infografías y referencias gráficas que facilitan la comprensión de los temas, estructura y mensajes centrales. Perfecta como herramienta de consulta para quienes desean profundizar en el texto bíblico o enseñarlo de manera clara y accesible a otros.",
+    "category": "libros",
+    "image": "/images/books/100104.jpg",
+    "details": "",
+    "keywords": ["libros", "Lucas Leys", "Emanuel Barrientos", "Enseñanza", "aprendizaje visual", "infográficas", "discipulado"]
+  },
+  {
+    "id": 100105,
+    "name": "Doce hombres comunes y corrientes",
+    "price": "350.00",
+    "discount": 0,
+    "autor": "John MacArthur",
+    "description": "John MacArthur analiza cómo los doce discípulos de Jesús, hombres comunes con muchas imperfecciones, fueron transformados en instrumentos poderosos para cumplir la obra de Dios. Este libro muestra que no es necesario ser perfecto para impactar vidas y ser útil en el Reino. A través de las historias de pescadores, recaudadores de impuestos y políticos, se revelan principios prácticos para que los discípulos modernos puedan aprender y aplicar en su caminar de fe.",
+    "category": "libros",
+    "image": "/images/books/100105.jpg",
+    "details": "",
+    "keywords": ["libros", "John MacArthur", "hombres", "varones", "libro para hombres", "libros para hombres", "Estudio bíblico", "díscipulos", "doce hombres", "transformación"]
+  },
+  {
+    "id": 100106,
+    "name": "Las crónicas de Narnia",
+    "price": "650.00",
+    "discount": 0,
+    "autor": "C. S. Lewis",
+    "description": "Esta edición especial reúne los siete libros escritos por C. S. Lewis en un solo volumen, transportando a los lectores a un mundo de magia, criaturas míticas y profundas batallas entre el bien y el mal. Más que una saga de fantasía, esta obra ha sido reconocida como literatura clásica por más de cincuenta años. A través de cada historia, se revela una poderosa alegoría espiritual que ha impactado tanto a jóvenes como adultos alrededor del mundo.",
+    "category": "libros,infantil",
+    "image": "/images/books/100106.jpg",
+    "details": "",
+    "keywords": ["libros", "C. S. Lewis", "libro para niños", "libros para niños", "libro para niñas", "libros para niñas", "libro para jóvenes", "libros para jóvenes", "Ficción", "Novelas", "fantasias", "infantil", "cuentos"]
+  },
+  {
+    "id": 100107,
+    "name": "Anciedad",
+    "price": "270.00",
+    "discount": 0,
+    "autor": "Scarlet Hiltibidal",
+    "description": "Vivimos en un mundo caído, triste y aterrador. No es necesario mirar las noticias para sentir el peso del sufrimiento: nuestros cuerpos se enferman, nuestras mentes se debilitan y la incertidumbre parece constante. Frente a tantas preocupaciones, el mundo ofrece soluciones que resultan ineficaces. Sin embargo, la verdadera paz se encuentra cuando aprendemos a someter nuestras ansiedades a la Palabra de Dios. Allí descubrimos que no podemos salvarnos ni protegernos por nuestra cuenta, pero también aprendemos que Jesús ya caminó por estos lugares oscuros para rescatarnos. Él es quien ofrece la única protección que permanece. \nEste estudio de 8 sesiones, guiado por Scarlet Hiltibidal, te invita a encontrar la perfecta paz disponible solo a través de Dios. A lo largo del estudio se profundiza en las Escrituras, se fomenta la práctica constante de la oración y se cultiva una vida auténtica con el respaldo de una comunidad de fe. El material incluye herramientas para líderes que facilitan el diálogo en grupos pequeños, segmentos de estudio personal para trabajar entre sesiones, y ocho videos breves y enriquecedores (10–15 minutos cada uno) que acompañan cada semana de estudio.",
+    "category": "libros",
+    "image": "/images/books/100107.jpg",
+    "details": "",
+    "keywords": ["libros", "Scarlet Hiltibidal", "mujeres", "libro para mujeres", "libros para mujeres", "ansiedad", "libro sobre ansiedad", "estudio bíblico ansiedad", "cómo vencer la ansiedad", "estudio bíblico para mujeres", "salud mental"]
+  },
+  {
+    "id": 100108,
+    "name": "Transformados a su imagen",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Miguel Núñez, Luis Méndez",
+    "description": "Este valioso recurso de consejería cristiana, escrito por el Dr. Miguel Núñez junto al consejero Luis Méndez, aborda con profundidad y sensibilidad los desafíos más comunes que enfrentan las personas en el día a día. Diseñado tanto para quienes ejercen la consejería bíblica como para aquellos que buscan dirección espiritual, ofrece orientación práctica y bíblica para enfrentar situaciones complejas como el abuso, las adicciones, la ansiedad, el duelo, la depresión, el envejecimiento, los conflictos matrimoniales, el sentimiento de inferioridad y las crisis personales. Este libro ofrece respuestas centradas en Cristo y apunta a la transformación del carácter a la imagen de Aquel que puede sanar y restaurar.",
+    "category": "libros",
+    "image": "/images/books/100108.png",
+    "details": "",
+    "keywords": ["libros", "Miguel Núñez", "Luis Méndez", "Ayuda a ministros", "Consejería pastoral y asesoramiento", "consejería", "líderes", "pastores", "vida cristiana"]
+  },
+  {
+    "id": 100110,
+    "name": "Los padres que tus hijos necesitan",
+    "price": "200.00",
+    "discount": 0,
+    "autor": "Lucas Leys, Reggie Joyner",
+    "description": "Un recurso esencial para padres que desean formar hijos con una identidad sólida en Cristo. Esta guía práctica te ayudará a comprender mejor las etapas que atraviesan tus hijos, y cómo influir de manera positiva en su desarrollo emocional y espiritual. Con un enfoque bíblico y actualizado, ofrece herramientas para acompañarlos con intención, amor y sabiduría en cada fase de su crecimiento.",
+    "category": "libros",
+    "image": "/images/books/100110.jpg",
+    "details": "",
+    "keywords": ["libros", "Lucas Leys", "Reggie Joyner", "Crianza", "Familia", "matrimonio", "crianza", "hijos", "padres", "Regreso a clases"]
+  },
+  {
+    "id": 100111,
+    "name": "Antes de perder tu fe",
+    "price": "270.00",
+    "discount": 0,
+    "autor": "Ivan Mesa",
+    "description": "Una guía honesta y esperanzadora para quienes atraviesan dudas en su fe. Este libro ofrece respuestas profundas a preguntas difíciles sobre temas como la política, justicia social, ciencia, infierno y más. Muestra que deconstruir la fe no implica abandonarla, sino que puede ser el inicio de una reconstrucción más firme, auténtica y madura. Ideal para quienes buscan reencontrarse con el cristianismo sin renunciar a sus inquietudes.",
+    "category": "libros",
+    "image": "/images/books/100111.jpg",
+    "details": "",
+    "keywords": ["libros", "Ivan Mesa", "Apologética", "Filosofía y fe", "deconstrucción", "incredulidad", "reconstrucción", "vida cristiana"]
+  },
+  {
+    "id": 100112,
+    "name": "Una fe que piensa",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "David Noboa, Alex Sampedro",
+    "description": "Recurso esencial para quienes desean formar creyentes con una fe firme y reflexiva. Este libro desafía las respuestas superficiales, promoviendo convicciones personales sólidas basadas en la verdad bíblica. Ideal para líderes, padres, maestros y pastores que buscan guiar a las nuevas generaciones a pensar críticamente desde una cosmovisión cristiana. Cada capítulo incluye preguntas para el análisis y discusión en grupos, colegios y espacios de discipulado.",
+    "category": "libros",
+    "image": "/images/books/100112.jpg",
+    "details": "",
+    "keywords": ["libros", "David Noboa", "Alex Sampedro",  "libro para jóvenes", "libros para jóvenes", "educación cristiana", "discipulado juvenil", "apologética", "cosmovisión", "libro para líderes", "estudio bíblico", "fundamentos de la fe"]
+  },
+  {
+    "id": 100113,
+    "name": "El matrimonio y el misterio del evangelio",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "Raymond C. Ortlund Jr",
+    "description": "Una mirada profunda y bíblica al matrimonio como reflejo del evangelio eterno. En este libro, Ray Ortlund recorre toda la historia bíblica —desde Génesis hasta Apocalipsis— mostrando cómo el matrimonio fue diseñado por Dios para representar el amor redentor de Cristo por su Iglesia. Con una visión elevada y esperanzadora, este libro dignifica nuestras uniones humanas, ofreciendo sabiduría, consuelo y propósito para matrimonios reales e imperfectos.",
+    "category": "libros",
+    "image": "/images/books/100113.jpg",
+    "details": "",
+    "keywords": ["libros", "Raymond C. Ortlund Jr", "amor", "familia", "felicidad", "matrimonio", "pareja", "relación matrimonial", "evangelio"]
+  },
+  {
+    "id": 100114,
+    "name": "Cómo salvar tu matrimonio antes de casarte",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "Paolo Lacota, Karen Lacota",
+    "description": "Una guía clara y sincera para quienes están considerando el matrimonio. En este libro, Paolo y Karen Lacota responden preguntas esenciales que toda pareja debe hacerse antes de casarse. Con consejos prácticos y fundamentos bíblicos, este recurso ayuda a los novios a evaluar su preparación y a construir una relación sólida desde el inicio. Ideal para el noviazgo, el compromiso y la consejería prematrimonial, incluye acceso a una guía online complementaria.",
+    "category": "libros",
+    "image": "/images/books/100114.jpg",
+    "details": "",
+    "keywords": ["libros", "Paolo Lacota", "Karen Lacota", "amor", "libro para jóvenes", "libros para jóvenes", "noviazgo", "límites saludables", "relaciones con propósito", "prematrimonial", "compromiso"]
+  },
+  {
+    "id": 100115,
+    "name": "Investigaciones bíblicas del Antiguo Testamento",
+    "price": "250.00",
+    "discount": 10,
+    "autor": "Luis Lopez, Sandy Lopez",
+    "description": "Una herramienta dinámica para enseñar las verdades del Antiguo Testamento a los niños. Esta guía de lecciones está diseñada para ayudar a maestros y líderes a presentar la Palabra de Dios de forma creativa, clara y memorable. Luis y Sandy López, pastores de niñez en la iglesia Lakewood (Houston, TX), combinan años de experiencia y pasión en el ministerio infantil para brindar recursos efectivos que impactan tanto a niños como a sus familias. Con actividades, enseñanza bíblica sólida y enfoque práctico, este material es ideal para iglesias, colegios o grupos pequeños.",
+    "category": "libros,infantil,ofertas",
+    "image": "/images/books/100115.jpg",
+    "details": "",
+    "keywords": ["libros", "Luis Lopez", "ofertas", "promociones", "Sandy Lopez", "libro para niños", "libros para niños", "libro para niñas", "libros para niñas", "infantil", "Bíblico teológico", "Enseñanza", "educación cristiana", "lecciones"]
+  },
+  {
+    "id": 100116,
+    "name": "Investigaciones bíblicas del Nuevo Testamento",
+    "price": "250.00",
+    "discount": 10,
+    "autor": "Luis Lopez, Sandy Lopez",
+    "description": "Una guía práctica y creativa para enseñar a los niños las verdades del Nuevo Testamento. Este recurso está diseñado para equipar a maestros y líderes con herramientas dinámicas que hagan que los niños no solo aprendan, sino que vivan la Palabra de Dios. Luis y Sandy López, pastores de niños en la Iglesia Lakewood (Houston, TX), aportan su experiencia y pasión por el ministerio infantil para desarrollar lecciones inolvidables que transforman corazones desde temprana edad. Ideal para clases bíblicas, grupos pequeños y escuelas dominicales.",
+    "category": "libros,infantil,ofertas",
+    "image": "/images/books/100116.jpg",
+    "details": "",
+    "keywords": ["libros", "Luis Lopez", "Sandy Lopez", "ofertas", "promociones", "libro para niños", "libros para niños", "libro para niñas", "libros para niñas", "infantil", "Bíblico teológico", "Enseñanza", "educación cristiana", "lecciones"]
+  },
+  {
+    "id": 100117,
+    "name": "Duelo para Novatos",
+    "price": "350.00",
+    "discount": 0,
+    "autor": "Cati Gómez F.",
+    "description": "Duelo para Novatos es una guía honesta y conmovedora para quienes enfrentan la pérdida de un ser amado. Escrito desde la experiencia personal de la autora durante sus primeros dos años de viudez, este libro no es un manual teórico, sino un diario lleno de vulnerabilidad, herramientas prácticas y verdades espirituales. \nAprenderás qué decir y qué no decir a alguien en duelo, cómo acompañar con amor y sabiduría, y cómo atravesar tu propio proceso de pérdida con autenticidad. Este libro es para quienes han perdido, para quienes acompañan a los que sufren y para todos los que desean vivir con mayor conciencia de lo frágil y valiosa que es la vida. \nIdeal para quienes buscan consuelo, comprensión, preparación emocional y esperanza en medio del dolor.",
+    "category": "libros",
+    "image": "/images/books/100117.jpg",
+    "details": "",
+    "keywords": ["libros", "Cati Gómez F.", "duelo", "muerte", "luto", "viudez"]
+  },
+  {
+    "id": 100118,
+    "name": "Los 10 mandamientos del matrimonio (Bolsillo)",
+    "price": "150.00",
+    "discount": 0,
+    "autor": "Ed Young",
+    "description": "Los 10 mandamientos del matrimonio es una guía práctica y bíblica para fortalecer el vínculo matrimonial. Con un enfoque claro y directo, Ed Young ofrece principios tomados de las Escrituras, explicando no solo qué hacer, sino cómo aplicarlo en la vida real. \nA través de enseñanzas realistas y aplicables, este libro ayuda a las parejas a superar los desafíos comunes del matrimonio como la mala comunicación, el estrés financiero, los conflictos con la familia política y las expectativas frustradas. Con sabiduría y sentido pastoral, el autor muestra que, al seguir el diseño de Dios, el matrimonio puede ser más profundo, satisfactorio y duradero de lo que imaginamos. \nIdeal para matrimonios jóvenes, matrimonios en crisis, y también para consejería prematrimonial.",
+    "category": "libros",
+    "image": "/images/books/100118.jpg",
+    "details": "",
+    "keywords": ["libros", "Ed Young", "Familia", "matrimonio", "Relación matrimonial", "esposas", "esposos"]
+  },
+  {
+    "id": 100119,
+    "name": "De transgénero a transformada",
+    "price": "230.00",
+    "discount": 0,
+    "autor": "Laura Perry Smalts",
+    "description": "De transgénero a transformada cuenta el poderoso testimonio de Laura Perry, una mujer que vivió como hombre durante años, creyendo que su identidad y realización estaban ligadas a un cambio de género. Tras someterse a cirugías, tratamientos hormonales y un cambio legal de nombre, descubrió que nada de eso llenaba el vacío en su alma. \nEste libro relata su proceso de transformación interior, cuando Dios intervino y le mostró que su verdadera identidad no se encontraba en una redefinición externa, sino en una relación restauradora con Cristo. Es un recurso impactante para quienes luchan con su identidad, para sus familias, y para líderes que buscan comprender con compasión y verdad bíblica este tema tan complejo.",
+    "category": "libros",
+    "image": "/images/books/100119.jpg",
+    "details": "",
+    "keywords": ["libros", "Laura Perry Smalts", "Portavoz", "homosexualidad", "gays", "genero", "sexualidad", "transgenero"]
+  },
+  {
+    "id": 100120,
+    "name": "¿Qué Enseña la Biblia realmente acerca de la Homosexualidad?",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "Kevin DeYoung",
+    "description": "En ¿Qué enseña la Biblia realmente acerca de la homosexualidad?, Kevin DeYoung aborda con claridad y respeto uno de los temas más debatidos en la actualidad. En la primera parte del libro, examina detalladamente los pasajes bíblicos que tratan directamente la homosexualidad, ofreciendo una exégesis cuidadosa y fiel al texto. En la segunda parte, responde a los argumentos comunes que cuestionan la postura tradicional bíblica, desde una perspectiva pastoral y apologética. \nEste libro es una guía útil para cristianos que desean comprender lo que la Biblia enseña y cómo responder con verdad y amor en un contexto cultural cambiante.",
+    "category": "libros",
+    "image": "/images/books/100120.jpg",
+    "details": "",
+    "keywords": ["libros", "Kevin DeYoung", "Poiema Publicaciones", "homosexualidad", "gays", "genero", "sexualidad", "transgenero", "apologética"]
+  },
+  {
+    "id": 100121,
+    "name": "¿Por qué le importa a Dios con quién me acuesto?",
+    "price": "200.00",
+    "discount": 0,
+    "autor": "Sam Allberry",
+    "description": "¿Por qué le importa a Dios con quién me acuesto? ofrece una explicación bíblica clara y pastoral sobre el propósito del sexo y por qué la visión cristiana sobre la sexualidad sigue siendo relevante hoy. En un mundo donde las posturas bíblicas son vistas como anticuadas o restrictivas, Sam Allberry presenta el diseño de Dios como una expresión de amor y plenitud, no como una limitación. Este libro es especialmente útil para quienes consideran la enseñanza cristiana sobre el sexo como una barrera para la fe, y para creyentes que desean compartir estas verdades con sensibilidad y convicción.",
+    "category": "libros",
+    "image": "/images/books/100121.jpg",
+    "details": "",
+    "keywords": ["libros", "Sam Allberry", "CLIE",  "libro para jóvenes", "libros para jóvenes", "sexualidad", "jovenes", "sexo", "pureza", "identidad", "relaciones sexuales"]
+  },
+  {
+    "id": 100122,
+    "name": "Homosexualidad: Pastoral de la atracción al mismo sexo",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Juan J. Varela",
+    "description": "Homosexualidad: Pastoral de la atracción al mismo sexo ofrece una perspectiva compasiva y fundamentada sobre un tema de alta sensibilidad. Juan Varela, con formación especializada en orientación sexual, brinda herramientas teóricas y prácticas para comprender el trasfondo histórico, emocional y espiritual de la atracción al mismo sexo. El libro está dirigido a pastores, consejeros, terapeutas y líderes que buscan acompañar con sabiduría y verdad a quienes experimentan esta realidad. Es una guía que promueve el entendimiento, la restauración y el fortalecimiento del diseño original de Dios para la sexualidad y la familia.",
+    "category": "libros",
+    "image": "/images/books/100122.jpg",
+    "details": "",
+    "keywords": ["libros", "Juan J. Varela", "CLIE", "homosexualidad", "gays", "genero", "sexualidad", "transgenero"]
+  },
+  {
+    "id": 100124,
+    "name": "Así prepara Dios a los hombres",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "Patrick Morley",
+    "description": "Una guía bíblica y práctica para quienes desean crecer como hombres conforme al corazón de Dios. Patrick Morley analiza diez historias de personajes bíblicos que enfrentaron desafíos reales, y extrae principios atemporales que ayudan a fortalecerse como líderes, esposos, padres y siervos de Cristo. A través de ejemplos concretos, muestra cómo Dios moldea el carácter en medio de pruebas, fracasos y decisiones difíciles. Ideal para quienes buscan vivir una vida cristiana auténtica, superar obstáculos y dejar un legado duradero.",
+    "category": "libros",
+    "image": "/images/books/100124.jpg",
+    "details": "",
+    "keywords": ["libros", "Patrick Morley", "Portavoz", "hombres", "varones", "libro para hombres", "libros para hombres", "esposos"]
+  },
+  {
+    "id": 100125,
+    "name": "Mi amigo es homosexual",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "Alex Tylee",
+    "description": "Un testimonio sincero y conmovedor sobre la lucha entre la fe cristiana y la atracción al mismo sexo. Alex Tylee comparte su experiencia personal con honestidad y sensibilidad, mostrando cómo ha enfrentado sus sentimientos desde una perspectiva bíblica. Una lectura útil tanto para quienes viven una situación similar como para quienes desean comprenderla mejor y acompañar con compasión y verdad.",
+    "category": "libros",
+    "image": "/images/books/100125.jpg",
+    "details": "",
+    "keywords": ["libros", "Alex Tylee", "Andamio", "libro para jóvenes", "libros para jóvenes", "homosexualidad", "gays", "genero", "sexualidad"]
+  },
+  {
+    "id": 100126,
+    "name": "Atraídos por el mismo sexo: ¡Hay Esperanza!",
+    "price": "260.00",
+    "discount": 0,
+    "autor": "Ron Citlau",
+    "description": "Una guía compasiva y bíblica para quienes enfrentan la atracción al mismo sexo y desean seguir fielmente a Cristo. El pastor Ron Citlau, desde su experiencia personal y pastoral, ofrece respuestas claras y esperanzadoras sobre cómo vivir una vida de obediencia a Dios en medio de esta lucha. También brinda herramientas valiosas para que la iglesia pueda acompañar con amor y verdad a quienes atraviesan este camino.",
+    "category": "libros",
+    "image": "/images/books/100126.jpg",
+    "details": "",
+    "keywords": ["libros", "Ron Citlau", "Nivel Uno", "libro para jóvenes", "libros para jóvenes", "homosexualidad", "gays", "genero", "sexualidad"]
+  },
+  {
+    "id": 100127,
+    "name": "Matrimonio divorcio y nuevo matrimonio",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Jim Newheiser",
+    "description": "Jim Newheiser responde a cuarenta preguntas clave sobre relaciones conyugales, abordando con claridad los temas del matrimonio, el divorcio y las segundas uniones desde una perspectiva bíblica. Con base en su amplia experiencia en consejería, ofrece una guía práctica para pastores, líderes y creyentes que desean aplicar la sabiduría de la Escritura en situaciones complejas de la vida real. Ideal para el estudio personal o como herramienta en procesos de consejería cristiana.",
+    "category": "libros",
+    "image": "/images/books/100127.jpg",
+    "details": "",
+    "keywords": ["libros", "Jim Newheiser", "Poiema", "parejas", "matrimonio", "divorcio", "consejeria"]
+  },
+  {
+    "id": 100128,
+    "name": "Rescata tu vida amorosa",
+    "price": "270.00",
+    "discount": 0,
+    "autor": "Henry Cloud, John Townsend",
+    "description": "La mayoría de los matrimonios enfrentan momentos difíciles, muchas veces causados por palabras o actitudes impulsivas que dañan la conexión entre esposos. Henry Cloud y John Townsend, reconocidos psicólogos cristianos, ofrecen 40 consejos prácticos y llenos de sabiduría para superar los conflictos que amenazan la relación. Con historias reales y estrategias efectivas, brindan herramientas para restaurar la confianza, reavivar la pasión, reconectarse emocionalmente y redescubrir la alegría en la vida en pareja.",
+    "category": "libros",
+    "image": "/images/books/100128.jpg",
+    "details": "",
+    "keywords": ["libros", "Henry Cloud", "John Townsend", "Poiema", "parejas", "matrimonio", "familia"]
+  },
+  {
+    "id": 100129,
+    "name": "Génesis. Creación, edén y diluvio",
+    "price": "450.00",
+    "discount": 0,
+    "autor": "Marcelo Wall",
+    "description": "¿De dónde venimos? ¿Cómo se formó el universo? ¿Es posible reconciliar la Biblia con la ciencia? Marcelo Peter Wall Neufeld aborda estas preguntas esenciales desde una perspectiva bíblica y razonada, proponiendo una visión que armoniza la narrativa de los siete días de la creación con los millones de años de la geología moderna. Esta obra ofrece una exploración profunda del origen del universo, el Edén y el diluvio, desafiando ideas preconcebidas y mostrando que la fe y la ciencia no tienen por qué estar en conflicto. Un recurso valioso para creyentes y buscadores que desean comprender mejor los relatos del Génesis en el contexto del siglo XXI.",
+    "category": "libros",
+    "image": "/images/books/100129.jpg",
+    "details": "",
+    "keywords": ["libros", "Marcelo Wall", "CLIE", "Génesis", "creación", "ciencia", "orígenes del universo", "apologética"]
+  },
+  {
+    "id": 100130,
+    "name": "Antes de decir sí",
+    "price": "300.00",
+    "discount": 10,
+    "autor": "Norman Wright, Roberts Wes",
+    "description": "Ideal para parejas comprometidas, esta guía cristiana interactiva les ayudará a prepararse para una vida matrimonial sólida y centrada en Cristo. A través de actividades y conversaciones clave, los llevará a explorar su relación, identificar deseos y necesidades, y construir una visión compartida basada en principios bíblicos. También ofrece herramientas para comprender cómo el trasfondo familiar y las experiencias pasadas influyen en áreas como las finanzas, la fe, la crianza y la comunicación. Una excelente preparación para comenzar el matrimonio con propósito, unidad y dirección.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100130.jpg",
+    "details": "",
+    "keywords": ["libros", "Norman Wright", "Roberts Wes", "Unilit", "ofertas", "promociones", "libro para jóvenes", "libros para jóvenes", "noviazgo", "prematrimonial", "compromiso"]
+  },
+  {
+    "id": 100131,
+    "name": "El vacío del alma que solo Dios puede llenar",
+    "price": "370.00",
+    "discount": 0,
+    "autor": "Miguel Contreras",
+    "description": "Miguel Contreras comparte su testimonio con honestidad y profundidad, relatando una intensa búsqueda de propósito a través del deporte, la política, los negocios y la vida familiar. Entre recuerdos y encuentros con Jesús reflejados en las Escrituras, nos muestra cómo Dios utilizó cada experiencia —éxitos y fracasos— para moldear su carácter y transformar su vida desde el interior. Este libro ofrece una mirada sincera al conflicto entre la vida exterior, llena de expectativas y logros, y la vida interior, sedienta de sentido y verdad. Una invitación a reflexionar, detenerse y abrir el corazón a Aquel que verdaderamente puede llenar el alma.",
+    "category": "libros",
+    "image": "/images/books/100131.jpg",
+    "details": "",
+    "keywords": ["libros", "Miguel Contreras", "Clie", "Estudio personal", "vida cristiana", "convicción", "éxitos", "fracasos"]
+  },
+  {
+    "id": 100133,
+    "name": "La anatomía de un romance prohibido",
+    "price": "280.00",
+    "discount": 0,
+    "autor": "Dave Carder",
+    "description": "El adulterio no comienza en la cama, sino mucho antes. Con historias reales, consejos clínicos y datos actualizados, el consejero Dave Carder expone cómo se desarrollan las aventuras extramaritales y cómo prevenirlas. Este libro revela los factores comunes que conducen a un romance prohibido y ofrece herramientas prácticas para fortalecer la intimidad y proteger el matrimonio. Ideal para parejas, consejeros y líderes, esta lectura es una advertencia sabia y compasiva para mantener la fidelidad y la confianza en la relación conyugal.",
+    "category": "libros",
+    "image": "/images/books/100133.jpg",
+    "details": "",
+    "keywords": ["libros", "Dave Carder", "Unilit", "Familia", "matrimonio", "adulterio"]
+  },
+  {
+    "id": 100134,
+    "name": "Él nos ve, Él nos Conoce, Él nos Cuida",
+    "price": "280.00",
+    "discount": 10,
+    "autor": "Love God Greatly",
+    "description": "Él nos ve, Él nos conoce, Él nos cuida es un estudio bíblico de seis semanas basado en el Evangelio de Lucas, diseñado especialmente para mujeres que se sienten solas, agobiadas o invisibles. A través de este recorrido conocerás al Jesús que ve tus lágrimas, entiende tus luchas y cuida de ti con amor eterno. Este estudio te ayudará a comprender quién es Jesús, cómo se relaciona con su pueblo y qué significa seguirle con compromiso y fe. \nIdeal para estudios personales o en grupo, con acceso a contenido digital complementario (en inglés) y recursos desde la app de Love God Greatly.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100134.jpg",
+    "details": "",
+    "keywords": ["libros", "Love God Greatly", "Independently published", "ofertas", "promociones", "libro para mujeres", "libros para mujeres", "devocionales", "estudio bíblico"]
+  },
+  {
+    "id": 100135,
+    "name": "La Armadura de Dios",
+    "price": "400.00",
+    "discount": 10,
+    "autor": "Love God Greatly",
+    "description": "La Armadura de Dios es un poderoso estudio bíblico de seis semanas que te enseñará a enfrentar las batallas diarias con la fuerza que viene del Señor. Si sientes que tu mente, tus emociones, tu salud o tu familia están bajo constante ataque, este estudio te recordará que no estás sola ni indefensa. \nBasado en Efesios 6, aprenderás a usar cada parte de la armadura espiritual que Dios te ha dado: el cinturón de la verdad, la coraza de justicia, el escudo de la fe y más. Descubre cómo protegerte y pelear con confianza sabiendo que el poder de Dios está de tu lado. \nIdeal para mujeres que desean crecer espiritualmente y vivir en victoria.",
+    "category": "libros,ofertas",
+    "image": "/images/books/100135.jpg",
+    "details": "",
+    "keywords": ["libros", "Love God Greatly", "Independently published", "ofertas", "promociones", "libro para mujeres", "libros para mujeres", "devocionales", "estudio bíblico", "guerra espiritual", "protección espiritual", "batalla espiritual"]
+  },
+  {
+    "id": 100136,
+    "name": "Evangelizacion Total",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Damy Ferreira",
+    "description": "Evangelización Total de Damy Ferreira es un manual práctico y didáctico que ofrece métodos y estrategias para el evangelismo personal y masivo. Incluye una serie completa de estudios bíblicos diseñados para ser utilizados en diversos contextos evangelísticos. \nEl libro ofrece orientación sobre reuniones al aire libre, uso efectivo de tratados y módulos de estudio bíblico para grupos especiales como estudiantes universitarios, marginados sociales y personas con discapacidades.",
+    "category": "libros",
+    "image": "/images/books/100136.jpg",
+    "details": "",
+    "keywords": ["libros", "Damy Ferreira", "Casa Bautista of Pubns", "Evangelismo", "misiones", "buenas nuevas", "evangelización", "ministerio", "misión"]
+  },
+  {
+    "id": 100138,
+    "name": "El diablo propone un brindis",
+    "price": "330.00",
+    "discount": 0,
+    "autor": "C. S. Lewis",
+    "description": "Fascinante continuación de Cartas del diablo a su sobrino, escrita por el renombrado autor C. S. Lewis. En esta obra ingeniosa y penetrante, Lewis adopta la voz de un demonio veterano que ofrece un discurso de graduación a jóvenes demonios, revelando las estrategias sutiles y modernas que el infierno emplea para influenciar a la humanidad. Esta edición también incluye otros escritos menos conocidos de Lewis, cargados de sabiduría, profundidad espiritual y aguda observación de la condición humana. \nUna lectura provocadora que invita a la reflexión sobre la tentación, la naturaleza del mal y la lucha espiritual, presentada con el estilo inconfundible y brillante de uno de los pensadores cristianos más influyentes del siglo XX.",
+    "category": "libros",
+    "image": "/images/books/100138.jpg",
+    "details": "",
+    "keywords": ["libros", "C. S. Lewis", "Nelson", "Ficción", "Novelas", "vida cristiana"]
+  },
+  {
+    "id": 100139,
+    "name": "Renueva tu mente",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Miguel Núñez",
+    "description": "Renueva tu mente del pastor Miguel Núñez es un llamado profundo a transformar tu forma de pensar para vivir de acuerdo con la voluntad de Dios. A menudo, los creyentes enfrentan una desconexión entre lo que creen y cómo viven, y este libro aborda precisamente esa lucha. No se trata solo de lo que profesamos con los labios, sino de cómo pensamos: nuestra cosmovisión. \nEn esta guía transformadora, el autor te enseña cómo renovar tu mente a través de verdades bíblicas, desarrollar una perspectiva cristiana del mundo, y responder preguntas fundamentales como: ¿De dónde vengo? ¿Para qué estoy aquí? ¿Qué es bueno y qué es malo? Además, brinda herramientas prácticas de apologética para defender tu fe y vivir con impacto en el mundo. \nUn recurso esencial para todo cristiano que desea crecer en madurez espiritual y experimentar la plenitud de vida que Cristo prometió.",
+    "category": "libros",
+    "image": "/images/books/100139.jpg",
+    "details": "",
+    "keywords": ["libros", "Miguel Núñez", "Vida Publishers", "cosmovisión", "apologética", "crecimiento espiritual", "Filosofía y fe", "ateos", "creencia racional", "escepticismo"]
+  },
+  {
+    "id": 100140,
+    "name": "Un pastor llamado Jesús",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Marco A Huerta",
+    "description": "Un Pastor Llamado Jesús es una profunda reflexión sobre la persona y el ministerio de Cristo, explorando siete virtudes esenciales que lo hacen único, admirable e inimitable: amor, vida consecuente, longanimidad, humildad, credibilidad, fe y gozo. A través de estas cualidades, el autor revela a Jesús como el modelo pastoral perfecto, completamente en sintonía con las profecías del Antiguo Testamento y radicalmente distinto a los líderes religiosos de su tiempo. \nEste libro es un llamado a la iglesia, y especialmente a sus líderes, a volver la mirada hacia el verdadero Pastor que transforma vidas, libera al pueblo y establece una relación cercana y auténtica entre Dios y sus hijos. Imitar a Jesús no es sencillo, pero es el único camino que garantiza dirección divina y fruto eterno. \nIdeal para pastores, líderes espirituales y creyentes que desean seguir el ejemplo del Buen Pastor.",
+    "category": "libros",
+    "image": "/images/books/100140.jpg",
+    "details": "",
+    "keywords": ["libros", "Marco A Huerta", "Publicaciones Kerigma", "Jesús", "pastoral", "cristo", "liderazgo", "discipulados"]
+  },
+  {
+    "id": 100141,
+    "name": "Hasta que ruja el león",
+    "price": "370.00",
+    "discount": 0,
+    "autor": "Miguel Núñez",
+    "description": "Hasta que ruja el León, del Dr. Miguel Núñez, es un análisis bíblico, teológico y práctico sobre la guerra espiritual, uno de los temas más ignorados y malinterpretados en el cristianismo. Cada día se libra una batalla en la mente del creyente, y este libro te ayuda a entender cómo enfrentarla con claridad y verdad. \nA través de ejemplos bíblicos desde Génesis hasta Apocalipsis, el autor explica qué es realmente la guerra espiritual, cómo opera el enemigo y cómo el creyente puede combatir eficazmente usando la armadura de Dios, especialmente la única arma ofensiva: la Palabra. Este libro te desafiará a mantenerte firme en la verdad, hasta el día en que el León de Judá ruja y venza para siempre. \nUn recurso vital para todo cristiano que desea vivir en victoria espiritual y fortalecer su fe.",
+    "category": "libros",
+    "image": "/images/books/100141.jpg",
+    "details": "",
+    "keywords": ["libros", "Miguel Núñez", "Vida", "Guerra espiritual", "armadura de Dios", "palabra de Dios"]
+  },
+  {
+    "id": 100146,
+    "name": "Llamado a liderar",
+    "price": "350.00",
+    "discount": 0,
+    "autor": "Joh Macarthur",
+    "description": "¿El liderazgo se define por un título, carisma o autoridad? En Llamado a liderar, el reconocido autor y pastor John MacArthur nos guía a través de 26 características esenciales del liderazgo basadas en la vida del apóstol Pablo. \nEste libro ofrece una perspectiva bíblica clara sobre cómo ser un líder que honra a Dios, mientras alcanza resultados efectivos, crecimiento, desarrollo personal y servicio a los demás. A través de las epístolas paulinas, MacArthur muestra cómo un liderazgo sólido puede y debe estar arraigado en la verdad de la Palabra, manteniendo la obediencia y la fe como fundamentos inquebrantables. \nUna guía indispensable para quienes desean liderar con convicción, integridad y propósito desde una perspectiva cristocéntrica.",
+    "category": "libros",
+    "image": "/images/books/100146.jpg",
+    "details": "",
+    "keywords": ["libros", "Joh Macarthur", "Vida", "Grupo Nelson", "Liderazgo en la iglesia", "negocios", "crecimiento", "Día del padre"]
+  },
+  {
+    "id": 100147,
+    "name": "Luchas",
+    "price": "290.00",
+    "discount": 0,
+    "autor": "Craig Groeshel",
+    "description": "Vivimos conectados, pero más desconectados que nunca. En Luchas, el autor y pastor Craig Groeschel aborda los efectos que la tecnología y las redes sociales han tenido en nuestra identidad, relaciones y espiritualidad. \nEste libro es una guía práctica para quienes anhelan reenfocar su vida en Cristo en medio de un mundo digital que promueve la comparación, la superficialidad y la ansiedad. A través de valores bíblicos esenciales como la autenticidad, la compasión, el descanso y la alegría, Groeschel te invita a dejar las máscaras virtuales y vivir una fe genuina. \nCon ejemplos reales y estudios actuales, este libro te ayudará a recuperar el control y redescubrir cómo es seguir a Jesús en medio de una cultura saturada de filtros y pantallas.",
+    "category": "libros",
+    "image": "/images/books/100147.jpg",
+    "details": "",
+    "keywords": ["libros", "Craig Groeshel", "Peniel", "principios bíblicos", "redes sociales", "tecnología", "libro para jóvenes", "libros para jóvenes"]
+  },
+  {
+    "id": 100148,
+    "name": "Cómo ganar en el trabajo y tener éxito en la vida",
+    "price": "280.00",
+    "discount": 0,
+    "autor": "Michael Hyatt, Megan Hyatt Miller",
+    "description": "¿Es posible tener una carrera exitosa sin sacrificar la salud, la familia o el bienestar personal? En Cómo ganar en el trabajo y tener éxito en la vida, Michael Hyatt y su hija Megan Hyatt Miller responden con un rotundo sí. \nBasado en décadas de experiencia como líderes y entrenadores, y respaldado por estudios en psicología y productividad, este libro es una guía práctica para alcanzar la \"doble victoria\": triunfar profesionalmente mientras disfrutas de una vida plena y significativa. Con principios claros, ejemplos reales y consejos aplicables, este libro te ayudará a romper con la cultura del exceso de trabajo y redescubrir una vida con propósito, equilibrio y sanidad. \nIdeal para líderes, emprendedores y cualquier persona que se sienta atrapada entre el éxito laboral y su vida personal.",
+    "category": "libros",
+    "image": "/images/books/100148.jpg",
+    "details": "",
+    "keywords": ["libros", "Michael Hyatt", "Megan Hyatt Miller", "Whitaker House", "Liderazgo" ,"negocios", "profesión", "vida personal"]
+  },
+  {
+    "id": 100149,
+    "name": "El líder pastor",
+    "price": "280.00",
+    "discount": 0,
+    "autor": "Timothy Witmer",
+    "description": "¿Cómo puede un líder de iglesia marcar una diferencia real y duradera en su congregación? En El líder pastor, Timothy Witmer, con años de experiencia como pastor y profesor, presenta una guía práctica y bíblica para ejercer un pastoreo estratégico y eficaz. \nEste libro expone los cuatro ministerios esenciales del pastor, los siete elementos clave de un plan de pastoreo saludable y herramientas útiles para fortalecer tanto a la iglesia como a sus miembros. El líder pastor es una obra clara y orientada a la acción, ideal para quienes desean guiar a su rebaño con propósito, estructura y fidelidad al llamado pastoral. \nUn recurso transformador para todo pastor o líder que anhela impactar de forma profunda a su comunidad.",
+    "category": "libros",
+    "image": "/images/books/100149.jpg",
+    "details": "",
+    "keywords": ["libros", "Timothy Witmer", "P&R Publishing", "Liderazgo pastoral", "pastores", "iglesia", "pastoreo"]
+  },
+  {
+    "id": 100150,
+    "name": "El pastor fructífero",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Tom Nelson",
+    "description": "En un mundo donde el desgaste pastoral es una realidad creciente, El pastor fructífero ofrece una guía profunda y alentadora para todo líder que anhela servir con fidelidad y permanecer firme en su llamado. Tom Nelson explora la figura bíblica del pastor líder y nos recuerda que, para dirigir bien, primero debemos ser guiados por el Buen Pastor. \nDesde su experiencia como pastor principal y presidente de una organización sin fines de lucro, Nelson brinda sabiduría práctica y espiritual para cultivar un liderazgo resiliente y duradero.",
+    "category": "libros",
+    "image": "/images/books/100150.jpg",
+    "details": "",
+    "keywords": ["libros", "Tom Nelson", "Vida", "Liderazgo pastoral", "pastores"]
+  },
+  {
+    "id": 100151,
+    "name": "La envidia de Eva",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Melissa Kruger",
+    "description": "¿Qué es lo que realmente impulsa nuestros deseos? En La envidia de Eva, Kristen Wetherell nos guía a través de verdades bíblicas para identificar cómo la codicia se forma en nuestro corazón, cómo afecta nuestra vida espiritual y cómo podemos combatirla con la verdad del evangelio. \nCon sabiduría y claridad, este libro expone cómo la envidia y el descontento pueden enraizarse profundamente, sofocando el fruto del Espíritu. A través del ejemplo de Eva y otros personajes bíblicos, la autora nos muestra que en el centro de la codicia está la incredulidad: no confiar plenamente en la soberanía y bondad de Dios. \nUn llamado profundo a examinar el corazón, reemplazar la mentira con la verdad, y vivir una vida que glorifique a Dios desde lo más profundo de nuestros deseos.",
+    "category": "libros",
+    "image": "/images/books/100151.jpg",
+    "details": "",
+    "keywords": ["libros", "Melissa Kruger", "Portavoz"]
+  },
+  {
+    "id": 100154,
+    "name": "Evidencia que demanda un veredicto",
+    "price": "950.00",
+    "discount": 0,
+    "autor": "Josh McDowell",
+    "description": "Defiende tu fe con verdad, evidencia y convicción. \nEvidencia que demanda un veredicto es un clásico de la apologética cristiana, completamente revisado y actualizado para responder a los desafíos del mundo actual. Esta obra esencial proporciona argumentos sólidos, descubrimientos arqueológicos y referencias históricas para afirmar la fiabilidad de la Biblia y la veracidad del cristianismo. \nIdeal para estudiantes, líderes, predicadores y todo creyente que desea fortalecer su fe y responder con claridad en un contexto cada vez más escéptico y secular.",
+    "category": "libros",
+    "image": "/images/books/100154.jpg",
+    "details": "",
+    "keywords": ["libros", "Josh McDowell", "Mundo Hispano", "Apologética", "Filosofía y fe", "defensa de la fe"]
+  },
+  {
+    "id": 100157,
+    "name": "¡Ayuda! Estoy casada con mi pastor",
+    "price": "270.00",
+    "discount": 0,
+    "autor": "Jani Ortlund",
+    "description": "El ministerio puede ser hermoso, pero también desgastante, especialmente para quienes lo viven desde el rol silencioso y exigente de ser esposa del pastor. En este libro lleno de empatía, sabiduría y aliento, Jani Ortlund —esposa de pastor por casi cincuenta años— abre su corazón y ofrece consejos honestos y prácticos para las mujeres que enfrentan los retos únicos de esta posición. \n¿Qué pasa cuando la vida en el ministerio no es lo que imaginabas? ¿Cómo lidiar con las expectativas de otros, los errores de tus hijos o incluso los chismes dentro de la iglesia? Jani aborda estos temas con ternura y verdad, recordando a las lectoras que Dios obra con propósito en medio de sus sacrificios y que no están solas. \nEste libro no es una guía rígida, sino una conversación sincera entre amigas, que invita a encontrar consuelo, propósito y fortaleza en Cristo mientras se vive una vida que muchas veces ocurre entre bastidores. \nUna herramienta invaluable para esposas de pastores, líderes femeninas o cualquier mujer que sirva en la iglesia.",
+    "category": "libros",
+    "image": "/images/books/100157.jpg",
+    "details": "",
+    "keywords": ["libros", "Jani Ortlund", "Patmos", "Ayuda a ministros", "Vida pastoral", "matrimonio", "ministerio", "mujer", "mujeres", "pastores"]
+  },
+  {
+    "id": 100163,
+    "name": "Sí, Señor",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Fermín IV",
+    "description": "Sí, Señor relata cómo Dios transformó radicalmente la vida de Fermín IV, una figura icónica del rap mexicano, en un testimonio vivo de redención. Lo que comienza como una memoria de fama, drogas y excesos, se convierte en una historia poderosa de cómo el amor de Dios puede cambiar incluso las vidas más alejadas. \nEste libro es tanto una crónica personal como una inspiración espiritual. Desde los escenarios y letras incendiarias hasta el púlpito de una de las iglesias más grandes de la Ciudad de México, Fermín IV comparte cómo pasó de cantar sobre la oscuridad del mundo a predicar sobre la luz de Cristo. \nUna lectura impactante para quienes han sentido el llamado de Dios en medio de su caos.",
+    "category": "libros",
+    "image": "/images/books/100163.jpg",
+    "details": "",
+    "keywords": ["libros", "Fermín IV", "B&H Español", "redención", "testimonio", "vida cristiana"]
+  },
+  {
+    "id": 100165,
+    "name": "El significado del matrimonio",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Timothy Keller",
+    "description": "El significado del matrimonio no es solo un manual práctico para relaciones exitosas, sino una profunda reflexión espiritual sobre lo que realmente es el matrimonio según Dios. Basado en una reconocida serie de sermones, Timothy Keller —junto a su esposa Kathy— nos invita a redescubrir el propósito divino del matrimonio en un mundo que ha distorsionado su esencia. \nEste libro es ideal para cristianos, solteros, parejas comprometidas, matrimonios jóvenes y veteranos, así como para escépticos curiosos que buscan comprender cómo el matrimonio puede ser mucho más que romance y conveniencia. A través de sabiduría bíblica y experiencias reales, Keller confronta ideas comunes y erradas como la del alma gemela, el amor como base única, o el divorcio como escape.",
+    "category": "libros",
+    "image": "/images/books/100165.jpg",
+    "details": "",
+    "keywords": ["libros", "Timothy Keller", "B&H Español", "matrimonios", "parejas", "relación matrimonial"]
+  },
+  {
+    "id": 100168,
+    "name": "La Gran Historia: Libro interactivo de relatos bíblicos",
+    "price": "350.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Gran Historia es un libro interactivo de relatos bíblicos diseñado especialmente para niños, que presenta la Biblia como una narrativa continua con Jesucristo como el hilo conductor de principio a fin. Este recurso no solo enseña las historias más importantes de la Biblia, sino que también ayuda a los más pequeños a comprender el plan de salvación desde una edad temprana, fortaleciendo así su crecimiento espiritual y su fe. \nIncluye 145 historias con ilustraciones originales a todo color, cada una acompañada por una sección llamada «Conexión con Cristo», que les muestra a los niños cómo cada historia apunta a Jesús. Además, integra una aplicación gratuita de realidad aumentada, con más de 100 imágenes en 3D que cobran vida visual y auditivamente, y códigos QR que enlazan a videos animados para enriquecer la experiencia. Este enfoque innovador transforma el tiempo de lectura en una experiencia inmersiva, educativa y espiritual.",
+    "category": "infantil",
+    "image": "/images/books/100168.jpg",
+    "details": "",
+    "keywords": ["libros", "B&H Español", "cuentos", "libros", "niños", "niñas", "infantil", "interactivo"]
+  },
+  {
+    "id": 100175,
+    "name": "Tu vocación y la Biblia",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "Howard Andruejol",
+    "description": "La vocación es una de las decisiones más importantes en la vida, especialmente para los jóvenes que buscan dirección con propósito. Tu vocación y la Biblia es un recurso único diseñado para un mes completo de programación, ideal para grupos juveniles o estudios personales. \nEste material ofrece cuatro lecciones inductivas basadas en la Palabra de Dios que promueven conversaciones profundas, activas y honestas sobre el llamado personal, guiando a los jóvenes a descubrir cómo su propósito se conecta con la voluntad de Dios. Con un enfoque bíblico claro y relevante, este libro ayuda a tomar decisiones informadas y espiritualmente fundamentadas. \nUna herramienta práctica y poderosa para aquellos que desean alinear sus planes con los propósitos eternos.",
+    "category": "libros",
+    "image": "/images/books/100175.jpg",
+    "details": "",
+    "keywords": ["libros", "E625", "Howard Andruejol", "lecciones", "propósito", "jovenes"]
+  },
+  {
+    "id": 100176,
+    "name": "Apaga el celular y enciende tu cerebro",
+    "price": "350.00",
+    "discount": 0,
+    "autor": "Pablo Muñoz Iturrieta",
+    "description": "Vivimos en una era donde las notificaciones mandan, el contenido nunca se detiene y la mente humana se ve atrapada por el constante bombardeo digital. Apaga el celular y enciende tu cerebro, del Dr. Pablo Muñoz Iturrieta, es una poderosa invitación a recuperar el control de tu mente, reenfocarte en lo que realmente importa y liberarte del dominio tecnológico que amenaza con apagar tu pensamiento crítico. \nCon claridad y respaldo científico, el autor no solo expone los efectos negativos del uso excesivo de pantallas, redes sociales y entretenimiento digital, sino que ofrece una propuesta práctica para vivir con atención, propósito y dominio propio. Este libro no es solo un llamado a la reflexión, sino una guía urgente para reconectar con tu humanidad en medio de un mundo virtual que intenta reemplazar la realidad.",
+    "category": "libros",
+    "image": "/images/books/100176.jpg",
+    "details": "",
+    "keywords": ["libros", "Nelson", "Pablo Muñoz Iturrieta", "Crianza", "Familia", "digital", "familia", "IA", "metaverso", "streaming", "tecnología"]
+  },
+  {
+    "id": 100177,
+    "name": "Artesano",
+    "price": "230.00",
+    "discount": 0,
+    "autor": "Alex Sampedro",
+    "description": "Artesano es un libro que conecta la creatividad con la espiritualidad. Explora cómo Dios, el gran Creador, ha diseñado a cada ser humano con un propósito y una capacidad única para expresar Su identidad a través del arte, la vocación y el servicio. \nEste libro ofrece una profunda reflexión sobre el valor del trabajo bien hecho, la belleza en lo cotidiano y la importancia de vivir intencionalmente. Es una invitación a redescubrir tu llamado como una obra maestra en manos del Creador y a vivir como un reflejo vivo de su arte.",
+    "category": "libros",
+    "image": "/images/books/100177.jpg",
+    "details": "",
+    "keywords": ["libros", "e625", "Alex Sampedro", "Eclesiología", "jóvenes", "arte", "creatividad", "vocación", "expresión artística", "diseño divino"]
+  },
+  {
+    "id": 100178,
+    "name": "El poder de la esposa que ora (Bolsillo)",
+    "price": "140.00",
+    "discount": 0,
+    "autor": "Stormie Omartian",
+    "description": "La preocupación no cambia nada… pero la oración lo cambia todo. En este inspirador libro, Stormie Omartian comparte cómo su matrimonio fue transformado cuando comenzó a orar intencionalmente por su esposo. A través de ejemplos personales y principios bíblicos, descubrirás cómo Dios puede obrar en áreas clave como el liderazgo, la fe, la salud, el trabajo y las emociones de tu esposo. \nEl Poder de la Esposa que Ora es una guía práctica y poderosa para toda mujer que anhela fortalecer su matrimonio y ver a Dios actuar en lo más profundo de su relación. ¡Una herramienta esencial para quienes creen en el poder de la oración!",
+    "category": "libros",
+    "image": "/images/books/100178.jpg",
+    "details": "",
+    "keywords": ["libros", "Unilit", "Stormie Omartian", "Bolsillo", "oración", "matrimonio", "libro para mujeres", "libros para mujeres"]
+  },
+  {
+    "id": 100179,
+    "name": "Predicación al siguiente nivel",
+    "price": "230.00",
+    "discount": 0,
+    "autor": "Andrés Spyker",
+    "description": "La predicación no se trata solo de hablar desde un púlpito, sino de comunicar el mensaje de Dios con fidelidad, claridad y poder transformador. En este libro, el pastor Andrés Spyker —reconocido por su pasión y efectividad en la enseñanza bíblica— comparte sus ideas, secretos y mejores prácticas para preparar y predicar mensajes relevantes, sólidos y llenos de vida. \nPredicación al siguiente nivel es una herramienta valiosa para pastores, líderes y todo aquel que desee crecer en su llamado a comunicar la Palabra con excelencia y convicción.",
+    "category": "libros",
+    "image": "/images/books/100179.jpg",
+    "details": "",
+    "keywords": ["libros", "e625", "Andrés Spyker", "Homilética", "predicadores"]
+  },
+
+
+
+
+
+
+
+
 
 
 
@@ -414,16 +1586,696 @@
 
 
   {
-    "id": 100153,
-    "name": "Biblia Inspira NTV, Tapa dura de SentiPiel, Lavanda",
-    "price": "880.00",
+    "id": 100089,
+    "name": "Biblia RVR 1960, letra grande, tapa dura, León de Judá",
+    "price": "450.00",
     "discount": 0,
     "autor": "",
-    "description": "Una de las biblias más populares en español.",
+    "description": "Una edición especial de la Santa Biblia Reina-Valera 1960, perfecta tanto para uso personal como para regalar. Su encuadernación elegante y resistente incluye cinta marcadora, canto blanco y página para dedicatoria, ideal para ocasiones significativas. \nLas palabras de Cristo están resaltadas en rojo, e incluye hermosas imágenes a todo color de Tierra Santa. Liviana y práctica, esta Biblia es ideal para llevar contigo a la iglesia, leer diariamente o tenerla como tu compañera espiritual en cualquier lugar.",
+    "category": "biblias",
+    "image": "/images/bibles/100089.jpg",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera 1960", "RVR 1960", "RVR60", "Tapa dura", "letra grande", "Jesús en rojo", "Negra", "Negro", "Biblias negras", "Biblia negra", "Biblias color negro", "Biblia color negro", "Biblia para hombres", "Biblias para hombres"],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "14.3 x 22.0 x 2.8 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Negra"
+    }
+  },
+  {
+    "id": 100090,
+    "name": "Biblia RVR 1960, letra grande, tapa dura, nombres de Dios, flores",
+    "price": "450.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Con un diseño floral delicado y lleno de vida, esta Biblia Reina Valera 1960 es perfecta para llevar a todas partes. Su letra grande facilita la lectura diaria, y su formato manual la convierte en una excelente opción para el estudio personal, el uso en la iglesia o como un regalo especial. \nIncluye una concordancia bíblica amplia, más de 10,000 referencias cruzadas, palabras de Jesús en rojo y encabezados visibles para encontrar fácilmente los pasajes. Además, esta edición viene con una sección especial de dedicatoria, un plan de salvación y 16 páginas a color con imágenes de la Tierra Santa, junto con 5 formas cristianas de apoyo a Israel. \nUna Biblia completa, liviana y hermosa, ideal para mujeres cristianas que quieren profundizar en la Palabra de Dios con una presentación significativa y práctica.",
+    "category": "biblias",
+    "image": "/images/bibles/100090.jpg",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera 1960", "RVR 1960", "RVR60", "Tapa dura", "letra grande", "Jesús en rojo", "flores", "Biblia para mujeres", "Biblias para mujeres"],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 10.5 puntos )",
+      "Dimensiones": "14.2 x 22.0 x 3.2 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100091,
+    "name": "Biblia RVR 1960, letra grande, tapa dura, nombres de Dios, flores azules",
+    "price": "450.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Esta hermosa Biblia combina la belleza clásica de la Reina Valera Revisada 1960 con un diseño elegante de flores azules. Su formato liviano y práctico la convierte en una excelente compañera para la lectura diaria, el estudio personal y como un regalo significativo. \nContiene letra grande de fácil lectura, concordancia bíblica, encabezados visibles, más de 10,000 referencias cruzadas, y las palabras de Jesús en rojo. Además, incluye una sección de dedicatoria, plan de salvación, cinta marcadora, 5 formas cristianas de apoyo a Israel y 16 páginas a todo color con imágenes de la Tierra Santa. \nIdeal para quienes buscan una Biblia funcional, hermosa y profundamente edificante.",
+    "category": "biblias",
+    "image": "/images/bibles/100091.jpg",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera 1960", "RVR 1960", "RVR60", "Tapa dura", "letra grande", "Jesús en rojo", "flores", "Biblia para mujeres", "Biblias para mujeres"],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 10.5 puntos )",
+      "Dimensiones": "14.2 x 22.0 x 3.2 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100100,
+    "name": "Biblia NTV, letra grande, con referencias, ultrafina",
+    "price": "800.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Santa Biblia NTV, Edición de Referencia Ultrafina Letra Grande ofrece una experiencia de lectura muy cómoda gracias a su tipografía amplia y un diseño delgado y práctico. Esta edición de lujo incluye el reconocido sistema de estudio de palabras NTV, junto con un diccionario e índice de términos en hebreo y griego, una concordancia útil para ubicar fácilmente pasajes clave, y completas introducciones a cada libro bíblico. Además, cuenta con las palabras de Cristo en rojo, una cinta marcadora para señalar tu lectura, cantos dorados que le dan un toque elegante, mapas a todo color para visualizar los escenarios bíblicos, y una hermosa página de presentación. Ideal para el estudio personal, la enseñanza y también como un regalo especial.",
+    "category": "biblias",
+    "image": "/images/bibles/100100.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Traducción Viviente", "NTV", "letra grande", "Jesús en rojo", "Biblia para mujeres", "Biblias para mujeres", "rosa"],
+    "features": {
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "17.0 x 24.6 x 3.2 cm",
+      "Formato": "SentiPiel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "blanco/beige"
+    }
+  },
+  {
+    "id": 100153,
+    "name": "Biblia Inspira NTV, Tapa dura de SentiPiel, Lavanda",
+    "price": "900.00",
+    "discount": 0,
+    "autor": "",
+    "description": "¡La Biblia que inspira tu creatividad! \nLa Biblia Inspira NTV te invita a conectar con Dios de una manera artística y personal. Con una presentación en columna sencilla y márgenes amplios para escribir, reflexionar o dibujar, esta Biblia incluye más de 400 ilustraciones originales para colorear, diseñadas por artistas latinoamericanos. \nPerfecta para momentos devocionales, para regalar o para compartir en grupos pequeños. La Biblia Inspira no solo nutre tu fe, sino también tu creatividad, haciéndola una experiencia única y transformadora.",
     "category": "biblias",
     "image": "/images/bibles/100153.jpg",
-    "details": "Incluye mapas, referencias cruzadas, y concordancia.",
-    "keywords": ["biblia", "biblias", "nueva traduccion", "nueva traduccion viviente", "ntv"]
+    "details": "",
+    "keywords": [ "biblias", "Tyndale", "nueva traduccion", "nueva traduccion viviente", "ntv", "Biblia para mujeres", "Biblias para mujeres", "Biblia para jovenes", "Biblias para jovenes"],
+    "features": {
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Mediana ( 8.5 puntos )",
+      "Dimensiones": "16 x 4.5 x 21.5 cm",
+      "Formato": "Tapa  dura, SentiPiel",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100237,
+    "name": "Biblia Inspira NTV, SentiPiel, Acuarela",
+    "price": "900.00",
+    "discount": 0,
+    "autor": "",
+    "description": "¡La Biblia que inspira tu creatividad! \nLa Biblia Inspira NTV te invita a conectar con Dios de una manera artística y personal. Con una presentación en columna sencilla y márgenes amplios para escribir, reflexionar o dibujar, esta Biblia incluye más de 400 ilustraciones originales para colorear, diseñadas por artistas latinoamericanos. \nPerfecta para momentos devocionales, para regalar o para compartir en grupos pequeños. La Biblia Inspira no solo nutre tu fe, sino también tu creatividad, haciéndola una experiencia única y transformadora.",
+    "category": "biblias",
+    "image": "/images/bibles/100237.jpg",
+    "details": "",
+    "keywords": [ "biblias", "Tyndale", "nueva traduccion", "nueva traduccion viviente", "ntv", "Biblia para mujeres", "Biblias para mujeres", "Biblia para jovenes", "Biblias para jovenes"],
+    "features": {
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Mediana ( 8.5 puntos )",
+      "Dimensiones": "16 x 4.5 x 21.5 cm",
+      "Formato": "SentiPiel",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100364,
+    "name": "Biblia Inspira NTV, SentiPiel, Oro",
+    "price": "900.00",
+    "discount": 0,
+    "autor": "",
+    "description": "¡La Biblia que inspira tu creatividad! \nLa Biblia Inspira NTV te invita a conectar con Dios de una manera artística y personal. Con una presentación en columna sencilla y márgenes amplios para escribir, reflexionar o dibujar, esta Biblia incluye más de 400 ilustraciones originales para colorear, diseñadas por artistas latinoamericanos. \nPerfecta para momentos devocionales, para regalar o para compartir en grupos pequeños. La Biblia Inspira no solo nutre tu fe, sino también tu creatividad, haciéndola una experiencia única y transformadora.",
+    "category": "biblias",
+    "image": "/images/bibles/100364.jpg",
+    "details": "",
+    "keywords": [ "biblias", "Tyndale", "nueva traduccion", "nueva traduccion viviente", "ntv", "Biblia para mujeres", "Biblias para mujeres", "Biblia para jovenes", "Biblias para jovenes"],
+    "features": {
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Mediana ( 8.5 puntos )",
+      "Dimensiones": "16 x 4.5 x 21.5 cm",
+      "Formato": "SentiPiel",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100363,
+    "name": "Biblia Inspira NTV, SentiPiel, Paraíso floral",
+    "price": "920.00",
+    "discount": 0,
+    "autor": "",
+    "description": "¡La Biblia que inspira tu creatividad! \nLa Biblia Inspira NTV te invita a conectar con Dios de una manera artística y personal. Con una presentación en columna sencilla y márgenes amplios para escribir, reflexionar o dibujar, esta Biblia incluye más de 400 ilustraciones originales para colorear, diseñadas por artistas latinoamericanos. \nPerfecta para momentos devocionales, para regalar o para compartir en grupos pequeños. La Biblia Inspira no solo nutre tu fe, sino también tu creatividad, haciéndola una experiencia única y transformadora.",
+    "category": "biblias",
+    "image": "/images/bibles/100363.jpg",
+    "details": "",
+    "keywords": [ "biblias", "Tyndale", "nueva traduccion", "nueva traduccion viviente", "ntv", "Biblia para mujeres", "Biblias para mujeres", "Biblia para jovenes", "Biblias para jovenes"],
+    "features": {
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Mediana ( 8.5 puntos )",
+      "Dimensiones": "16 x 4.5 x 21.5 cm",
+      "Formato": "SentiPiel",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100142,
+    "name": "Biblia NTV, Edición personal, Duotono rosa con negro",
+    "price": "870.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Esta Biblia NTV (Nueva Traducción Viviente) en tamaño mediano y con letra grande, presenta un diseño elegante en dúo tono rosa y negro, ideal para quienes desean leer con mayor comodidad sin perder portabilidad. La NTV es una traducción fiel a los textos originales y redactada en un español claro y contemporáneo.",
+    "category": "biblias",
+    "image": "/images/bibles/100142.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Traducción Viviente", "NTV", "letra grande", "Jesús en rojo", "Biblia para mujeres", "Biblias para mujeres", "rosa"],
+    "features": {
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "15.2 x 22.0 x 4.0 cm",
+      "Formato": "SentiPiel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "rosa/negro"
+    }
+  },
+  {
+    "id": 100143,
+    "name": "Biblia edición artística NVI – Azul",
+    "price": "850.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Explora la belleza de la Palabra con esta elegante Biblia NVI Edición Artística. Con una cubierta de tela azul de acabado suave y diseño pintado a mano, esta Biblia combina arte, funcionalidad y durabilidad. Su presentación en tapa dura, cantos dorados con diseño artístico y márgenes amplios con líneas punteadas la convierten en la opción ideal para quienes desean tomar notas, dibujar o expresar su creatividad mientras estudian la Biblia. \nIncluye el texto completo de la Nueva Versión Internacional (NVI) en formato de una sola columna, impreso en la exclusiva tipografía Comfort Print®, diseñada para brindar una lectura fluida y cómoda. Las palabras de Jesús están resaltadas en rojo, y cuenta con dos cintas marcadoras para facilitar el estudio y la devoción diaria.",
+    "category": "biblias",
+    "image": "/images/bibles/100143.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Version Internacional", "NVI", "letra mediana", "Jesús en rojo", "Biblia para mujeres", "Biblias para mujeres", "azul", "Biblia artística", "Biblia de tela", "Biblia creativa"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Mediana ( 9 puntos )",
+      "Dimensiones": "16.4 x 21.0 x 4.0 cm",
+      "Formato": "Tapa dura con tela",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "azul"
+    }
+  },
+  {
+    "id": 100144,
+    "name": "Biblia NTV, letra grande, Fiusha Rosa, Flores",
+    "price": "870.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia Mediana Personal con Letra Grande en la traducción NTV (Nueva Traducción Viviente) es ideal para quienes buscan una lectura clara, profunda y accesible. Con un hermoso diseño en color rosa, esta edición combina practicidad con elegancia, ofreciendo un tamaño cómodo para llevar a todas partes y una letra grande que facilita su lectura diaria.",
+    "category": "biblias",
+    "image": "/images/bibles/100144.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Traducción Viviente", "NTV", "letra grande", "Jesús en rojo", "Biblia para mujeres", "Biblias para mujeres", "rosa", "fiusha"],
+    "features": {
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "15.0 x 22.0 x 3.5 cm",
+      "Formato": "SentiPiel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "fiusha/rosa"
+    }
+  },
+  {
+    "id": 100145,
+    "name": "Biblia Telos para jóvenes NVI",
+    "price": "900.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Diseñada especialmente para estudiantes de secundaria y universitarios, la Biblia Telos NVI es una herramienta poderosa para ayudar a los jóvenes a profundizar en su fe y comprender lo que la Palabra de Dios dice sobre los temas que más les importan. Con un enfoque contextualmente relevante, esta Biblia reta y anima a la nueva generación a conocer y seguir a Jesús. \nIncluye recursos prácticos como introducciones a los libros bíblicos, planes de lectura, preguntas clave con respuestas esenciales y sugerencias para escribir un diario espiritual. Todo esto convierte a la Biblia Telos en una guía accesible y útil para el crecimiento espiritual de los jóvenes, ayudándolos a encontrar dirección, propósito y verdad en la Palabra de Dios. \nIdeal para jóvenes en búsqueda de respuestas reales y fe auténtica",
+    "category": "biblias",
+    "image": "/images/bibles/100145.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra mediana", "Biblia para jovenes", "Biblias para jovenes", "azul"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Mediana ( 8 puntos )",
+      "Dimensiones": "16.4 x 21.0 x 3.1 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100159,
+    "name": "Biblia Luz en mi camino corazones, NVI multicolor símil piel",
+    "price": "480.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia Luz en mi Camino Corazones es un hermoso recurso diseñado especialmente para que los niños descubran y disfruten la Palabra de Dios desde temprana edad. Con encuadernación en símil piel multicolor y una encantadora portada de corazones, esta edición combina ternura y funcionalidad. \nIncluye páginas ilustradas a todo color que hacen más amena y visual la experiencia de lectura, acercando a los más pequeños al mensaje de la Biblia de una manera clara y atractiva. La traducción utilizada es la Nueva Versión Internacional (NVI), reconocida por su fidelidad al texto original y su lenguaje accesible para las nuevas generaciones.",
+    "category": "biblias",
+    "image": "/images/bibles/100159.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra mediana", "Biblia para niños", "Biblias para niños", "Biblia para niñas", "Biblias para niñas", "rosa"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Dimensiones": "12.0 x 19.0 x 3.0 cm",
+      "Formato": "Imitación piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Rosa"
+    }
+  },
+  {
+    "id": 100161,
+    "name": "Biblia del Pescador NVI Letra Grande, Verde Símil Piel",
+    "price": "650.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia del Pescador NVI en letra grande es una poderosa herramienta diseñada para quienes desean profundizar en la Palabra de Dios y aplicarla de forma práctica a los distintos aspectos de la vida. Encuadernada en un elegante tono verde en símil piel, combina funcionalidad, claridad y propósito evangelístico. \nEsta edición utiliza la Nueva Versión Internacional (NVI), ideal por su lenguaje claro y contemporáneo. Su característica principal es una guía temática de 28 páginas que aborda seis áreas fundamentales: consejería, devoción, evangelismo, iglesia, doctrina cristiana y apologética. Cada tema guía al lector a través de una cadena de versículos acompañados de breves comentarios que lo conducen paso a paso por la enseñanza bíblica sobre el asunto tratado.",
+    "category": "biblias",
+    "image": "/images/bibles/100161.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra grande", "Biblia de estudio", "Biblias de estudio", "Apologética", "Evangelismo"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "16.2 x 23.7 x 3.0 cm",
+      "Formato": "Imitación piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Verde"
+    }
+  },
+  {
+    "id": 100162,
+    "name": "Biblia RVR 1960 letra grande, tela verde con flores",
+    "price": "400.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Con una hermosa encuadernación de lujo en tela verde decorada con flores, esta edición de la Santa Biblia Reina Valera 1960 es ideal tanto para uso personal como para regalo. Su diseño elegante incluye una página para dedicatoria y una cinta marcadora, lo que la convierte en una opción especial y significativa. \nGracias a su letra grande y a las palabras de Cristo en rojo, esta Biblia facilita la lectura y la meditación en la Palabra de Dios. Esta edición mantiene la belleza y el estilo clásico de la traducción RVR 1960, en un formato liviano, práctico y duradero.",
+    "category": "biblias",
+    "image": "/images/bibles/100162.jpg",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera 1960", "RVR 1960", "RVR60", "Tapa dura", "letra grande", "Jesús en rojo", "flores", "Biblia para mujeres", "Biblias para mujeres"],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 10.5 puntos )",
+      "Dimensiones": "14.0 x 22.0 x 3.0 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Verde"
+    }
+  },
+  {
+    "id": 100164,
+    "name": "Biblia de la mamá ocupada NVI",
+    "price": "650.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia de la Mamá Ocupada NVI es la compañera perfecta para aquellas madres que desean conectar con Dios en medio de sus múltiples responsabilidades. Con un tamaño práctico y un diseño encantador en color turquesa, esta Biblia está diseñada para brindar momentos significativos con la Palabra de Dios, incluso en los días más ajetreados. \nIncluye 52 devocionales de un minuto, especialmente pensados para madres, con contenidos que abordan la crianza, el matrimonio, las emociones y la identidad en Cristo. Cada devocional puede ampliarse con una reflexión de cinco minutos o un estudio bíblico de diez minutos, adaptándose a tu tiempo disponible y ayudándote a profundizar en tu relación con Dios. \nEs ideal para mujeres que desean seguir creciendo espiritualmente sin importar lo ocupada que esté su agenda diaria.",
+    "category": "biblias",
+    "image": "/images/bibles/100164.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra grande", "Biblia para mujeres", "Biblias para mujeres", "Mamás"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "16.8 x 24.4 x 2.1 cm",
+      "Formato": "Imitación piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Turquesa"
+    }
+  },
+  {
+    "id": 100498,
+    "name": "Biblia de la mamá ocupada RVR 1960",
+    "price": "770.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia de la Mamá Ocupada RVR 1960 es la compañera perfecta para aquellas madres que desean conectar con Dios en medio de sus múltiples responsabilidades. Con un tamaño práctico y un diseño encantador en color turquesa, esta Biblia está diseñada para brindar momentos significativos con la Palabra de Dios, incluso en los días más ajetreados. \nIncluye 52 devocionales de un minuto, especialmente pensados para madres, con contenidos que abordan la crianza, el matrimonio, las emociones y la identidad en Cristo. Cada devocional puede ampliarse con una reflexión de cinco minutos o un estudio bíblico de diez minutos, adaptándose a tu tiempo disponible y ayudándote a profundizar en tu relación con Dios. \nEs ideal para mujeres que desean seguir creciendo espiritualmente sin importar lo ocupada que esté su agenda diaria.",
+    "category": "biblias",
+    "image": "/images/bibles/100498.jpg",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera 1960", "RVR 1960", "RVR60", "letra grande", "Biblia para mujeres", "Biblias para mujeres", "Mamás"],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "16.8 x 24.4 x 2.1 cm",
+      "Formato": "Imitación piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Magenta"
+    }
+  },
+  {
+    "id": 100166,
+    "name": "Biblia de Estudio para Mujeres RVR 1960",
+    "price": "900.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia de Estudio para Mujeres es una poderosa herramienta espiritual diseñada para equipar a las lectoras con un estudio bíblico profundo, claro y centrado en su identidad como hijas de Dios. \nContiene recursos únicos como introducciones a cada libro, perfiles de personajes bíblicos, devocionales “Grabado en mi corazón”, estudios de palabras clave, bosquejos, doctrinas fundamentales, herramientas para el estudio bíblico, preguntas difíciles, enseñanzas sobre la feminidad bíblica, y mucho más. Además, incluye concordancia, mapas a color, cinta separadora, canto blanco y contenido visual como tablas y cuadros de transliteración. Todo esto está presentado en un diseño elegante sin índice, ideal para un estudio individual o grupal.",
+    "category": "biblias",
+    "image": "/images/bibles/100166.jpg",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera 1960", "RVR 1960", "RVR60", "letra grande", "Biblia para mujeres", "Biblias para mujeres", "Biblias de estudio", "Biblias de estudio para la mujer"],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "16.6 x 24.2 x 4.0 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100167,
+    "name": "Biblia NVI  Letra Súper Gigante Negro, Piel Fabricada Cuero",
+    "price": "800.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia NVI Letra Súper Gigante ha sido diseñada especialmente para quienes buscan una lectura cómoda, sin esfuerzo, gracias a su letra extragrande, ideal para estudio o devocionales prolongados. Su encuadernación en piel fabricada color negro le da un toque elegante y duradero, perfecta para el uso diario o como regalo especial. \nIncluye el texto completo de la Nueva Versión Internacional (NVI), la traducción contemporánea más leída en español, acompañada de referencias en cadena, panorama histórico de la Biblia, concordancia, plan de lectura anual, y glosario de términos. También ofrece herramientas como bosquejos e introducciones a cada libro, la armonía de los Evangelios, los atributos de Jesús, y una selección de palabras de aliento para el caminar diario con Dios. Los mapas a todo color y las 1,792 páginas en formato amplio (7.7 x 10.9 pulgadas) completan esta edición ideal para quienes desean una experiencia de lectura clara y enriquecedora.",
+    "category": "biblias",
+    "image": "/images/bibles/100167.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra super gigante", "Biblia para hombres", "Biblias para hombres", "Negra"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Super Gigante ( 19 puntos )",
+      "Dimensiones": "19.3 x 4.03 x 27.69 cm",
+      "Formato": "Piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Negra"
+    }
+  },
+  {
+    "id": 100170,
+    "name": "Biblia NVI Ultrafina Letra grande, Tela colores",
+    "price": "800.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia NVI Ultrafina Letra Grande combina elegancia, funcionalidad y claridad en una presentación ligera y moderna. Con encuadernación en tela de colores y diseño ultrafino, esta Biblia es perfecta para llevar a todas partes sin sacrificar la facilidad de lectura. \nSu tipografía Comfort Print®, desarrollada exclusivamente para la Nueva Versión Internacional (2022), proporciona una lectura clara y descansada para lectores de todas las edades. Incluye palabras de Jesús en rojo, notas de traducción, diccionario/concordancia y ocho páginas de mapas a todo color que enriquecen la comprensión del texto bíblico. \nIdeal para uso personal, devocional o como regalo especial, esta Biblia es una herramienta práctica para quien busca profundidad espiritual y belleza en un solo volumen.",
+    "category": "biblias",
+    "image": "/images/bibles/100170.png",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra grande", "Biblia para mujeres", "Biblias para mujeres"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "16.9 x 24.5 x 3.0 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100171,
+    "name": "Biblia NVI Ultrafina Compacta, con Cierre (Juan 16:33)",
+    "price": "730.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Diseñada para quienes buscan llevar la Palabra de Dios a todas partes, la Biblia NVI Ultrafina Compacta con cierre combina portabilidad, belleza y una lectura cómoda. Su presentación en tono lila con cierre y la cita de Juan 16:33 en la cubierta la convierten en una Biblia ideal para el uso diario, devocionales personales o como regalo especial. \nCon tan solo 2.5 cm de grosor y encuadernación Leathersoft™, esta edición compacta contiene el texto completo de la Nueva Versión Internacional (2022), la traducción contemporánea más leída en español. Incluye palabras de Jesús en rojo, cinta marcadora, formato de doble columna y la exclusiva tipografía Comfort Print® que garantiza una experiencia de lectura clara y placentera, a pesar de su tamaño reducido. \nPerfecta para la iglesia, el estudio bíblico, la oficina o los viajes, esta Biblia ofrece practicidad sin perder elegancia y profundidad espiritual.",
+    "category": "biblias",
+    "image": "/images/bibles/100171.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra grande", "Biblia para mujeres", "Biblias para mujeres"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Mediana ( 7 puntos )",
+      "Dimensiones": "12.7 x 20.0 x 2.7 cm",
+      "Formato": "Imitación Piel",
+      "Índice": "No",
+      "Cierre": "Si",
+      "Color": "Lila"
+    }
+  },
+  {
+    "id": 100172,
+    "name": "Biblia ultrafina NVI, Azul marino",
+    "price": "750.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Ideal para quienes buscan una Biblia práctica y elegante, esta Biblia NVI Ultrafina Compacta en imitación piel azul marino combina portabilidad, estilo y claridad. Es perfecta para llevar a la iglesia, a reuniones de estudio bíblico o para acompañarte en tus viajes. \nContiene el texto completo de la Nueva Versión Internacional (NVI), con un formato de doble columna, palabras de Jesús en rojo y una cinta marcadora de satén. Ideal para lectores de todas las edades. \nSu encuadernación en Leathersoft azul marino le da un toque sofisticado y resistente, ideal para el uso diario y como regalo especial.",
+    "category": "biblias",
+    "image": "/images/bibles/100172.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra grande", "Biblia para hombres", "Biblias para hombres"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "16.5 x 24.5 x 2.7 cm",
+      "Formato": "Imitación Piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Azul marino"
+    }
+  },
+  {
+    "id": 100173,
+    "name": "Biblia ultrafina NVI, Negro",
+    "price": "750.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Ideal para quienes buscan una Biblia práctica y elegante, esta Biblia NVI Ultrafina Compacta en imitación piel negro combina portabilidad, estilo y claridad. Es perfecta para llevar a la iglesia, a reuniones de estudio bíblico o para acompañarte en tus viajes. \nContiene el texto completo de la Nueva Versión Internacional (NVI), con un formato de doble columna, palabras de Jesús en rojo y una cinta marcadora de satén. Ideal para lectores de todas las edades. \nSu encuadernación en Leathersoft negro le da un toque sofisticado y resistente, ideal para el uso diario y como regalo especial.",
+    "category": "biblias",
+    "image": "/images/bibles/100173.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra grande", "Biblia para hombres", "Biblias para hombres"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "16.5 x 24.5 x 2.7 cm",
+      "Formato": "Imitación Piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Negro"
+    }
+  },
+  {
+    "id": 100174,
+    "name": "Biblia NVI del lector",
+    "price": "830.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La NVI Biblia del Lector es una experiencia diferente de lectura bíblica: elimina capítulos, versículos y subtítulos para que puedas sumergirte en las Escrituras como una narrativa fluida y continua. Este formato único te permite reencontrarte con el mensaje de la Biblia tal como lo harían sus primeros lectores, sin interrupciones artificiales. \nDiseñada en una hermosa tapa dura forrada en tela color vino, con texto a una sola columna y un diseño limpio y espacioso, esta Biblia invita a una lectura reflexiva y profunda. Al no estar dividida en capítulos y versículos, te permite enfocarte en el contexto completo y el desarrollo de los mensajes divinos a lo largo del texto. \nIdeal para lectores que desean una experiencia bíblica renovada, más cercana y coherente, la Biblia del Lector transformará tu manera de relacionarte con la Palabra de Dios.",
+    "category": "biblias",
+    "image": "/images/bibles/100174.jpg",
+    "details": "",
+    "keywords": ["biblias", "Nueva Versión Internacional", "NVI", "letra grande", "Biblia para hombres", "Biblias para hombres"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Grande ( 10 puntos )",
+      "Dimensiones": "14.22 x 4.32 x 22.35 cm",
+      "Formato": "Tapa dura forrada en tela",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Vino"
+    }
+  },
+  {
+    "id": 100180,
+    "name": "Biblia Arte RVC, Aqua, Tapa Dura",
+    "price": "1,300.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Una Biblia para inspirArte, motivArte, emocionArte y expresArte. \nBibliArte es mucho más que una Biblia: es un espacio creativo donde la Palabra de Dios y tu expresión artística se encuentran. Con 52 devocionales semanales especialmente pensados para la reflexión personal, y acceso en audio mediante códigos QR, esta edición está diseñada para acompañarte durante todo un año en tu caminar espiritual. \nSus amplios márgenes te invitan a dejar fluir tu creatividad a través del arte, el dibujo o el journaling. Además, incluye lettering con versículos bíblicos inspiradores que te animarán a profundizar en la lectura de la Escritura mientras disfrutas del proceso creativo. \nRedescubre el talento que Dios te dio, con una Biblia que alimenta tu alma y despierta tu arte: ¡eso es BibliArte!",
+    "category": "biblias",
+    "image": "/images/bibles/100180.jpg",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera Contemporánea", "RVC", "letra grande", "Bibliarte", "Biblia para mujeres", "Biblias para mujeres", "Biblia para jovenes", "Biblias para jovenes"],
+    "features": {
+      "Versión": "Reina Valera Contemporánea",
+      "Tamaño de letra": "Grande ( 10 puntos )",
+      "Dimensiones": "6.5 x 17.5 x 24.0 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Aqua"
+    }
+  },
+  {
+    "id": 100181,
+    "name": "Biblia Arte RVC, Rosa, Tapa Dura",
+    "price": "1,300.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Una Biblia para inspirArte, motivArte, emocionArte y expresArte. \nBibliArte es mucho más que una Biblia: es un espacio creativo donde la Palabra de Dios y tu expresión artística se encuentran. Con 52 devocionales semanales especialmente pensados para la reflexión personal, y acceso en audio mediante códigos QR, esta edición está diseñada para acompañarte durante todo un año en tu caminar espiritual. \nSus amplios márgenes te invitan a dejar fluir tu creatividad a través del arte, el dibujo o el journaling. Además, incluye lettering con versículos bíblicos inspiradores que te animarán a profundizar en la lectura de la Escritura mientras disfrutas del proceso creativo. \nRedescubre el talento que Dios te dio, con una Biblia que alimenta tu alma y despierta tu arte: ¡eso es BibliArte!",
+    "category": "biblias",
+    "image": "/images/bibles/100181.png",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera Contemporánea", "RVC", "letra grande", "Bibliarte", "Biblia para mujeres", "Biblias para mujeres", "Biblia para jovenes", "Biblias para jovenes"],
+    "features": {
+      "Versión": "Reina Valera Contemporánea",
+      "Tamaño de letra": "Grande ( 10 puntos )",
+      "Dimensiones": "6.5 x 17.5 x 24.0 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Rosa"
+    }
+  },
+  {
+    "id": 100182,
+    "name": "Biblia RVR 1960, Nombres de Dios, Cantar de Cantares",
+    "price": "425.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia RVR 1960 Nombres de Dios – Cantar de los Cantares, tapa dura es una edición que destaca por su elegancia y significado espiritual. Combina la belleza clásica y la elocuencia de la Reina Valera Revisada 1960 con la esencia visual de la Tierra Santa a través de preciosas imágenes a todo color. Gracias a su encuadernación en tapa dura, es liviana y práctica, ideal tanto para el uso diario como para obsequiar. \nSu letra grande de 12.5 puntos proporciona una lectura cómoda y fluida, acompañada por una concordancia también en letra grande. Incluye las palabras de Cristo en rojo, encabezados claros que permiten ubicar fácilmente los pasajes y más de 10,000 referencias cruzadas para enriquecer tu estudio bíblico. \nEsta edición especial también incluye una dedicatoria, un útil plan de salvación, una cinta marcadora, cinco formas cristianas de apoyar a Israel y 16 páginas con imágenes a todo color que te conectan visualmente con la Tierra Santa. Una Biblia pensada para inspirarte, aprender y compartir tu fe.",
+    "category": "biblias",
+    "image": "/images/bibles/100182.jpg",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera 1960", "RVR 1960", "RVR60", "Tapa dura", "letra grande", "Jesús en rojo", "flores", "Biblia para mujeres", "Biblias para mujeres"],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "13.97 x 2.54 x 21.84 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+
+
+
+
+
+
+
+
+
+  
+
+  {
+    "id": 100065,
+    "name": "La Biblia para todos los niños",
+    "price": "170.00",
+    "discount": 0,
+    "autor": "",
+    "description": "¡Una Biblia pensada especialmente para los más pequeños! Esta nueva edición de la Biblia para Todos los Niños viene con tapa acolchada, detalles en brillo y plateado que la hacen aún más atractiva. Con 277 páginas a todo color, reúne las historias bíblicas más destacadas en un formato accesible y visualmente atractivo para niños de 3 a 8 años. Ideal para introducir a los niños al mensaje de la Biblia de una manera clara, sencilla y llena de ilustraciones encantadoras.",
+    "category": "biblias,infantil",
+    "image": "/images/bibles/100065.png",
+    "details": "",
+    "keywords": ["biblias", "Biblia para niños", "Biblias para niños", "enseñanza", "historias bíblicas", "ilustraciones"]
+  },
+  {
+    "id": 100066,
+    "name": "La Biblia para todas las niñas",
+    "price": "170.00",
+    "discount": 0,
+    "autor": "",
+    "description": "¡Una Biblia pensada especialmente para los más pequeños! Esta nueva edición de la Biblia para Todas las Niñas viene con tapa acolchada, detalles en brillo y plateado que la hacen aún más atractiva. Con 277 páginas a todo color, reúne las historias bíblicas más destacadas en un formato accesible y visualmente atractivo para niños de 3 a 8 años. Ideal para introducir a los niños al mensaje de la Biblia de una manera clara, sencilla y llena de ilustraciones encantadoras.",
+    "category": "biblias,infantil",
+    "image": "/images/bibles/100066.png",
+    "details": "",
+    "keywords": ["biblias", "Biblia para niños", "Biblias para niños", "Biblia para niñas", "Biblias para niñas", "enseñanza", "historias bíblicas", "ilustraciones"]
+  },
+  {
+    "id": 100097,
+    "name": "Biblia Interactiva RVR 1960 para niños, tapa dura",
+    "price": "420.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Esta innovadora Biblia infantil en versión Reina Valera 1960 transforma la lectura en una aventura interactiva. Gracias a una aplicación especial, los niños pueden ver escenas bíblicas cobrar vida en realidad aumentada, mientras escuchan la narración de los eventos. Ideal para despertar la curiosidad y fortalecer la fe desde temprana edad. \nIncluye secciones como Conexiones con Cristo y Grandes preguntas y respuestas, que ayudan a los niños a entender el plan de Dios y cómo ellos forman parte de su historia. Una herramienta perfecta para compartir en familia, combinando tecnología y fe.",
+    "category": "biblias,infantil",
+    "image": "/images/bibles/100097.jpg",
+    "details": "",
+    "keywords": ["biblias", "Reina Valera 1960", "RVR 1960", "RVR60", "Biblia para niños", "Biblias para niños", "Biblia para niñas", "Biblias para niñas", "enseñanza", "historias bíblicas", "ilustraciones", "Biblia interactiva", "realidad aumentada"],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Formato": "Tapa dura, interactiva",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100109,
+    "name": "La Biblia épica: La historia de Dios desde el Edén hasta la eternidad",
+    "price": "620.00",
+    "discount": 0,
+    "autor": "Tyndale",
+    "description": "Descubre la historia de Dios desde el Edén hasta la eternidad como nunca antes. Esta Biblia gráfica combina narrativa bíblica con impresionantes ilustraciones al estilo cómic, creadas por reconocidos artistas de DC y Marvel. Perfecta para jóvenes, nuevos lectores o cualquier persona que desee experimentar la Palabra de Dios de forma visual y emocionante. Con 169 historias bíblicas presentadas en un formato dinámico y a todo color, esta edición ofrece una manera única de conectar con la narrativa bíblica de principio a fin.",
+    "category": "biblias,infantil",
+    "image": "/images/bibles/100109.jpg",
+    "details": "",
+    "keywords": ["libros", "Biblia para niños", "Biblias para niños", "libro para niños", "libros para niños", "libro para niñas", "libros para niñas", "Comics", "adolescentes", "evangelio", "historieta", "jóvenes", "Tyndale" ]
+  },
+  {
+    "id": 100132,
+    "name": "La Biblia en acción",
+    "price": "600.00",
+    "discount": 0,
+    "autor": "Sergio Cariello, Doug Mauss",
+    "description": "Sumérgete en más de 200 historias bíblicas presentadas en orden cronológico para comprender mejor el hilo histórico de la Palabra de Dios. Esta obra combina narraciones claras y accesibles con impresionantes ilustraciones del reconocido artista Sergio Cariello, dando vida a los relatos con colores vibrantes, sombras intensas y escenas llenas de emoción. Perfecta para todas las edades, esta Biblia ilustrada permite experimentar la historia más grandiosa jamás contada de una manera visualmente impactante y espiritualmente significativa.",
+    "category": "biblias,infantil",
+    "image": "/images/books/100132.jpg",
+    "details": "",
+    "keywords": ["libros", "Sergio Cariello", "Doug Mauss", "David C Cook", "Biblia para niños", "Biblias para niños", "libro para niños", "libros para niños", "libro para niñas", "libros para niñas", "Comics", "adolescentes",  "historietas", "jóvenes"]
+  },
+  {
+    "id": 100155,
+    "name": "Biblia Amigos por siempre verde – TLA",
+    "price": "270.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Diseñada especialmente para niños, esta edición de la Traducción en Lenguaje Actual (TLA) ofrece un texto claro y fácil de comprender, acompañado de ilustraciones a todo color que hacen que cada historia cobre vida. Con una tapa dura plastificada y un formato cómodo, esta Biblia está pensada para resistir el uso diario de los más pequeños. \nSu encuadernación cosida le brinda mayor durabilidad, y cuenta con una página especial para dedicatoria, perfecta para regalar. También incluye un práctico marcador de tela para señalar los pasajes favoritos. Lo que la hace aún más especial es que incorpora 56 láminas intercaladas en el texto bíblico, ideales para ayudar a fijar las verdades bíblicas en la mente y corazón del niño. \nAdemás, viene con una concordancia de 122 páginas, junto con notas, glosario de nombres y términos, mapas en blanco y negro, y otras ayudas suplementarias que guían a los niños en sus primeros pasos en la lectura de la Palabra de Dios.",
+    "category": "biblias,infantil",
+    "image": "/images/bibles/100155.jpg",
+    "details": "",
+    "keywords": ["biblias", "Biblia para niños", "Biblias para niños", "Biblia para niñas", "Biblias para niñas", "Traducción en lenguaje actual", "TLA"],
+    "features": {
+      "Versión": "Traducción en Lenguaje Actual",
+      "Formato": "Tapa dura",
+      "Dimensiones": "11.0 x 15.5 x 3.5 cm",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100156,
+    "name": "Biblia Amigos por siempre naranja – TLA",
+    "price": "270.00",
+    "discount": 0,
+    "autor": "",
+    "description": "Diseñada especialmente para niños, esta edición de la Traducción en Lenguaje Actual (TLA) ofrece un texto claro y fácil de comprender, acompañado de ilustraciones a todo color que hacen que cada historia cobre vida. Con una tapa dura plastificada y un formato cómodo, esta Biblia está pensada para resistir el uso diario de los más pequeños. \nSu encuadernación cosida le brinda mayor durabilidad, y cuenta con una página especial para dedicatoria, perfecta para regalar. También incluye un práctico marcador de tela para señalar los pasajes favoritos. Lo que la hace aún más especial es que incorpora 56 láminas intercaladas en el texto bíblico, ideales para ayudar a fijar las verdades bíblicas en la mente y corazón del niño. \nAdemás, viene con una concordancia de 122 páginas, junto con notas, glosario de nombres y términos, mapas en blanco y negro, y otras ayudas suplementarias que guían a los niños en sus primeros pasos en la lectura de la Palabra de Dios.",
+    "category": "biblias,infantil",
+    "image": "/images/bibles/100156.jpg",
+    "details": "",
+    "keywords": ["biblias", "Biblia para niños", "Biblias para niños", "Biblia para niñas", "Biblias para niñas", "Traducción en lenguaje actual", "TLA"],
+    "features": {
+      "Versión": "Traducción en Lenguaje Actual",
+      "Formato": "Tapa dura",
+      "Dimensiones": "11.0 x 15.5 x 3.5 cm",
+      "Índice": "No",
+      "Cierre": "No"
+    }
+  },
+  {
+    "id": 100169,
+    "name": "Biblia para niños NVI",
+    "price": "460.00",
+    "discount": 0,
+    "autor": "",
+    "description": "La Biblia para Niños NVI es la elección perfecta para acompañar a los pequeños en sus primeros pasos en la fe. Con el texto completo de la Nueva Versión Internacional (2022), esta edición ha sido diseñada especialmente para niños entre 8 y 12 años, haciendo que la lectura de la Biblia sea clara, amena y atractiva. \nIncluye una variedad de ayudas de estudio adaptadas a su edad como secciones sobre Los milagros de Jesús, Los nombres de Dios y Los niños en la Biblia, así como recursos que fomentan la memorización y comprensión de las Escrituras. Contiene también glosario, planes de lectura, mapas a todo color, espacio para notas o dibujos, y una resistente encuadernación ideal para acompañarlos por años. \nCon herramientas dinámicas, visuales y prácticas, esta Biblia invita a los niños a disfrutar de la Palabra de Dios y a conocerlo de manera personal desde temprana edad, ya sea que la lean por su cuenta o en familia.",
+    "category": "biblias,infantil",
+    "image": "/images/bibles/100169.jpg",
+    "details": "",
+    "keywords": ["biblias", "Biblia para niños", "Biblias para niños", "Biblia para niñas", "Biblias para niñas", "Nueva Versión Internacional", "NVI", "azul"],
+    "features": {
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Mediana ( 9.5 puntos )",
+      "Dimensiones": "13.9 x 22.1 x 3.0 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Azul"
+    }
   }
 ]
   

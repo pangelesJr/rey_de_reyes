@@ -37,8 +37,8 @@ const banners: {
     title: '¡Haz tu pedido por WhatsApp!',
     description: 'Contáctanos para hacer tu pedido. ¡Ordena ahora y recibe un servicio personalizado!',
     backgroundColor: null,
-    srcDesktop: '/images/flyer-whatsapp-descktop.png',
-    srcMobile: '/images/flyer-whatsapp-mobile.png',
+    srcDesktop: '/images/flyers/flyer-whatsapp-descktop.png',
+    srcMobile: '/images/flyers/flyer-whatsapp-mobile.png',
     alt: 'Banner 1',
     buttons: [
       {
@@ -54,8 +54,8 @@ const banners: {
     title: null,
     description: null,
     backgroundColor: null,
-    srcDesktop: '/images/flyer-redes-desktop.png',
-    srcMobile: '/images/flyer-redes-mobile.png',
+    srcDesktop: '/images/flyers/flyer-redes-desktop.png',
+    srcMobile: '/images/flyers/flyer-redes-mobile.png',
     alt: 'Banner 2',
     buttons: [
         {
@@ -78,8 +78,8 @@ const banners: {
     title: null,
     description: null,
     backgroundColor: null,
-    srcDesktop: '/images/flyer-envios-desktop.png',
-    srcMobile: '/images/flyer-envios-mobile.png',
+    srcDesktop: '/images/flyers/flyer-envios-desktop.png',
+    srcMobile: '/images/flyers/flyer-envios-mobile.png',
     alt: 'Banner 3',
     buttons: [],
   }

@@ -57,9 +57,9 @@ export default function Footer() {
                 </Typography>
                 <List sx={{ padding: 0, textAlign: 'center' }}>
                   {[
-                    { href: "/category/novedades", label: "Maś vendidos" },
+                    { href: "/category/masvendidos", label: "Maś vendidos" },
                     { href: "/category/novedades", label: "Novedades" },
-                    { href: "/category/promociones", label: "Ofertas" },
+                    { href: "/category/ofertas", label: "Ofertas" },
                     { href: "/category/biblias", label: "Biblias" },
                     { href: "/category/libros", label: "Libros" },
                     { href: "/category/infantil", label: "Infantil" },
