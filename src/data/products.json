@@ -1,12 +1,57 @@
 [
   {
+    "id": 100547,
+    "name": "Cartas del diablo a su sobrino",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "C. S. Lewis",
+    "description": "",
+    "category": "libros,novedades",
+    "image": "/images/books/100547.jpg",
+    "details": "",
+    "keywords": [
+      "libros",
+      "C. S. Lewis"
+    ]
+  },
+  {
+    "id": 100548,
+    "name": "Mero cristianismo",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "C. S. Lewis",
+    "description": "",
+    "category": "libros,novedades",
+    "image": "/images/books/100548.jpg",
+    "details": "",
+    "keywords": [
+      "libros",
+      "C. S. Lewis"
+    ]
+  },
+  {
+    "id": 100549,
+    "name": "Revolución de la iglesia",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Marcos Codd, Ricardo Codd",
+    "description": "",
+    "category": "libros,novedades",
+    "image": "/images/books/100549.jpg",
+    "details": "",
+    "keywords": [
+      "libros",
+      "Marcos Codd, Ricardo Codd"
+    ]
+  },
+  {
     "id": 100003,
     "name": "Siervos para su gloria",
     "price": "300.00",
     "discount": 5,
     "autor": "Miguel Núñez",
     "description": "Descubre en este libro cómo el pastor Núñez nos guía a través de la Escritura para entender la importancia de cultivar una vida interior sólida. Aprenderás que solo al fortalecer nuestra base espiritual podremos sostener lo que hacemos en el día a día, evitando los fracasos que surgen cuando el \"hacer\" se convierte en nuestra única prioridad.",
-    "category": "libros,novedades,ofertas",
+    "category": "libros,ofertas",
     "image": "/images/books/100003.jpg",
     "details": "",
     "keywords": [
@@ -431,7 +476,7 @@
   },
   {
     "id": 100037,
-    "name": "El Burrito Que Cargó a Un Rey",
+    "name": "El burrito que cargó a un rey",
     "price": "220.00",
     "discount": 0,
     "autor": "R. C. Sproul",
@@ -476,7 +521,7 @@
     "discount": 10,
     "autor": "Steve Ham",
     "description": "En La Atracción hacia el Mismo Sexo y el Evangelio, Steve Ham ofrece una enseñanza clara y profunda sobre la perspectiva bíblica del género, la sexualidad y las relaciones humanas. Más que una exposición teológica, este libro relata una historia personal de cómo el poder transformador del evangelio puede liberar a aquellos atrapados en la atracción hacia el mismo sexo. Con sensibilidad y convicción, Ham muestra cómo la gracia de Cristo es capaz de renovar vidas y ofrecer verdadera esperanza a través de la fe.",
-    "category": "libros",
+    "category": "libro,ofertas",
     "image": "/images/books/100039.jpg",
     "details": "",
     "keywords": [
@@ -649,7 +694,7 @@
     "discount": 5,
     "autor": "Karla de Fernandez",
     "description": "El deseo de ser aceptados, valorados y amados puede llevarnos a vivir esclavizados por la opinión de los demás. Ese miedo constante al rechazo, a no ser suficientes o a decepcionar, afecta nuestras relaciones, decisiones y hasta nuestra fe. Este libro expone con claridad cómo la sed de aprobación puede dominar nuestras vidas y nos invita a encontrar verdadera libertad. Con sensibilidad y verdad bíblica, Karla de Fernández nos recuerda que ni la validación más anhelada podrá satisfacer el vacío del alma. Solo al temer a Dios con un temor reverente y transformador podemos romper las cadenas del temor a las personas y descansar en nuestra identidad en Cristo.",
-    "category": "libros",
+    "category": "libros,ofertas",
     "image": "/images/books/100049.jpg",
     "details": "",
     "keywords": [
@@ -691,7 +736,7 @@
     "discount": 10,
     "autor": "Agustín Laje",
     "description": "Vivimos en una época marcada por la disolución del diálogo entre generaciones y el auge de una cultura adolescente que ha penetrado profundamente en la política, la educación y la sociedad. Este libro plantea una crítica frontal a esa mentalidad dominante, señalando cómo la juventud ha sido moldeada por discursos que promueven el conformismo disfrazado de rebeldía, el empoderamiento vacío y una falsa autenticidad. \n Con un enfoque directo y provocador, Agustín Laje propone un llamado a despertar: a rechazar el adoctrinamiento cultural, recuperar el pensamiento crítico y comprometerse con una verdadera transformación social. Inspirado en la visión clásica del \"idiota\" como aquel ajeno a los asuntos públicos, el autor reta a las nuevas generaciones a dejar la pasividad y sumarse a una batalla cultural urgente y necesaria.",
-    "category": "libros",
+    "category": "libros,ofertas",
     "image": "/images/books/100051.jpg",
     "details": "",
     "keywords": [
@@ -3120,7 +3165,7 @@
   {
     "id": 100145,
     "name": "Biblia Telos para jóvenes NVI",
-    "price": "900.00",
+    "price": "820.00",
     "discount": 0,
     "autor": "",
     "description": "Diseñada especialmente para estudiantes de secundaria y universitarios, la Biblia Telos NVI es una herramienta poderosa para ayudar a los jóvenes a profundizar en su fe y comprender lo que la Palabra de Dios dice sobre los temas que más les importan. Con un enfoque contextualmente relevante, esta Biblia reta y anima a la nueva generación a conocer y seguir a Jesús. \nIncluye recursos prácticos como introducciones a los libros bíblicos, planes de lectura, preguntas clave con respuestas esenciales y sugerencias para escribir un diario espiritual. Todo esto convierte a la Biblia Telos en una guía accesible y útil para el crecimiento espiritual de los jóvenes, ayudándolos a encontrar dirección, propósito y verdad en la Palabra de Dios. \nIdeal para jóvenes en búsqueda de respuestas reales y fe auténtica",
@@ -3179,6 +3224,7 @@
     "id": 100161,
     "name": "Biblia del Pescador NVI Letra Grande, Verde Símil Piel",
     "price": "650.00",
+    "stock": 0,
     "discount": 0,
     "autor": "",
     "description": "La Biblia del Pescador NVI en letra grande es una poderosa herramienta diseñada para quienes desean profundizar en la Palabra de Dios y aplicarla de forma práctica a los distintos aspectos de la vida. Encuadernada en un elegante tono verde en símil piel, combina funcionalidad, claridad y propósito evangelístico. \nEsta edición utiliza la Nueva Versión Internacional (NVI), ideal por su lenguaje claro y contemporáneo. Su característica principal es una guía temática de 28 páginas que aborda seis áreas fundamentales: consejería, devoción, evangelismo, iglesia, doctrina cristiana y apologética. Cada tema guía al lector a través de una cadena de versículos acompañados de breves comentarios que lo conducen paso a paso por la enseñanza bíblica sobre el asunto tratado.",
@@ -3496,8 +3542,9 @@
   },
   {
     "id": 100180,
-    "name": "Biblia Arte RVC, Aqua, Tapa Dura",
+    "name": "Bibliarte RVC, Aqua, Tapa Dura",
     "price": "1,300.00",
+    "stock": 0,
     "discount": 0,
     "autor": "",
     "description": "Una Biblia para inspirArte, motivArte, emocionArte y expresArte. \nBibliArte es mucho más que una Biblia: es un espacio creativo donde la Palabra de Dios y tu expresión artística se encuentran. Con 52 devocionales semanales especialmente pensados para la reflexión personal, y acceso en audio mediante códigos QR, esta edición está diseñada para acompañarte durante todo un año en tu caminar espiritual. \nSus amplios márgenes te invitan a dejar fluir tu creatividad a través del arte, el dibujo o el journaling. Además, incluye lettering con versículos bíblicos inspiradores que te animarán a profundizar en la lectura de la Escritura mientras disfrutas del proceso creativo. \nRedescubre el talento que Dios te dio, con una Biblia que alimenta tu alma y despierta tu arte: ¡eso es BibliArte!",
@@ -3527,8 +3574,9 @@
   },
   {
     "id": 100181,
-    "name": "Biblia Arte RVC, Rosa, Tapa Dura",
+    "name": "Bibliarte RVC, Rosa, Tapa Dura",
     "price": "1,300.00",
+    "stock": 0,
     "discount": 0,
     "autor": "",
     "description": "Una Biblia para inspirArte, motivArte, emocionArte y expresArte. \nBibliArte es mucho más que una Biblia: es un espacio creativo donde la Palabra de Dios y tu expresión artística se encuentran. Con 52 devocionales semanales especialmente pensados para la reflexión personal, y acceso en audio mediante códigos QR, esta edición está diseñada para acompañarte durante todo un año en tu caminar espiritual. \nSus amplios márgenes te invitan a dejar fluir tu creatividad a través del arte, el dibujo o el journaling. Además, incluye lettering con versículos bíblicos inspiradores que te animarán a profundizar en la lectura de la Escritura mientras disfrutas del proceso creativo. \nRedescubre el talento que Dios te dio, con una Biblia que alimenta tu alma y despierta tu arte: ¡eso es BibliArte!",
@@ -3631,10 +3679,10 @@
     "id": 100097,
     "name": "Biblia Interactiva RVR 1960 para niños, tapa dura",
     "price": "420.00",
-    "discount": 0,
+    "discount": 5,
     "autor": "",
     "description": "Esta innovadora Biblia infantil en versión Reina Valera 1960 transforma la lectura en una aventura interactiva. Gracias a una aplicación especial, los niños pueden ver escenas bíblicas cobrar vida en realidad aumentada, mientras escuchan la narración de los eventos. Ideal para despertar la curiosidad y fortalecer la fe desde temprana edad. \nIncluye secciones como Conexiones con Cristo y Grandes preguntas y respuestas, que ayudan a los niños a entender el plan de Dios y cómo ellos forman parte de su historia. Una herramienta perfecta para compartir en familia, combinando tecnología y fe.",
-    "category": "biblias,infantil",
+    "category": "biblias,infantil,ofertas",
     "image": "/images/bibles/100097.jpg",
     "details": "",
     "keywords": [
@@ -3663,6 +3711,7 @@
     "id": 100109,
     "name": "La Biblia épica: La historia de Dios desde el Edén hasta la eternidad",
     "price": "620.00",
+    "stock": 0,
     "discount": 0,
     "autor": "Tyndale",
     "description": "Descubre la historia de Dios desde el Edén hasta la eternidad como nunca antes. Esta Biblia gráfica combina narrativa bíblica con impresionantes ilustraciones al estilo cómic, creadas por reconocidos artistas de DC y Marvel. Perfecta para jóvenes, nuevos lectores o cualquier persona que desee experimentar la Palabra de Dios de forma visual y emocionante. Con 169 historias bíblicas presentadas en un formato dinámico y a todo color, esta edición ofrece una manera única de conectar con la narrativa bíblica de principio a fin.",
@@ -3683,33 +3732,6 @@
       "historieta",
       "jóvenes",
       "Tyndale"
-    ]
-  },
-  {
-    "id": 100132,
-    "name": "La Biblia en acción",
-    "price": "600.00",
-    "discount": 0,
-    "autor": "Sergio Cariello, Doug Mauss",
-    "description": "Sumérgete en más de 200 historias bíblicas presentadas en orden cronológico para comprender mejor el hilo histórico de la Palabra de Dios. Esta obra combina narraciones claras y accesibles con impresionantes ilustraciones del reconocido artista Sergio Cariello, dando vida a los relatos con colores vibrantes, sombras intensas y escenas llenas de emoción. Perfecta para todas las edades, esta Biblia ilustrada permite experimentar la historia más grandiosa jamás contada de una manera visualmente impactante y espiritualmente significativa.",
-    "category": "biblias,infantil",
-    "image": "/images/books/100132.jpg",
-    "details": "",
-    "keywords": [
-      "libros",
-      "Sergio Cariello",
-      "Doug Mauss",
-      "David C Cook",
-      "Biblia para niños",
-      "Biblias para niños",
-      "libro para niños",
-      "libros para niños",
-      "libro para niñas",
-      "libros para niñas",
-      "Comics",
-      "adolescentes",
-      "historietas",
-      "jóvenes"
     ]
   },
   {
@@ -3798,10 +3820,10 @@
   },
   {
     "id": 100001,
-    "name": "Biblia Reina Valera 1960 Edición Artística, Tapa Dura/Tela, Floral, Canto con Diseño, Letra Roja",
-    "price": 700.0,
+    "name": "Biblia RVR 1960 Edición artística, Tapa dura/tela, Floral",
+    "price": "800.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100001.jpg",
@@ -3823,12 +3845,12 @@
       "roja"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Mediana ( 9 puntos )",
+      "Dimensiones": "16.4 x 21.0 x 4.0 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
       "Color": ""
     }
   },
@@ -3859,12 +3881,12 @@
   },
   {
     "id": 100004,
-    "name": "Biblia de Apuntes, Rvr 1960 Edición Ilustrada, Tela En Rosado Y Azul Pasta dura",
-    "price": 650.0,
-    "discount": 0,
-    "autor": "Sin asignar",
+    "name": "Biblia de apuntes, RVR 1960 edición ilustrada, Tela en rosado y azul pasta dura",
+    "price": "650.00",
+    "discount": 10,
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,ofertas",
     "image": "/images/bibles/100004.jpg",
     "details": "",
     "keywords": [
@@ -3884,23 +3906,23 @@
       "dura"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Chica ( 8 puntos )",
+      "Dimensiones": "17.0 x 22.7 x 3.5 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Floreada"
     }
   },
   {
     "id": 100005,
-    "name": "Biblia de Apuntes, Rvr 1960, Negro Símil Piel Imitación piel",
-    "price": 700.0,
-    "discount": 0,
-    "autor": "Sin asignar",
+    "name": "Biblia de apuntes, RVR 1960, Negro símil piel, imitación piel",
+    "price": "700.00",
+    "discount": 10,
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,ofertas",
     "image": "/images/bibles/100005.jpg",
     "details": "",
     "keywords": [
@@ -3916,23 +3938,23 @@
       "piel"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Chica ( 8 puntos )",
+      "Dimensiones": "17.0 x 22.7 x 3.5 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Negro"
     }
   },
   {
     "id": 100006,
-    "name": "Biblia de Apuntes, Rvr 1960, Gris y Floreado, Tela Impresa Pasta dura",
-    "price": 660.0,
-    "discount": 0,
-    "autor": "Sin asignar",
+    "name": "Biblia de apuntes, RVR 1960, Gris y floreado",
+    "price": "660.00",
+    "discount": 10,
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,ofertas",
     "image": "/images/bibles/100006.jpg",
     "details": "",
     "keywords": [
@@ -3950,57 +3972,23 @@
       "dura"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100007,
-    "name": "Biblia del Pescador Rvr 1960  Letra Grande, Caoba Símil Piel Imitación piel",
-    "price": 450.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100007.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "del",
-      "pescador",
-      "rvr",
-      "1960",
-      "letra",
-      "grande",
-      "caoba",
-      "smil",
-      "piel",
-      "imitacin",
-      "piel"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Chica ( 8 puntos )",
+      "Dimensiones": "17.0 x 22.7 x 3.5 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Gris y floreado"
     }
   },
   {
     "id": 100008,
-    "name": "Biblia de Apuntes Rvr 1960 Edición Letra Grande, Piel Fabricada Y Mosaico Crema Y Azul Pasta dura",
-    "price": 800.0,
-    "discount": 0,
-    "autor": "Sin asignar",
+    "name": "Biblia de apuntes NVI, Letra Grande, Simil piel, Mosaico crema y azul",
+    "price": "900.00",
+    "discount": 10,
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,ofertas",
     "image": "/images/bibles/100008.jpg",
     "details": "",
     "keywords": [
@@ -4023,23 +4011,23 @@
       "dura"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "18.8 x 24.1 x 4.7 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Crema y azul"
     }
   },
   {
     "id": 100009,
-    "name": "Biblia de Apuntes, NVI Azulejos Color Salvia, Símil Piel",
-    "price": 700.0,
-    "discount": 0,
-    "autor": "Sin asignar",
+    "name": "Biblia de apuntes, NVI Azulejos, Color Salvia, Símil Piel",
+    "price": "800.00",
+    "discount": 10,
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,ofertas",
     "image": "/images/bibles/100009.jpg",
     "details": "",
     "keywords": [
@@ -4054,82 +4042,21 @@
       "piel"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100018,
-    "name": "BIBLIA 1960 T06 EDICION PROMESAS LILA RUSTICA LG",
-    "price": 230.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100018.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "t06",
-      "edicion",
-      "promesas",
-      "lila",
-      "rustica",
-      "lg"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100019,
-    "name": "BIBLIA 1960 T06 EDICION PROMESAS RUSTICA NEGRA LG PJR",
-    "price": 230.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100019.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "t06",
-      "edicion",
-      "promesas",
-      "rustica",
-      "negra",
-      "lg",
-      "pjr"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "18.8 x 24.1 x 4.7 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Salvia"
     }
   },
   {
     "id": 100020,
-    "name": "BIBLIA 1960 NOMBRES DE DIOS LG 10.5 TD LEON DE JUDAH COLORES",
-    "price": 450.0,
+    "name": "Biblia RVR 1960, Tapa dura, León de Juda, Colores",
+    "price": "450.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100020.jpg",
@@ -4149,21 +4076,21 @@
       "colores"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "14.3 x 22.0 x 2.8 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Colores"
     }
   },
   {
     "id": 100021,
-    "name": "BIBLIA 1960 T06 NOMBRES DE DIOS LEON REY DE REYES LG 10.5 TD GRIS",
-    "price": 450.0,
+    "name": "Biblia RVR 1960, Tapa dura, León de Juda, Gris",
+    "price": "450.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100021.jpg",
@@ -4185,23 +4112,23 @@
       "gris"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "14.3 x 22.0 x 2.8 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Gris"
     }
   },
   {
     "id": 100024,
-    "name": "BIBLIA NVI ILUSTRA TU FE PIEL ITALIANA VERDE PASTEL",
-    "price": 800.0,
-    "discount": 0,
-    "autor": "Sin asignar",
+    "name": "Biblia NVI Ilustra tu piel, Verde pastel",
+    "price": "900.00",
+    "discount": 10,
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,ofertas",
     "image": "/images/bibles/100024.jpg",
     "details": "",
     "keywords": [
@@ -4216,60 +4143,14 @@
       "pastel"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "17.8 x 24.5 x 4.0 cm",
+      "Formato": "Imitación piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Verde pastel"
     }
-  },
-  {
-    "id": 100030,
-    "name": "UN AÑO CON DIOS - 365 DEVOCIONALES DEL NT PARA LA MUJER",
-    "price": "280.00",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100030.jpg",
-    "details": "",
-    "keywords": [
-      "un",
-      "ao",
-      "con",
-      "dios",
-      "365",
-      "devocionales",
-      "del",
-      "nt",
-      "para",
-      "la",
-      "mujer"
-    ]
-  },
-  {
-    "id": 100031,
-    "name": "UN AÑO CON DIOS 365 DEVOCIONALES PARA LA MUJER",
-    "price": "320.00",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100031.jpg",
-    "details": "",
-    "keywords": [
-      "un",
-      "ao",
-      "con",
-      "dios",
-      "365",
-      "devocionales",
-      "para",
-      "la",
-      "mujer"
-    ]
   },
   {
     "id": 100040,
@@ -4292,70 +4173,13 @@
     ]
   },
   {
-    "id": 100099,
-    "name": "BIBLIA 1960 DE ESTUDIO HOLMAN TD",
-    "price": 920.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100099.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "de",
-      "estudio",
-      "holman",
-      "td"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100152,
-    "name": "BIBLIA TLA TAPA DURA MARRON LSGI PJR",
-    "price": 780.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100152.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "tla",
-      "tapa",
-      "dura",
-      "marron",
-      "lsgi",
-      "pjr"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100158,
-    "name": "Biblia de Apuntes NVI Blanco Y Azul Símil Piel",
+    "name": "Biblia de apuntes NVI,  Blanco y azul, Símil Piel",
     "price": 800.0,
-    "discount": 0,
+    "discount": 10,
     "autor": "Sin asignar",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,ofertas",
     "image": "/images/bibles/100158.jpg",
     "details": "",
     "keywords": [
@@ -4370,83 +4194,22 @@
       "piel"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100160,
-    "name": "Libro de colorear - Versículos de la Biblia para niñas",
-    "price": 250.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias,infantil",
-    "image": "/images/bibles/100160.jpg",
-    "details": "",
-    "keywords": [
-      "libro",
-      "de",
-      "colorear",
-      "versculos",
-      "de",
-      "la",
-      "biblia",
-      "para",
-      "nias"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100183,
-    "name": "BIBLIA 1960 NOMBRES DE DIOS JARDIN DE FLORES TURQUESA",
-    "price": 425.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100183.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "nombres",
-      "de",
-      "dios",
-      "jardin",
-      "de",
-      "flores",
-      "turquesa"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "18.8 x 24.1 x 4.7 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Blanco y azul"
     }
   },
   {
     "id": 100184,
-    "name": "BIBLIA NTV EDICION ZIPER NEGRA LEON",
-    "price": 470.0,
+    "name": "Biblia NTV Ziper Negra León",
+    "price": "470.00",
+    "stock": 0,
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100184.jpg",
@@ -4460,21 +4223,21 @@
       "leon"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "14.22 x 23.37 x 2.79 cm",
+      "Índice": "No",
+      "Cierre": "Si",
+      "Color": "Negro"
     }
   },
   {
     "id": 100185,
-    "name": "BIBLIA NTV EDICION ZIPER FLORES ROSA",
-    "price": 500.0,
+    "name": "Biblia NTV Ziper Flores Rosa",
+    "price": "500.00",
+    "stock": 0,
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100185.jpg",
@@ -4488,21 +4251,20 @@
       "rosa"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "14.22 x 23.37 x 2.79 cm",
+      "Índice": "No",
+      "Cierre": "Si",
+      "Color": "Flores Rosa"
     }
   },
   {
     "id": 100186,
-    "name": "BIBLIA NTV COMPACTA SENTIPIEL CAFE LG",
-    "price": 650.0,
+    "name": "Biblia NTV compacta Sentipiel Café",
+    "price": "650.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100186.jpg",
@@ -4516,21 +4278,20 @@
       "lg"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "12.19 x 18.8 cm x 3.81 cm ",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Café"
     }
   },
   {
     "id": 100187,
-    "name": "BIBLIA NVI CENTRADA EN CRISTO MATIZADA",
-    "price": 990.0,
+    "name": "Biblia NVI centrada en Cristo Matizada",
+    "price": "990.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100187.jpg",
@@ -4544,21 +4305,20 @@
       "matizada"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Nueva Versión Internacional",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "16.8 x 24.3 x 3.9 cm",
+      "Formato": "Símil piel",
+      "Índice": "No",
+      "Cierre": "No"
     }
   },
   {
     "id": 100188,
-    "name": "BIBLIA 1960 BODA DEVOCIONAL LOS LENGUAJES DEL AMOR IMIT PIEL BLANCO PERLA",
-    "price": 800.0,
+    "name": "Biblia de boda, RVR 1960, devocional, Lenguajes del Amor",
+    "price": "800.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100188.jpg",
@@ -4578,52 +4338,21 @@
       "perla"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100189,
-    "name": "BIBLIA 1960 BODA IP BLANCA SIN CAJA HOJAS PLATEADAS",
-    "price": 630.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100189.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "boda",
-      "ip",
-      "blanca",
-      "sin",
-      "caja",
-      "hojas",
-      "plateadas"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "16.5 x 22.6 x 3.7 cm",
+      "Formato": "Imitación piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Blanco Perla"
     }
   },
   {
     "id": 100190,
-    "name": "BIBLIA 1960 EDICION PARA BODAS TELA CHAMPAGNE ",
-    "price": 650.0,
+    "name": "Biblia recuerdo de boda RVR 1960",
+    "price": "700.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100190.jpg",
@@ -4631,28 +4360,27 @@
     "keywords": [
       "biblia",
       "1960",
-      "edicion",
-      "para",
-      "bodas",
-      "tela",
-      "champagne"
+      "recuerdo",
+      "de",
+      "boda",
+      "blanco"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "12.3 x 18.8 x 2.7 cm",
+      "Formato": "Simil piel",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Blanco"
     }
   },
   {
     "id": 100191,
-    "name": "BIBLIA 1960 RECUERDO DE BODA BLANCO",
-    "price": 650.0,
+    "name": "Biblia para boda, RVR 1960, Tapa dura/tela",
+    "price": "600.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100191.jpg",
@@ -4666,18 +4394,18 @@
       "blanco"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "14.0 x 22.3 x 3.5 cm",
+      "Formato": "Tapa dura con tela",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Crema"
     }
   },
   {
     "id": 100192,
-    "name": "EL PODER DE LOS PADRES QUE ORAN",
+    "name": "El poder de los padres que oran (Bolsillo)",
     "price": "150.00",
     "discount": 0,
     "autor": "Stormie Omartian",
@@ -4686,21 +4414,19 @@
     "image": "/images/books/100192.jpg",
     "details": "",
     "keywords": [
-      "el",
-      "poder",
-      "de",
-      "los",
-      "padres",
-      "que",
-      "oran",
-      "serie",
-      "favoritos",
-      "bolsillo"
+      "libros",
+      "Unilit",
+      "Stormie Omartian",
+      "Bolsillo",
+      "oración",
+      "libro para padres",
+      "libros para padres",
+      "hijos"
     ]
   },
   {
     "id": 100193,
-    "name": "EL PODER DEL ESPOSO QUE ORA",
+    "name": "EL PODER DEL ESPOSO QUE ORA (Bolsillo)",
     "price": "150.00",
     "discount": 0,
     "autor": "Stormie Omartian",
@@ -4709,15 +4435,12 @@
     "image": "/images/books/100193.jpg",
     "details": "",
     "keywords": [
-      "el",
-      "poder",
-      "del",
-      "esposo",
-      "que",
-      "ora",
-      "serie",
-      "favoritos",
-      "bolsillo"
+      "libros",
+      "Unilit",
+      "Stormie Omartian",
+      "Bolsillo",
+      "oración",
+      "matrimonios"
     ]
   },
   {
@@ -4731,14 +4454,15 @@
     "image": "/images/books/100194.jpg",
     "details": "",
     "keywords": [
-      "el",
-      "nos",
-      "entiende"
+      "libros",
+      "Nelson",
+      "Max Lucado",
+      "esperanza"
     ]
   },
   {
     "id": 100195,
-    "name": "DESARROLLE EL LIDER QUE ESTA EN USTED",
+    "name": "Desarrolle el líder que está en usted",
     "price": "330.00",
     "discount": 0,
     "autor": "John Maxwell",
@@ -4747,18 +4471,18 @@
     "image": "/images/books/100195.jpg",
     "details": "",
     "keywords": [
-      "desarrolle",
-      "el",
+      "libros",
+      "Nelson",
+      "John Maxwell",
+      "familia",
+      "iglesia",
       "lider",
-      "que",
-      "esta",
-      "en",
-      "usted"
+      "liderazgo"
     ]
   },
   {
     "id": 100196,
-    "name": "DE PASTORES Y PREDICADORES",
+    "name": "De pastores y predicadores",
     "price": "350.00",
     "discount": 0,
     "autor": "Miguel Núñez",
@@ -4767,20 +4491,24 @@
     "image": "/images/books/100196.jpg",
     "details": "",
     "keywords": [
-      "de",
+      "libros",
+      "Holman",
+      "Miguel Núñez",
+      "miniterio pastoral",
       "pastores",
-      "y",
+      "pastoral",
+      "predicacion",
       "predicadores"
     ]
   },
   {
     "id": 100197,
-    "name": "MENTIRAS QUE LAS NIÑAS CREEN - GUIA PARA MAMAS",
-    "price": 330.0,
+    "name": "Mentiras que las niñas creen Guía para mamás",
+    "price": "300.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Dannah Gresh",
     "description": "",
-    "category": "infantil",
+    "category": "libros,infantil",
     "image": "/images/books/100197.jpg",
     "details": "",
     "keywords": [
@@ -4831,6 +4559,92 @@
     ]
   },
   {
+    "id": 100229,
+    "name": "Biblia infográfica para niños",
+    "price": "330.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "biblias,infantil",
+    "image": "/images/books/100229.jpg",
+    "details": "",
+    "keywords": [
+      "biblia",
+      "infografica",
+      "1",
+      "para",
+      "nios",
+      "de",
+      "0",
+      "a",
+      "99",
+      "aos"
+    ],
+    "features": {
+      "Versión": "",
+      "Tamaño de letra": "",
+      "Dimensiones": "",
+      "Formato": "",
+      "Índice": "",
+      "Cierre": "",
+      "Color": ""
+    }
+  },
+  {
+    "id": 100203,
+    "name": "Biblia infográfica para niños Volumen 2",
+    "price": "330.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "biblias,infantil",
+    "image": "/images/books/100203.jpg",
+    "details": "",
+    "keywords": [
+      "biblia",
+      "infografica",
+      "2"
+    ],
+    "features": {
+      "Versión": "",
+      "Tamaño de letra": "",
+      "Dimensiones": "",
+      "Formato": "",
+      "Índice": "",
+      "Cierre": "",
+      "Color": ""
+    }
+  },
+  {
+    "id": 100204,
+    "name": "Biblia infográfica para niños: Guía épica a Jesús",
+    "price": "330.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "biblias,infantil",
+    "image": "/images/books/100204.jpg",
+    "details": "",
+    "keywords": [
+      "biblia",
+      "infografica",
+      "3",
+      "guia",
+      "epica",
+      "a",
+      "jesus"
+    ],
+    "features": {
+      "Versión": "",
+      "Tamaño de letra": "",
+      "Dimensiones": "",
+      "Formato": "",
+      "Índice": "",
+      "Cierre": "",
+      "Color": ""
+    }
+  },
+    {
     "id": 100200,
     "name": "JESÚS Y LA ENORME SORPRESA",
     "price": "230.00",
@@ -4880,82 +4694,11 @@
     ]
   },
   {
-    "id": 100203,
-    "name": "BIBLIA INFOGRAFICA 2",
-    "price": 330.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100203.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "2"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100204,
-    "name": "BIBLIA INFOGRAFICA 3 GUIA EPICA A JESUS",
-    "price": 330.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100204.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "3",
-      "guia",
-      "epica",
-      "a",
-      "jesus"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100205,
-    "name": "PEQUE HISTORIAS - LIBRO INFANTIL",
-    "price": 160.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "infantil",
-    "image": "/images/books/100205.jpg",
-    "details": "",
-    "keywords": [
-      "peque",
-      "historias",
-      "libro",
-      "infantil"
-    ]
-  },
-  {
     "id": 100206,
-    "name": "BIBLIA LETRA GIGANTE INDICE ROSA CON CIERRE",
+    "name": "Biblia Letra Gigante, RVR 1960, Cierre, floral rosa con indice",
     "price": 900.0,
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100206.jpg",
@@ -4970,105 +4713,18 @@
       "cierre"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100207,
-    "name": "BIBLIA NVI LETRA GRANDE 11pt FIUSHA CON ROSA CON CIERRE",
-    "price": 750.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100207.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "nvi",
-      "letra",
-      "grande",
-      "11pt",
-      "fiusha",
-      "con",
-      "rosa",
-      "con",
-      "cierre"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100208,
-    "name": "BIBLIA G3 DE CRECIMIENTO JUVENIL",
-    "price": 600.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100208.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "g3",
-      "de",
-      "crecimiento",
-      "juvenil"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100209,
-    "name": "BIBLIA NVI LETRA GRANDE 9pt FIUSHA ",
-    "price": 550.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100209.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "nvi",
-      "letra",
-      "grande",
-      "9pt",
-      "fiusha"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Gigante (14 puntos )",
+      "Dimensiones": "15.0 x 21.3 x 3.5 cm",
+      "Formato": "Imitación Piel",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "Floral rosa"
     }
   },
   {
     "id": 100210,
-    "name": "JESÚS: EL HOMBRE QUE DESAFIÓ EL MUNDO Y CONFRONTA TU VIDA ",
+    "name": "Jesús, el hombre que desafío al mundo y confronta tu vida",
     "price": "340.00",
     "discount": 0,
     "autor": "Miguel Núñez",
@@ -5077,40 +4733,34 @@
     "image": "/images/books/100210.jpg",
     "details": "",
     "keywords": [
-      "jess",
-      "el",
-      "hombre",
-      "que",
-      "desafi",
-      "el",
-      "mundo",
-      "y",
-      "confronta",
-      "tu",
-      "vida"
+      "libros",
+      "Holman",
+      "Miguel Núñez",
+      "jesus"
     ]
   },
   {
     "id": 100211,
-    "name": "UNA PEQUEÑA LOCURA LLAMADA MATRIMONIO",
+    "name": "Una pequeña locura llamada matrimonio",
     "price": "300.00",
     "discount": 0,
-    "autor": "Greg & Erin Smalley",
+    "autor": "Greg Smalley, Erin Smalley",
     "description": "",
     "category": "libros",
     "image": "/images/books/100211.jpg",
     "details": "",
     "keywords": [
-      "una",
-      "pequea",
-      "locura",
-      "llamada",
+      "libros",
+      "Tyndale",
+      "Greg Smalley",
+      "Erin Smalley",
+      "Familia",
       "matrimonio"
     ]
   },
   {
     "id": 100212,
-    "name": "LA GRAN HISTORIA: RELATOS BIBLICOS PARA LOS MAS PEQUEÑOS",
+    "name": "La gran historia: relatos bíblicos para los más pequeños",
     "price": "270.00",
     "discount": 0,
     "autor": "",
@@ -5153,7 +4803,7 @@
   },
   {
     "id": 100214,
-    "name": "METAMORFOSIS HISTORIETAS MANGA",
+    "name": "Metamorfosis historietas manga",
     "price": "230.00",
     "discount": 0,
     "autor": "",
@@ -5169,7 +4819,7 @@
   },
   {
     "id": 100215,
-    "name": "REBELIÓN HISTORIETAS MANGA",
+    "name": "Rebelión historietas manga",
     "price": "230.00",
     "discount": 0,
     "autor": "",
@@ -5179,6 +4829,23 @@
     "details": "",
     "keywords": [
       "rebelin",
+      "historietas",
+      "manga"
+    ]
+  },
+    {
+    "id": 100231,
+    "name": "El mesías historietas manga",
+    "price": "250.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "libros,infantil",
+    "image": "/images/books/100231.jpg",
+    "details": "",
+    "keywords": [
+      "el",
+      "mesias",
       "historietas",
       "manga"
     ]
@@ -5206,10 +4873,11 @@
   },
   {
     "id": 100223,
-    "name": "BIBLIA NTV EDICION COMPACTA MENTA HOJAS LG 8 PTS",
-    "price": 630.0,
+    "name": "Biblia NTV, edición compacta, Menta",
+    "price": "630.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "stock": 0,
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100223.jpg",
@@ -5226,31 +4894,14 @@
       "pts"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Mediana ( 8 puntos )",
+      "Dimensiones": "12.4 x 19 x 3.8 cm",
+      "Formato": "Imitación Piel",
+      "Índice": "Si",
+      "Cierre": "No",
+      "Color": "Menta"
     }
-  },
-  {
-    "id": 100205,
-    "name": "PEQUE HISTORIAS - LIBRO INFANTIL",
-    "price": 160.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "infantil",
-    "image": "/images/books/100205.jpg",
-    "details": "",
-    "keywords": [
-      "peque",
-      "historias",
-      "libro",
-      "infantil"
-    ]
   },
   {
     "id": 100224,
@@ -5271,52 +4922,18 @@
   },
   {
     "id": 100225,
-    "name": "BIBLIA INFOGRAFICA ACTIVIDADES",
-    "price": 210.0,
+    "name": "Biblia infográfica para niños (Actividades)",
+    "price": "210.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100225.jpg",
+    "category": "infantil",
+    "image": "/images/books/100225.jpg",
     "details": "",
     "keywords": [
       "biblia",
       "infografica",
       "actividades"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100226,
-    "name": "BIBLIA 1960 NOMBRES DE DIOS LG 10.5 TD LEON DE JUDAH AGUAMARINA",
-    "price": 500.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100226.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "nombres",
-      "de",
-      "dios",
-      "lg",
-      "105",
-      "td",
-      "leon",
-      "de",
-      "judah",
-      "aguamarina"
     ],
     "features": {
       "Versión": "",
@@ -5353,12 +4970,12 @@
   },
   {
     "id": 100228,
-    "name": "BIBLIA EN ACCION - BIBLIA DE ESTUDIO TLA TAPA DURA",
-    "price": 550.0,
+    "name": "La Biblia en acción",
+    "price": "600.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,infantil",
     "image": "/images/bibles/100228.jpg",
     "details": "",
     "keywords": [
@@ -5371,48 +4988,7 @@
       "tla",
       "tapa",
       "dura"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100229,
-    "name": "BIBLIA INFOGRAFICA 1 - PARA NIÑOS DE 0 a 99 AÑOS",
-    "price": 330.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias,infantil",
-    "image": "/images/bibles/100229.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "1",
-      "para",
-      "nios",
-      "de",
-      "0",
-      "a",
-      "99",
-      "aos"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
+    ]
   },
   {
     "id": 100230,
@@ -5432,57 +5008,11 @@
     ]
   },
   {
-    "id": 100231,
-    "name": "EL MESIAS HISTORIETAS MANGA",
-    "price": "250.00",
+    "id": 100233,
+    "name": "Biblia RVR 1960 de Estudio Arcoíris multicolor, tapa dura",
+    "price": "800.00",
     "discount": 0,
     "autor": "",
-    "description": "",
-    "category": "libros,infantil",
-    "image": "/images/books/100231.jpg",
-    "details": "",
-    "keywords": [
-      "el",
-      "mesias",
-      "historietas",
-      "manga"
-    ]
-  },
-  {
-    "id": 100232,
-    "name": "BIBLIA NVI DE ESTUDIO TEOLOGIA BIBLICA CAFE",
-    "price": 1400.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100232.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "nvi",
-      "de",
-      "estudio",
-      "teologia",
-      "biblica",
-      "cafe"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100233,
-    "name": "BIBLIA 1960 ARCOIRIS TD NUEVA EDICION TAPA DURA",
-    "price": 800.0,
-    "discount": 0,
-    "autor": "Sin asignar",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100233.jpg",
@@ -5498,21 +5028,18 @@
       "dura"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "16.5 x 24.5 x 3.6 cm",
+      "Formato": "Tapa dura"
     }
   },
   {
     "id": 100205,
-    "name": "PEQUE HISTORIAS - LIBRO INFANTIL",
-    "price": 160.0,
+    "name": "Peque Historias",
+    "price": "160.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "infantil",
     "image": "/images/books/100205.jpg",
@@ -5592,7 +5119,7 @@
   },
   {
     "id": 100239,
-    "name": "BIBLIA RVR 1960 T06 IP LG ZIP LEON DORADO 12 puntos",
+    "name": "Biblia RVR 1960 León dorado, Indice",
     "price": 800.0,
     "discount": 0,
     "autor": "Sin asignar",
@@ -5614,21 +5141,21 @@
       "puntos"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
       "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Formato": "21.5 x 15.2 cm",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "Dorado"
     }
   },
   {
     "id": 100240,
-    "name": "BIBLIA RVR 1960 PRIMAVERAL TURQUESA IP ZIPER",
-    "price": 530.0,
+    "name": "Biblia RVR 1960, Jardín Turquesa, Cierre, Índice",
+    "price": "550.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100240.jpg",
@@ -5643,13 +5170,12 @@
       "ziper"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Formato": "Imitación Piel",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "Turquesa"
     }
   },
   {
@@ -5673,34 +5199,6 @@
       "zip",
       "lm",
       "pjr"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100187,
-    "name": "BIBLIA NVI CENTRADA EN CRISTO MATIZADA",
-    "price": 990.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100187.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "nvi",
-      "centrada",
-      "en",
-      "cristo",
-      "matizada"
     ],
     "features": {
       "Versión": "",
@@ -5855,68 +5353,6 @@
     ]
   },
   {
-    "id": 100188,
-    "name": "BIBLIA 1960 BODA DEVOCIONAL LOS LENGUAJES DEL AMOR IMIT PIEL BLANCO PERLA",
-    "price": 800.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100188.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "boda",
-      "devocional",
-      "los",
-      "lenguajes",
-      "del",
-      "amor",
-      "imit",
-      "piel",
-      "blanco",
-      "perla"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100191,
-    "name": "BIBLIA 1960 RECUERDO DE BODA BLANCO",
-    "price": 650.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100191.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "recuerdo",
-      "de",
-      "boda",
-      "blanco"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100247,
     "name": "RUGE COMO UN LEÓN - DEVOCIONAL PARA NIÑOS",
     "price": "300.00",
@@ -5958,7 +5394,7 @@
   },
   {
     "id": 100249,
-    "name": "LIBRO DE COLOREAR GIGANTE BILINGUE DAVID",
+    "name": "Libro de colorear gigante bilingue David",
     "price": "110.00",
     "discount": 0,
     "autor": "",
@@ -5977,7 +5413,7 @@
   },
   {
     "id": 100250,
-    "name": "LIBRO DE COLOREAR GIGANTE BILINGUE NOE",
+    "name": "Libro de colorear gigante bilingue Noé",
     "price": "110.00",
     "discount": 0,
     "autor": "",
@@ -5996,7 +5432,7 @@
   },
   {
     "id": 100251,
-    "name": "LIBRO DE COLOREAR GIGANTE BILINGUE JOSUÉ",
+    "name": "Libro de colorear gigante bilingue Josué",
     "price": "110.00",
     "discount": 0,
     "autor": "",
@@ -6015,7 +5451,7 @@
   },
   {
     "id": 100252,
-    "name": "LIBRO DE COLOREAR GIGANTE BILINGUE DANIEL",
+    "name": "Libro de colorear gigante bilingue Daniel",
     "price": "110.00",
     "discount": 0,
     "autor": "",
@@ -6034,7 +5470,7 @@
   },
   {
     "id": 100253,
-    "name": "LIBRO DE COLOREAR GIGANTE BILINGUE ESTER",
+    "name": "Libro de colorear gigante bilingue Ester",
     "price": "110.00",
     "discount": 0,
     "autor": "",
@@ -6053,7 +5489,7 @@
   },
   {
     "id": 100254,
-    "name": "LIBRO DE COLOREAR GIGANTE BILINGUE MARIA",
+    "name": "Libro de colorear gigante bilingue Maria",
     "price": "110.00",
     "discount": 0,
     "autor": "",
@@ -6168,42 +5604,6 @@
     ]
   },
   {
-    "id": 100004,
-    "name": "Biblia de Apuntes, Rvr 1960 Edición Ilustrada, Tela En Rosado Y Azul Pasta dura",
-    "price": 650.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100004.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "de",
-      "apuntes",
-      "rvr",
-      "1960",
-      "edicin",
-      "ilustrada",
-      "tela",
-      "en",
-      "rosado",
-      "y",
-      "azul",
-      "pasta",
-      "dura"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100259,
     "name": "Enciende Tu Cerebro",
     "price": "280.00",
@@ -6308,31 +5708,6 @@
       "ndice",
       "zper",
       "bolsillo"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100225,
-    "name": "BIBLIA INFOGRAFICA ACTIVIDADES",
-    "price": 210.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100225.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "actividades"
     ],
     "features": {
       "Versión": "",
@@ -7275,12 +6650,12 @@
   },
   {
     "id": 100325,
-    "name": "BIBLIA AMIGOS POR SIEMPRE ROSA ZIPER ACOLCHADA",
-    "price": "",
+    "name": "Biblia RVR 1960 Amigos por siempre acolchada rosa con cierre",
+    "price": "480.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,infantil",
     "image": "/images/bibles/100325.jpg",
     "details": "",
     "keywords": [
@@ -7304,12 +6679,12 @@
   },
   {
     "id": 100326,
-    "name": "BIBLIA AMIGOS POR SIEMPRE AZUL ZIPER ACOLCHADA",
-    "price": "",
+    "name": "Biblia RVR 1960 Amigos por siempre acolchada azul con cierre",
+    "price": "480.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,infantil",
     "image": "/images/bibles/100326.jpg",
     "details": "",
     "keywords": [
@@ -7333,12 +6708,12 @@
   },
   {
     "id": 100327,
-    "name": "BIBLIA TLA BIPER MI BIBLIA FACIL DE ENTENDER",
-    "price": "",
+    "name": "Biblia Bíper – TLA",
+    "price": "270.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,infantil",
     "image": "/images/bibles/100327.jpg",
     "details": "",
     "keywords": [
@@ -7363,12 +6738,12 @@
   },
   {
     "id": 100328,
-    "name": "MI BIBLIA ABC",
-    "price": "",
+    "name": "Mi biblia ABC",
+    "price": "240.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,infantil",
     "image": "/images/bibles/100328.jpg",
     "details": "",
     "keywords": [
@@ -8098,10 +7473,10 @@
   },
   {
     "id": 100358,
-    "name": "Biblia NBLA Visual De Estudio Para Niños Tapa Dura",
-    "price": "",
+    "name": "Biblia NBLA Visual de estudio para niños tapa dura",
+    "price": "800.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias,infantil",
     "image": "/images/bibles/100358.jpg",
@@ -8274,69 +7649,11 @@
     }
   },
   {
-    "id": 100327,
-    "name": "BIBLIA TLA BIPER MI BIBLIA FACIL DE ENTENDER",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100327.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "tla",
-      "biper",
-      "mi",
-      "biblia",
-      "facil",
-      "de",
-      "entender"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100184,
-    "name": "BIBLIA NTV EDICION ZIPER NEGRA LEON",
-    "price": 470.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100184.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "ntv",
-      "edicion",
-      "ziper",
-      "negra",
-      "leon"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100030,
-    "name": "UN AÑO CON DIOS - 365 DEVOCIONALES DEL NT PARA LA MUJER",
-    "price": 280.0,
+    "name": "Un año con Dios en el Nuevo Testamento",
+    "price": "280.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "libros",
     "image": "/images/books/100030.jpg",
@@ -8357,10 +7674,10 @@
   },
   {
     "id": 100031,
-    "name": "UN AÑO CON DIOS 365 DEVOCIONALES PARA LA MUJER",
-    "price": 320.0,
+    "name": "Un año con Dios. 365 devocionales para la mujer",
+    "price": "320.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "libros",
     "image": "/images/books/100031.jpg",
@@ -8379,10 +7696,10 @@
   },
   {
     "id": 100365,
-    "name": "UN AÑO CON JESUS",
-    "price": "",
+    "name": "Un año con Jesús: 365 devocionales para tu caminar con Dios",
+    "price": "320.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "libros",
     "image": "/images/books/100365.jpg",
@@ -8396,10 +7713,10 @@
   },
   {
     "id": 100366,
-    "name": "LIDER DE JOVENES",
-    "price": "",
+    "name": "Líder de jóvenes",
+    "price": "280.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Josué Barrios",
     "description": "",
     "category": "libros",
     "image": "/images/books/100366.jpg",
@@ -8412,10 +7729,10 @@
   },
   {
     "id": 100367,
-    "name": "COMO CRIAR UNA HIJA CONFORME AL CORAZON DE DIOS",
-    "price": "",
+    "name": "Cómo criar a una hija conforme al corazón de Dios",
+    "price": "200.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Elizabeth George",
     "description": "",
     "category": "libros",
     "image": "/images/books/100367.jpg",
@@ -8461,10 +7778,10 @@
   },
   {
     "id": 100369,
-    "name": "FUERZAS PARA CADA DIA PARA EL HOMBRE",
-    "price": "",
+    "name": "Fuerzas para cada día para el hombre: 365 Días devocionario",
+    "price": "420.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "libros",
     "image": "/images/books/100369.jpg",
@@ -8543,10 +7860,10 @@
   },
   {
     "id": 100372,
-    "name": "TEOLOGIA POP",
-    "price": "",
+    "name": "Teología Pop",
+    "price": "350.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Lucas Magnin",
     "description": "",
     "category": "libros",
     "image": "/images/books/100372.jpg",
@@ -8555,66 +7872,6 @@
       "teologia",
       "pop"
     ]
-  },
-  {
-    "id": 100373,
-    "name": "BIBLIA RVR 1960 T02 AMIGOS POR SIEMPRE TD ROSA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100373.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "t02",
-      "amigos",
-      "por",
-      "siempre",
-      "td",
-      "rosa"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100326,
-    "name": "BIBLIA AMIGOS POR SIEMPRE AZUL ZIPER ACOLCHADA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100326.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "amigos",
-      "por",
-      "siempre",
-      "azul",
-      "ziper",
-      "acolchada"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100374,
@@ -8678,10 +7935,10 @@
   },
   {
     "id": 100376,
-    "name": "NO BASTA MI FE PARA SER ATEO",
-    "price": "",
+    "name": "No basta mi fe para ser ateo",
+    "price": "570.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Norman L. Geisler, Frank Turek",
     "description": "",
     "category": "libros",
     "image": "/images/books/100376.jpg",
@@ -8726,10 +7983,10 @@
   },
   {
     "id": 100378,
-    "name": "CRISTIANISMO CASO RESUELTO",
-    "price": "",
+    "name": "Cristianismo caso resuelto",
+    "price": "350.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "J. Warner Wallace",
     "description": "",
     "category": "libros",
     "image": "/images/books/100378.jpg",
@@ -8739,71 +7996,6 @@
       "caso",
       "resuelto"
     ]
-  },
-  {
-    "id": 100020,
-    "name": "BIBLIA 1960 NOMBRES DE DIOS LG 10.5 TD LEON DE JUDAH COLORES",
-    "price": 450.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100020.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "nombres",
-      "de",
-      "dios",
-      "lg",
-      "105",
-      "td",
-      "leon",
-      "de",
-      "judah",
-      "colores"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100228,
-    "name": "BIBLIA EN ACCION - BIBLIA DE ESTUDIO TLA TAPA DURA",
-    "price": 550.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100228.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "en",
-      "accion",
-      "biblia",
-      "de",
-      "estudio",
-      "tla",
-      "tapa",
-      "dura"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100379,
@@ -8957,10 +8149,10 @@
   },
   {
     "id": 100383,
-    "name": "METODO INDUCTIVO AL ESTUDIO BIBLICO",
-    "price": "",
+    "name": "Metodo inductivo al estudio biblico",
+    "price": "400.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Don C Fanning",
     "description": "",
     "category": "libros",
     "image": "/images/books/100383.jpg",
@@ -9010,10 +8202,10 @@
   },
   {
     "id": 100385,
-    "name": "UN AÑO CON DIOS 365 DEVOCIONALES PARA INSPIRAR TU VIDA",
-    "price": "",
+    "name": "Un año con Dios: 365 devocionales para inspirar tu vida",
+    "price": "300.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "libros",
     "image": "/images/books/100385.jpg",
@@ -9033,10 +8225,10 @@
   },
   {
     "id": 100386,
-    "name": "M DE MAMA",
-    "price": "",
+    "name": "M de Mamá",
+    "price": "300.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Abbie Halberstadt",
     "description": "",
     "category": "libros",
     "image": "/images/books/100386.jpg",
@@ -9046,40 +8238,6 @@
       "de",
       "mama"
     ]
-  },
-  {
-    "id": 100188,
-    "name": "BIBLIA 1960 BODA DEVOCIONAL LOS LENGUAJES DEL AMOR IMIT PIEL BLANCO PERLA",
-    "price": 800.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100188.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "boda",
-      "devocional",
-      "los",
-      "lenguajes",
-      "del",
-      "amor",
-      "imit",
-      "piel",
-      "blanco",
-      "perla"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100387,
@@ -9113,34 +8271,11 @@
     }
   },
   {
-    "id": 100385,
-    "name": "UN AÑO CON DIOS 365 DEVOCIONALES PARA INSPIRAR TU VIDA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100385.jpg",
-    "details": "",
-    "keywords": [
-      "un",
-      "ao",
-      "con",
-      "dios",
-      "365",
-      "devocionales",
-      "para",
-      "inspirar",
-      "tu",
-      "vida"
-    ]
-  },
-  {
     "id": 100388,
-    "name": "UN AÑO EN LOS SALMOS",
-    "price": "",
+    "name": "Un año en los Salmos: 365 devocionales para animar tu vida",
+    "price": "320.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "libros",
     "image": "/images/books/100388.jpg",
@@ -9155,10 +8290,10 @@
   },
   {
     "id": 100389,
-    "name": "DEVOCIONAL 365 DIAS DE ORACION PARA HOMBRES",
-    "price": "",
+    "name": "365 Días de oración para hombres",
+    "price": "350.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "libros",
     "image": "/images/books/100389.jpg",
@@ -9172,68 +8307,6 @@
       "para",
       "hombres"
     ]
-  },
-  {
-    "id": 100369,
-    "name": "FUERZAS PARA CADA DIA PARA EL HOMBRE",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100369.jpg",
-    "details": "",
-    "keywords": [
-      "fuerzas",
-      "para",
-      "cada",
-      "dia",
-      "para",
-      "el",
-      "hombre"
-    ]
-  },
-  {
-    "id": 100365,
-    "name": "UN AÑO CON JESUS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100365.jpg",
-    "details": "",
-    "keywords": [
-      "un",
-      "ao",
-      "con",
-      "jesus"
-    ]
-  },
-  {
-    "id": 100328,
-    "name": "MI BIBLIA ABC",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100328.jpg",
-    "details": "",
-    "keywords": [
-      "mi",
-      "biblia",
-      "abc"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100390,
@@ -9251,92 +8324,6 @@
       "biblia",
       "y",
       "yo"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100229,
-    "name": "BIBLIA INFOGRAFICA 1 - PARA NIÑOS DE 0 a 99 AÑOS",
-    "price": 330.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias,infantil",
-    "image": "/images/bibles/100229.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "1",
-      "para",
-      "nios",
-      "de",
-      "0",
-      "a",
-      "99",
-      "aos"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100203,
-    "name": "BIBLIA INFOGRAFICA 2",
-    "price": 330.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100203.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "2"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100204,
-    "name": "BIBLIA INFOGRAFICA 3 GUIA EPICA A JESUS",
-    "price": 330.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100204.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "3",
-      "guia",
-      "epica",
-      "a",
-      "jesus"
     ],
     "features": {
       "Versión": "",
@@ -9407,12 +8394,12 @@
   },
   {
     "id": 100393,
-    "name": "MI BIBLIA PORTATIL",
-    "price": "",
+    "name": "Mi Biblia portatil",
+    "price": "260.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "biblias",
+    "category": "biblias,infantil",
     "image": "/images/bibles/100393.jpg",
     "details": "",
     "keywords": [
@@ -9459,10 +8446,10 @@
   },
   {
     "id": 100395,
-    "name": "BIBLIA PARA NIÑOS HISTORIAS BIBLICAS PARA MADRES E HIJOS",
-    "price": "",
+    "name": "Biblia para niños Historias biblicas para madres e hijos",
+    "price": "310.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias,infantil",
     "image": "/images/bibles/100395.jpg",
@@ -9490,10 +8477,10 @@
   },
   {
     "id": 100396,
-    "name": "BIBLIA PARA NIÑAS - HISTORIAS BIBLICAS PARA MADRES E HIJAS",
-    "price": "",
+    "name": "Biblia para niños Historias biblicas para madres e hijas",
+    "price": "310.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias,infantil",
     "image": "/images/bibles/100396.jpg",
@@ -9677,10 +8664,10 @@
   },
   {
     "id": 100402,
-    "name": "DISCIPLINAS ESPIRITUALES PARA LA VIDA CRISTIANA",
-    "price": "",
+    "name": "Disciplinas espirituales para la vida cristiana",
+    "price": "350.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Donald Whitney",
     "description": "",
     "category": "libros",
     "image": "/images/books/100402.jpg",
@@ -9695,62 +8682,11 @@
     ]
   },
   {
-    "id": 100403,
-    "name": "BIBLIA SANTA BIBLIA RVR 1960 AMIGOS POR SIEMPRE VINIL AZUL ACOLCHADA ZIPER ",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100403.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "santa",
-      "biblia",
-      "rvr",
-      "1960",
-      "amigos",
-      "por",
-      "siempre",
-      "vinil",
-      "azul",
-      "acolchada",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100404,
-    "name": "Marcadores De Gel Chosch",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100404.jpg",
-    "details": "",
-    "keywords": [
-      "marcadores",
-      "de",
-      "gel",
-      "chosch"
-    ]
-  },
-  {
     "id": 100405,
-    "name": "LIDERAZGO CON PROPOSITO RUSTICO",
-    "price": "",
+    "name": "Liderazgo con propósito",
+    "price": "320.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Rick Warren",
     "description": "",
     "category": "libros",
     "image": "/images/books/100405.jpg",
@@ -9763,34 +8699,11 @@
     ]
   },
   {
-    "id": 100406,
-    "name": "LAS 21 LEYES IRREFUTABLES DEL LIDERAZGO EDICION DEL 25 ANIVERSARIO",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100406.jpg",
-    "details": "",
-    "keywords": [
-      "las",
-      "21",
-      "leyes",
-      "irrefutables",
-      "del",
-      "liderazgo",
-      "edicion",
-      "del",
-      "25",
-      "aniversario"
-    ]
-  },
-  {
     "id": 100407,
-    "name": "EL ARTE DEL DISCIPULADO",
-    "price": "",
+    "name": "El arte del discipulado",
+    "price": "220.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "David Noboa",
     "description": "",
     "category": "libros",
     "image": "/images/books/100407.jpg",
@@ -9804,10 +8717,10 @@
   },
   {
     "id": 100408,
-    "name": "LIDERAZGO GENERACIONAL",
-    "price": "",
+    "name": "Liderazgo Generacional",
+    "price": "270.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Lucas Leys",
     "description": "",
     "category": "libros",
     "image": "/images/books/100408.jpg",
@@ -9816,31 +8729,6 @@
       "liderazgo",
       "generacional"
     ]
-  },
-  {
-    "id": 100203,
-    "name": "BIBLIA INFOGRAFICA 2",
-    "price": 330.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100203.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "2"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100409,
@@ -9871,206 +8759,11 @@
     }
   },
   {
-    "id": 100410,
-    "name": "LOTERIA GIGANTE ",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100410.jpg",
-    "details": "",
-    "keywords": [
-      "loteria",
-      "gigante"
-    ]
-  },
-  {
-    "id": 100411,
-    "name": "JUEGO DE MESA CON DADOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100411.jpg",
-    "details": "",
-    "keywords": [
-      "juego",
-      "de",
-      "mesa",
-      "con",
-      "dados"
-    ]
-  },
-  {
-    "id": 100412,
-    "name": "JUEGO DE MESA GIGANTE",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100412.jpg",
-    "details": "",
-    "keywords": [
-      "juego",
-      "de",
-      "mesa",
-      "gigante"
-    ]
-  },
-  {
-    "id": 100413,
-    "name": "SUPERPACK COLOREAR GIGANTE 5 EN 1 NT",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100413.jpg",
-    "details": "",
-    "keywords": [
-      "superpack",
-      "colorear",
-      "gigante",
-      "5",
-      "en",
-      "1",
-      "nt"
-    ]
-  },
-  {
-    "id": 100414,
-    "name": "JUEGO DE CARTAS BIBLICO - LOS 10 MANDAMIENTOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100414.jpg",
-    "details": "",
-    "keywords": [
-      "juego",
-      "de",
-      "cartas",
-      "biblico",
-      "los",
-      "10",
-      "mandamientos"
-    ]
-  },
-  {
-    "id": 100415,
-    "name": "JUEGO DE CARTAS BIBLICO - JESUS LA PIEDRA ANGULAR CON LOS 12 DISCIPULOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100415.jpg",
-    "details": "",
-    "keywords": [
-      "juego",
-      "de",
-      "cartas",
-      "biblico",
-      "jesus",
-      "la",
-      "piedra",
-      "angular",
-      "con",
-      "los",
-      "12",
-      "discipulos"
-    ]
-  },
-  {
-    "id": 100416,
-    "name": "JUEGO DE CARTAS BIBLICO - LA ARMADURA DE DIOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100416.jpg",
-    "details": "",
-    "keywords": [
-      "juego",
-      "de",
-      "cartas",
-      "biblico",
-      "la",
-      "armadura",
-      "de",
-      "dios"
-    ]
-  },
-  {
-    "id": 100417,
-    "name": "JUEGO DE CARTAS BIBLICO - EN QUE LIBRO APARACE",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100417.jpg",
-    "details": "",
-    "keywords": [
-      "juego",
-      "de",
-      "cartas",
-      "biblico",
-      "en",
-      "que",
-      "libro",
-      "aparace"
-    ]
-  },
-  {
-    "id": 100418,
-    "name": "JUEGO DE CARTAS BIBLICO - NO LODIGAS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100418.jpg",
-    "details": "",
-    "keywords": [
-      "juego",
-      "de",
-      "cartas",
-      "biblico",
-      "no",
-      "lodigas"
-    ]
-  },
-  {
-    "id": 100419,
-    "name": "JUEGO DE CARTAS BIBLICO - ¿DONDE SUCEDIO?",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100419.jpg",
-    "details": "",
-    "keywords": [
-      "juego",
-      "de",
-      "cartas",
-      "biblico",
-      "donde",
-      "sucedio"
-    ]
-  },
-  {
     "id": 100420,
-    "name": "Filtros: Criterios Para Decidir Mejor",
-    "price": "",
+    "name": "Filtros: Criterios para decidir mejor",
+    "price": "220.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Robert Barriger",
     "description": "",
     "category": "libros",
     "image": "/images/books/100420.jpg",
@@ -10085,10 +8778,10 @@
   },
   {
     "id": 100421,
-    "name": "LA IGLESIA CREATIVA",
-    "price": "",
+    "name": "La iglesia creativa",
+    "price": "230.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Taylor Barriger",
     "description": "",
     "category": "libros",
     "image": "/images/books/100421.jpg",
@@ -10100,29 +8793,11 @@
     ]
   },
   {
-    "id": 100422,
-    "name": "Bolsa de plastico a color",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100422.jpg",
-    "details": "",
-    "keywords": [
-      "bolsa",
-      "de",
-      "plastico",
-      "a",
-      "color"
-    ]
-  },
-  {
     "id": 100423,
-    "name": "ESTA DIOS EN CONTRA DE LOS GAYS",
-    "price": "",
+    "name": "¿Está dios en contra de los gays?",
+    "price": "110.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Sam Allberry",
     "description": "",
     "category": "libros",
     "image": "/images/books/100423.jpg",
@@ -10139,10 +8814,10 @@
   },
   {
     "id": 100424,
-    "name": "DONDE ESTABA DIOS CUANDO SUCEDIO ESO",
-    "price": "",
+    "name": "¿Donde estaba Dios cuando sucedió eso?",
+    "price": "110.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Christopher Ash",
     "description": "",
     "category": "libros",
     "image": "/images/books/100424.jpg",
@@ -10158,10 +8833,10 @@
   },
   {
     "id": 100425,
-    "name": "EL DIABLO ME OBLIGO A HACERLO",
-    "price": "",
+    "name": "¿El diablo me obligó a hacerlo?",
+    "price": "110.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Mike McKinley",
     "description": "",
     "category": "libros",
     "image": "/images/books/100425.jpg",
@@ -10177,10 +8852,10 @@
   },
   {
     "id": 100426,
-    "name": "Y QUIEN ES EL ESPIRITU SANTO",
-    "price": "",
+    "name": "¿Y quién es el Espíritu Santo?",
+    "price": "110.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Tim Chester | Christopher de la Hoyde",
     "description": "",
     "category": "libros",
     "image": "/images/books/100426.jpg",
@@ -10196,10 +8871,10 @@
   },
   {
     "id": 100427,
-    "name": "POR QUE TUVO QUE MORIR JESUS",
-    "price": "",
+    "name": "¿Por qué tuvo que morir Jesús?",
+    "price": "110.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Marcus Nodder",
     "description": "",
     "category": "libros",
     "image": "/images/books/100427.jpg",
@@ -10215,10 +8890,10 @@
   },
   {
     "id": 100428,
-    "name": "QUE PASA CUANDO UNO MUERE",
-    "price": "",
+    "name": "¿Qué pasa cuando uno muere?",
+    "price": "110.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Marcus Nodder",
     "description": "",
     "category": "libros",
     "image": "/images/books/100428.jpg",
@@ -10233,10 +8908,10 @@
   },
   {
     "id": 100429,
-    "name": "PUEDE LA CIENCIA EXPLICARLO TODO - BOLSILLO",
-    "price": "",
+    "name": "¿Puede la ciencia explicarlo todo?",
+    "price": "200.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "John C. Lennox",
     "description": "",
     "category": "libros",
     "image": "/images/books/100429.jpg",
@@ -10252,10 +8927,10 @@
   },
   {
     "id": 100430,
-    "name": "LA MUERTE",
-    "price": "",
+    "name": "La muerte",
+    "price": "280.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": " Daniel Puerto, Josué Pineda Dal",
     "description": "",
     "category": "libros",
     "image": "/images/books/100430.jpg",
@@ -10266,57 +8941,13 @@
     ]
   },
   {
-    "id": 100402,
-    "name": "DISCIPLINAS ESPIRITUALES PARA LA VIDA CRISTIANA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100402.jpg",
-    "details": "",
-    "keywords": [
-      "disciplinas",
-      "espirituales",
-      "para",
-      "la",
-      "vida",
-      "cristiana"
-    ]
-  },
-  {
-    "id": 100225,
-    "name": "BIBLIA INFOGRAFICA ACTIVIDADES",
-    "price": 210.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100225.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "actividades"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100431,
-    "name": "TU MINISTERIO DE NIÑOS PUEDE CRECER",
-    "price": "",
+    "name": "Tu ministerio de niños puede crecer",
+    "price": "250.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Henry y Adriana Pabón, Luis y Sandy López, Willy y Arely Gómez",
     "description": "",
-    "category": "infantil",
+    "category": "libros,infantil",
     "image": "/images/books/100431.jpg",
     "details": "",
     "keywords": [
@@ -10329,41 +8960,11 @@
     ]
   },
   {
-    "id": 100421,
-    "name": "LA IGLESIA CREATIVA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100421.jpg",
-    "details": "",
-    "keywords": [
-      "la",
-      "iglesia",
-      "creativa"
-    ]
-  },
-  {
-    "id": 100420,
-    "name": "FILTROS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100420.jpg",
-    "details": "",
-    "keywords": [
-      "filtros"
-    ]
-  },
-  {
     "id": 100432,
-    "name": "REALMENTE EXISTE EL INFIERNO",
-    "price": "",
+    "name": "¿Realmente existe el infierno?",
+    "price": "110.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Erik Raymond",
     "description": "",
     "category": "libros",
     "image": "/images/books/100432.jpg",
@@ -10377,10 +8978,10 @@
   },
   {
     "id": 100433,
-    "name": "PEDRO UN LLAMADO A LO EXTRAORDINARIO",
-    "price": "",
+    "name": "Pedro: Un llamado a lo extraordinario",
+    "price": "250.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Ricardo Cermeño",
     "description": "",
     "category": "libros",
     "image": "/images/books/100433.jpg",
@@ -10395,47 +8996,11 @@
     ]
   },
   {
-    "id": 100434,
-    "name": "KRONOS JUEGO DE MESA ADULTOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100434.jpg",
-    "details": "",
-    "keywords": [
-      "kronos",
-      "juego",
-      "de",
-      "mesa",
-      "adultos"
-    ]
-  },
-  {
-    "id": 100435,
-    "name": "KRONOS JUEGO DE MESA NINOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100435.jpg",
-    "details": "",
-    "keywords": [
-      "kronos",
-      "juego",
-      "de",
-      "mesa",
-      "ninos"
-    ]
-  },
-  {
     "id": 100436,
-    "name": "CAUTIVANTE",
-    "price": "",
+    "name": "Cautivante",
+    "price": "340.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": " John Eldredge, Stasi Eldredge",
     "description": "",
     "category": "libros",
     "image": "/images/books/100436.jpg",
@@ -10443,35 +9008,6 @@
     "keywords": [
       "cautivante"
     ]
-  },
-  {
-    "id": 100206,
-    "name": "BIBLIA LETRA GIGANTE INDICE ROSA CON CIERRE",
-    "price": 900.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100206.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "letra",
-      "gigante",
-      "indice",
-      "rosa",
-      "con",
-      "cierre"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100238,
@@ -10541,223 +9077,11 @@
     }
   },
   {
-    "id": 100438,
-    "name": "JESÚS GIGANTE CASTAÑO CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100438.jpg",
-    "details": "",
-    "keywords": [
-      "jess",
-      "gigante",
-      "castao",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100439,
-    "name": "JESÚS GIGANTE RUBIO CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100439.jpg",
-    "details": "",
-    "keywords": [
-      "jess",
-      "gigante",
-      "rubio",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100440,
-    "name": "LLAVERO JESÚS CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100440.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "jess",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100441,
-    "name": "LLAVERO LEÓN CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100441.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "len",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100442,
-    "name": "LLAVERO OVEJA CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100442.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "oveja",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100443,
-    "name": "LLAVERO CORAZÓN ROSA CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100443.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "corazn",
-      "rosa",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100444,
-    "name": "LLAVERO CORAZÓN VERDE ACUA CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100444.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "corazn",
-      "verde",
-      "acua",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100445,
-    "name": "LLAVERO BIBLIA CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100445.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "biblia",
-      "crochet"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100446,
-    "name": "LLAVERO CRUZ ROSA CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100446.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "cruz",
-      "rosa",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100447,
-    "name": "LLAVERO CRUZ AZUL CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100447.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "cruz",
-      "azul",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100448,
-    "name": "LLAVERO PEZ AZUL REY CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100448.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "pez",
-      "azul",
-      "rey",
-      "crochet"
-    ]
-  },
-  {
-    "id": 100449,
-    "name": "LLAVERO PEZ AZUL CLARO CROCHET",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100449.jpg",
-    "details": "",
-    "keywords": [
-      "llavero",
-      "pez",
-      "azul",
-      "claro",
-      "crochet"
-    ]
-  },
-  {
     "id": 100450,
-    "name": "UN HOMBRE CONFORME AL CORAZÓN DE DIOS",
-    "price": "",
+    "name": "Un hombre conforme al corazón de Dios",
+    "price": "120.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Jim George",
     "description": "",
     "category": "libros",
     "image": "/images/books/100450.jpg",
@@ -10770,171 +9094,6 @@
       "corazn",
       "de",
       "dios"
-    ]
-  },
-  {
-    "id": 100451,
-    "name": "ELIMINA LA PRISA DE TU VIDA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100451.jpg",
-    "details": "",
-    "keywords": [
-      "elimina",
-      "la",
-      "prisa",
-      "de",
-      "tu",
-      "vida"
-    ]
-  },
-  {
-    "id": 100452,
-    "name": "TESOROS DEL REY ALUMNO 5 A 6 AÑOS (MAR A AGO 2025)",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100452.jpg",
-    "details": "",
-    "keywords": [
-      "tesoros",
-      "del",
-      "rey",
-      "alumno",
-      "5",
-      "a",
-      "6",
-      "aos",
-      "mar",
-      "a",
-      "ago",
-      "2025"
-    ]
-  },
-  {
-    "id": 100453,
-    "name": "PRIMEROS PASOS ALUMNO 3 A 4 AÑOS (MAR A AGO 2025)",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100453.jpg",
-    "details": "",
-    "keywords": [
-      "primeros",
-      "pasos",
-      "alumno",
-      "3",
-      "a",
-      "4",
-      "aos",
-      "mar",
-      "a",
-      "ago",
-      "2025"
-    ]
-  },
-  {
-    "id": 100454,
-    "name": "COMPAÑERO ALUMNO 10 A 12 (MAR A AGO 2025)",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100454.jpg",
-    "details": "",
-    "keywords": [
-      "compaero",
-      "alumno",
-      "10",
-      "a",
-      "12",
-      "mar",
-      "a",
-      "ago",
-      "2025"
-    ]
-  },
-  {
-    "id": 100455,
-    "name": "PAQUETE COMPAÑERO MAESTRO 10 A 12 AÑOS (MAR A AGO 2025)",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100455.jpg",
-    "details": "",
-    "keywords": [
-      "paquete",
-      "compaero",
-      "maestro",
-      "10",
-      "a",
-      "12",
-      "aos",
-      "mar",
-      "a",
-      "ago",
-      "2025"
-    ]
-  },
-  {
-    "id": 100456,
-    "name": "PAQUETE PRIMEROS PASOS MAESTRO 3 A 4 AÑOS (MAR A AGO 2025)",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100456.jpg",
-    "details": "",
-    "keywords": [
-      "paquete",
-      "primeros",
-      "pasos",
-      "maestro",
-      "3",
-      "a",
-      "4",
-      "aos",
-      "mar",
-      "a",
-      "ago",
-      "2025"
-    ]
-  },
-  {
-    "id": 100457,
-    "name": "PAQUETE TESOROS DEL REY MAESTRO 5 A 6 AÑOS (MAR A AGO 2025)",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100457.jpg",
-    "details": "",
-    "keywords": [
-      "paquete",
-      "tesoros",
-      "del",
-      "rey",
-      "maestro",
-      "5",
-      "a",
-      "6",
-      "aos",
-      "mar",
-      "a",
-      "ago",
-      "2025"
     ]
   },
   {
@@ -11060,39 +9219,6 @@
     }
   },
   {
-    "id": 100239,
-    "name": "BIBLIA RVR 1960 T06 IP LG ZIP LEON DORADO 12 puntos",
-    "price": 800.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100239.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "t06",
-      "ip",
-      "lg",
-      "zip",
-      "leon",
-      "dorado",
-      "12",
-      "puntos"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100461,
     "name": "BIBLIA RVR 1960 LETRA GIGANTE NEGRO MARRON CIERRE 14 puntos",
     "price": "",
@@ -11158,10 +9284,10 @@
   },
   {
     "id": 100463,
-    "name": "LO QUE NO TE DICE TU ESPOSO",
-    "price": "",
+    "name": "Lo que no te dice tu esposo",
+    "price": "150.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "David Murrow",
     "description": "",
     "category": "libros",
     "image": "/images/books/100463.jpg",
@@ -11178,10 +9304,10 @@
   },
   {
     "id": 100464,
-    "name": "EL PODER DE LA MUJER QUE ORA -  SERIE FAVORITOS BOLSILLO",
-    "price": "",
+    "name": "El poder de la mujer que ora (Bolsillo)",
+    "price": "160.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Stormie Omartian",
     "description": "",
     "category": "libros",
     "image": "/images/books/100464.jpg",
@@ -11201,10 +9327,10 @@
   },
   {
     "id": 100465,
-    "name": "LA BATALLA DE CADA HOMBRE - SERIE FAVORITOS",
-    "price": "",
+    "name": "La batalla de cada hombre (Bolsillo)",
+    "price": "160.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Stephen Arterburn",
     "description": "",
     "category": "libros",
     "image": "/images/books/100465.jpg",
@@ -11221,10 +9347,10 @@
   },
   {
     "id": 100466,
-    "name": "UNA MUJER CONFORME AL CORAZÓN DIOS",
-    "price": "",
+    "name": "Una mujer conforme al corazón de Dios (Bolsillo)",
+    "price": "160.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Elizabeth George",
     "description": "",
     "category": "libros",
     "image": "/images/books/100466.jpg",
@@ -11235,26 +9361,6 @@
       "conforme",
       "al",
       "corazn",
-      "dios"
-    ]
-  },
-  {
-    "id": 100450,
-    "name": "UN HOMBRE CONFORME AL CORAZÓN DE DIOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100450.jpg",
-    "details": "",
-    "keywords": [
-      "un",
-      "hombre",
-      "conforme",
-      "al",
-      "corazn",
-      "de",
       "dios"
     ]
   },
@@ -11359,11 +9465,11 @@
   {
     "id": 100470,
     "name": "Aventuras bíblicas en los jardines – POP-IT",
-    "price": "",
+    "price": "230.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
+    "category": "infantil",
     "image": "/images/books/100470.jpg",
     "details": "",
     "keywords": [
@@ -11378,11 +9484,11 @@
   {
     "id": 100471,
     "name": "Aventuras bíblicas en el mar – POP-IT",
-    "price": "",
+    "price": "230.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
+    "category": "infantil",
     "image": "/images/books/100471.jpg",
     "details": "",
     "keywords": [
@@ -11395,13 +9501,51 @@
     ]
   },
   {
-    "id": 100472,
-    "name": "Como criar a un niño de voluntad firme – Bolsillo",
-    "price": "",
+    "id": 100541,
+    "name": "Aventuras bíblicas en la tierra – POP-IT",
+    "price": "230.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "infantil",
+    "image": "/images/books/100541.jpg",
+    "details": "",
+    "keywords": [
+      "aventuras",
+      "bblicas",
+      "en",
+      "el",
+      "mar",
+      "popit"
+    ]
+  },
+  {
+    "id": 100542,
+    "name": "Aventuras bíblicas en el fuego – POP-IT",
+    "price": "230.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "infantil",
+    "image": "/images/books/100542.jpg",
+    "details": "",
+    "keywords": [
+      "aventuras",
+      "bblicas",
+      "en",
+      "el",
+      "mar",
+      "popit"
+    ]
+  },
+  {
+    "id": 100472,
+    "name": "Como criar a un niño de voluntad firme (Bolsillo)",
+    "price": "160.00",
+    "discount": 0,
+    "autor": "James Dobson",
+    "description": "",
+    "category": "infantil,libros",
     "image": "/images/books/100472.jpg",
     "details": "",
     "keywords": [
@@ -11419,9 +9563,9 @@
   {
     "id": 100473,
     "name": "Sexo y juventud",
-    "price": "",
+    "price": "160.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Luis Palau",
     "description": "",
     "category": "libros",
     "image": "/images/books/100473.jpg",
@@ -11435,9 +9579,9 @@
   {
     "id": 100474,
     "name": "Soltero por ahora",
-    "price": "",
+    "price": "280.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Marshall Segal",
     "description": "",
     "category": "libros",
     "image": "/images/books/100474.jpg",
@@ -11449,30 +9593,11 @@
     ]
   },
   {
-    "id": 100475,
-    "name": "Brazos de felpa Abraza a ¡Jesús!",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100475.jpg",
-    "details": "",
-    "keywords": [
-      "brazos",
-      "de",
-      "felpa",
-      "abraza",
-      "a",
-      "jess"
-    ]
-  },
-  {
     "id": 100476,
     "name": "Indescriptible Libro de actividades para niños",
-    "price": "",
+    "price": "400.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "infantil",
     "image": "/images/books/100476.jpg",
@@ -11485,86 +9610,6 @@
       "para",
       "nios"
     ]
-  },
-  {
-    "id": 100477,
-    "name": "SEPARADORES MAGNETICOS MARCOS 10:27",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100477.jpg",
-    "details": "",
-    "keywords": [
-      "separadores",
-      "magneticos",
-      "marcos",
-      "1027"
-    ]
-  },
-  {
-    "id": 100478,
-    "name": "SEPARADORES MAGNETICOS APRECIADA Y AMADA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100478.jpg",
-    "details": "",
-    "keywords": [
-      "separadores",
-      "magneticos",
-      "apreciada",
-      "y",
-      "amada"
-    ]
-  },
-  {
-    "id": 100479,
-    "name": "SEPARADORES MAGNETICOS CLASICOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100479.jpg",
-    "details": "",
-    "keywords": [
-      "separadores",
-      "magneticos",
-      "clasicos"
-    ]
-  },
-  {
-    "id": 100323,
-    "name": "JUEGO DE ROMPECABEZA LA BIBLIA PARA TI",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100323.jpg",
-    "details": "",
-    "keywords": [
-      "juego",
-      "de",
-      "rompecabeza",
-      "la",
-      "biblia",
-      "para",
-      "ti"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100480,
@@ -11714,35 +9759,6 @@
     }
   },
   {
-    "id": 100206,
-    "name": "BIBLIA LETRA GIGANTE INDICE ROSA CON CIERRE",
-    "price": 900.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100206.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "letra",
-      "gigante",
-      "indice",
-      "rosa",
-      "con",
-      "cierre"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100485,
     "name": "Biblia letra supergigante RVR60 similpiel Lavanda Índice",
     "price": "",
@@ -11770,58 +9786,6 @@
       "Cierre": "",
       "Color": ""
     }
-  },
-  {
-    "id": 100476,
-    "name": "Indescriptible Libro de actividades para niños",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "infantil",
-    "image": "/images/books/100476.jpg",
-    "details": "",
-    "keywords": [
-      "indescriptible",
-      "libro",
-      "de",
-      "actividades",
-      "para",
-      "nios"
-    ]
-  },
-  {
-    "id": 100477,
-    "name": "SEPARADORES MAGNETICOS MARCOS 10:27",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100477.jpg",
-    "details": "",
-    "keywords": [
-      "separadores",
-      "magneticos",
-      "marcos",
-      "1027"
-    ]
-  },
-  {
-    "id": 100479,
-    "name": "SEPARADORES MAGNETICOS CLASICOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100479.jpg",
-    "details": "",
-    "keywords": [
-      "separadores",
-      "magneticos",
-      "clasicos"
-    ]
   },
   {
     "id": 100487,
@@ -11918,52 +9882,11 @@
     }
   },
   {
-    "id": 100490,
-    "name": "Librerta profesional cuadro chico noche estrellada 200 hojas",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100490.jpg",
-    "details": "",
-    "keywords": [
-      "librerta",
-      "profesional",
-      "cuadro",
-      "chico",
-      "noche",
-      "estrellada",
-      "200",
-      "hojas"
-    ]
-  },
-  {
-    "id": 100491,
-    "name": "Librerta chica raya y blanco noche estrellada",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100491.jpg",
-    "details": "",
-    "keywords": [
-      "librerta",
-      "chica",
-      "raya",
-      "y",
-      "blanco",
-      "noche",
-      "estrellada"
-    ]
-  },
-  {
     "id": 100492,
     "name": "El circo del ateismo",
-    "price": "",
+    "price": "400.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Rigoberto Hidalgo",
     "description": "",
     "category": "libros",
     "image": "/images/books/100492.jpg",
@@ -12064,32 +9987,11 @@
     }
   },
   {
-    "id": 100490,
-    "name": "Librerta profesional cuadro chico noche estrellada 200 hojas",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100490.jpg",
-    "details": "",
-    "keywords": [
-      "librerta",
-      "profesional",
-      "cuadro",
-      "chico",
-      "noche",
-      "estrellada",
-      "200",
-      "hojas"
-    ]
-  },
-  {
     "id": 100496,
     "name": "Guia de una jovencita para las buenas decisiones",
-    "price": "",
+    "price": "150.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Elizabeth George",
     "description": "",
     "category": "libros",
     "image": "/images/books/100496.jpg",
@@ -12107,10 +10009,10 @@
   },
   {
     "id": 100497,
-    "name": "Como liberar los dones espirituales",
-    "price": "",
+    "name": "Cómo liberar los dones espirituales hoy",
+    "price": "360.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "James W Goll",
     "description": "",
     "category": "libros",
     "image": "/images/books/100497.jpg",
@@ -12121,22 +10023,6 @@
       "los",
       "dones",
       "espirituales"
-    ]
-  },
-  {
-    "id": 100479,
-    "name": "SEPARADORES MAGNETICOS CLASICOS",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100479.jpg",
-    "details": "",
-    "keywords": [
-      "separadores",
-      "magneticos",
-      "clasicos"
     ]
   },
   {
@@ -12169,52 +10055,90 @@
     }
   },
   {
-    "id": 100499,
-    "name": "INDICE 10 TIPO PLUS VARIOS COLORES",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100499.jpg",
-    "details": "",
-    "keywords": [
-      "indice",
-      "10",
-      "tipo",
-      "plus",
-      "varios",
-      "colores"
-    ]
-  },
-  {
-    "id": 100471,
-    "name": "Aventuras bíblicas en el mar – POP-IT",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100471.jpg",
-    "details": "",
-    "keywords": [
-      "aventuras",
-      "bblicas",
-      "en",
-      "el",
-      "mar",
-      "popit"
-    ]
-  },
-  {
     "id": 100475,
-    "name": "Brazos de felpa Abraza a ¡Jesús!",
-    "price": "",
+    "name": "Brazos de felpa – Abraza a ¡Jesús!",
+    "price": "170.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
+    "category": "infantil",
     "image": "/images/books/100475.jpg",
+    "details": "",
+    "keywords": [
+      "brazos",
+      "de",
+      "felpa",
+      "abraza",
+      "a",
+      "jess"
+    ]
+  },
+  {
+    "id": 100543,
+    "name": "Brazos de felpa – Abraza a ¡Rut!",
+    "price": "170.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "infantil",
+    "image": "/images/books/100543.jpg",
+    "details": "",
+    "keywords": [
+      "brazos",
+      "de",
+      "felpa",
+      "abraza",
+      "a",
+      "jess"
+    ]
+  },
+  {
+    "id": 100544,
+    "name": "Brazos de felpa – Abraza a ¡Elías!",
+    "price": "170.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "infantil",
+    "image": "/images/books/100544.jpg",
+    "details": "",
+    "keywords": [
+      "brazos",
+      "de",
+      "felpa",
+      "abraza",
+      "a",
+      "jess"
+    ]
+  },
+  {
+    "id": 100545,
+    "name": "Brazos de felpa – Abraza a ¡Eva!",
+    "price": "170.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "infantil",
+    "image": "/images/books/100545.jpg",
+    "details": "",
+    "keywords": [
+      "brazos",
+      "de",
+      "felpa",
+      "abraza",
+      "a",
+      "jess"
+    ]
+  },
+  {
+    "id": 100546,
+    "name": "Brazos de felpa – Abraza a ¡Daniel!",
+    "price": "170.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "infantil",
+    "image": "/images/books/100546.jpg",
     "details": "",
     "keywords": [
       "brazos",
@@ -12377,69 +10301,11 @@
     }
   },
   {
-    "id": 100505,
-    "name": "CALCOMANIA MEDIANA USTEDES SON LA LUZ DEL MUNDO",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100505.jpg",
-    "details": "",
-    "keywords": [
-      "calcomania",
-      "mediana",
-      "ustedes",
-      "son",
-      "la",
-      "luz",
-      "del",
-      "mundo"
-    ]
-  },
-  {
-    "id": 100506,
-    "name": "CALCOMANIA MEDIANA JESUS ES REY",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100506.jpg",
-    "details": "",
-    "keywords": [
-      "calcomania",
-      "mediana",
-      "jesus",
-      "es",
-      "rey"
-    ]
-  },
-  {
-    "id": 100507,
-    "name": "CALCOMANIA MEDIANA JESUS ES MI PASTOR",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100507.jpg",
-    "details": "",
-    "keywords": [
-      "calcomania",
-      "mediana",
-      "jesus",
-      "es",
-      "mi",
-      "pastor"
-    ]
-  },
-  {
     "id": 100508,
-    "name": "MENTIRAS QUE LAS MUJERES CREEN GUIA DE ESTUDIO",
-    "price": "",
+    "name": "Mentiras que las mujeres creen, Guía de estudio",
+    "price": "250.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Nancy DeMoss Wolgemuth",
     "description": "",
     "category": "libros",
     "image": "/images/books/100508.jpg",
@@ -12488,52 +10354,6 @@
     }
   },
   {
-    "id": 100496,
-    "name": "Guia de una jovencita para las buenas decisiones",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100496.jpg",
-    "details": "",
-    "keywords": [
-      "guia",
-      "de",
-      "una",
-      "jovencita",
-      "para",
-      "las",
-      "buenas",
-      "decisiones"
-    ]
-  },
-  {
-    "id": 100225,
-    "name": "BIBLIA INFOGRAFICA ACTIVIDADES",
-    "price": 210.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100225.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "actividades"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100487,
     "name": "Biblia Luz en mi camino cohetes, NVI multicolor símil piel",
     "price": "",
@@ -12568,9 +10388,9 @@
   {
     "id": 100510,
     "name": "Biblia de promesas para niños RVR60 – Tapa dura",
-    "price": "",
+    "price": "310.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias,infantil",
     "image": "/images/bibles/100510.jpg",
@@ -12596,51 +10416,77 @@
     }
   },
   {
-    "id": 100476,
-    "name": "Indescriptible Libro de actividades para niños",
-    "price": "",
+    "id": 100538,
+    "name": "Biblia de promesas para niños NTV – Tapa dura",
+    "price": "350.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "infantil",
-    "image": "/images/books/100476.jpg",
+    "category": "infantil,biblias",
+    "image": "/images/bibles/100538.jpg",
     "details": "",
     "keywords": [
-      "indescriptible",
-      "libro",
-      "de",
-      "actividades",
-      "para",
-      "nios"
-    ]
+    ],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "14.3 x 22.0 x 2.8 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Negra"
+    }
   },
   {
-    "id": 100496,
-    "name": "Guia de una jovencita para las buenas decisiones",
-    "price": "",
+    "id": 100539,
+    "name": "Biblia de promesas para niñas RVR60 – Tapa dura",
+    "price": "350.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
-    "image": "/images/books/100496.jpg",
+    "category": "infantil,biblias",
+    "image": "/images/bibles/100539.jpg",
     "details": "",
     "keywords": [
-      "guia",
-      "de",
-      "una",
-      "jovencita",
-      "para",
-      "las",
-      "buenas",
-      "decisiones"
-    ]
+    ],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "14.3 x 22.0 x 2.8 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Negra"
+    }
+  },
+  {
+    "id": 100540,
+    "name": "Biblia de promesas para niñas NTV – Tapa dura",
+    "price": "350.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "infantil,biblias",
+    "image": "/images/bibles/100540.jpg",
+    "details": "",
+    "keywords": [
+    ],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "14.3 x 22.0 x 2.8 cm",
+      "Formato": "Tapa dura",
+      "Índice": "No",
+      "Cierre": "No",
+      "Color": "Negra"
+    }
   },
   {
     "id": 100511,
     "name": "Guia de una joven para las buenas decisiones",
-    "price": "",
+    "price": "150.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Elizabeth George",
     "description": "",
     "category": "libros",
     "image": "/images/books/100511.jpg",
@@ -12657,91 +10503,11 @@
     ]
   },
   {
-    "id": 100512,
-    "name": "Libreta cuadro grande El amor nunca deja de ser",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100512.jpg",
-    "details": "",
-    "keywords": [
-      "libreta",
-      "cuadro",
-      "grande",
-      "el",
-      "amor",
-      "nunca",
-      "deja",
-      "de",
-      "ser"
-    ]
-  },
-  {
-    "id": 100513,
-    "name": "Librerta profesional cuadro chico noche estrellada 100 hojas",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100513.jpg",
-    "details": "",
-    "keywords": [
-      "librerta",
-      "profesional",
-      "cuadro",
-      "chico",
-      "noche",
-      "estrellada",
-      "100",
-      "hojas"
-    ]
-  },
-  {
-    "id": 100514,
-    "name": "Librerta frances raya noche estrellada 100 hojas",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100514.jpg",
-    "details": "",
-    "keywords": [
-      "librerta",
-      "frances",
-      "raya",
-      "noche",
-      "estrellada",
-      "100",
-      "hojas"
-    ]
-  },
-  {
-    "id": 100515,
-    "name": "SEPARADORES MAGNETICOS SALMOS 46:10",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100515.jpg",
-    "details": "",
-    "keywords": [
-      "separadores",
-      "magneticos",
-      "salmos",
-      "4610"
-    ]
-  },
-  {
     "id": 100516,
     "name": "7 Días para crear el exito empresarial",
-    "price": "",
+    "price": "160.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Otoniel Font",
     "description": "",
     "category": "libros",
     "image": "/images/books/100516.jpg",
@@ -12758,12 +10524,12 @@
   },
   {
     "id": 100517,
-    "name": "Devocional de pequeñitas palabras",
-    "price": "",
+    "name": "Mi devocional de pequeñas palabritas",
+    "price": "240.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
+    "category": "infantil",
     "image": "/images/books/100517.jpg",
     "details": "",
     "keywords": [
@@ -12776,11 +10542,11 @@
   {
     "id": 100518,
     "name": "Indescriptible 100 Devocionales sobre Dios y la ciencia",
-    "price": "",
+    "price": "300.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
+    "category": "infantil",
     "image": "/images/books/100518.jpg",
     "details": "",
     "keywords": [
@@ -12797,9 +10563,9 @@
   {
     "id": 100519,
     "name": "Ruta J77 un viaje de 77 devocionales",
-    "price": "",
+    "price": "480.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "libros",
     "image": "/images/books/100519.jpg",
@@ -12813,31 +10579,6 @@
       "77",
       "devocionales"
     ]
-  },
-  {
-    "id": 100225,
-    "name": "BIBLIA INFOGRAFICA ACTIVIDADES",
-    "price": 210.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100225.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "infografica",
-      "actividades"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100520,
@@ -12868,10 +10609,10 @@
   },
   {
     "id": 100521,
-    "name": "Mi tiempo con dios para niños",
-    "price": "",
+    "name": "Mi tiempo con Dios para niños",
+    "price": "370.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "infantil",
     "image": "/images/books/100521.jpg",
@@ -12888,9 +10629,9 @@
   {
     "id": 100522,
     "name": "Mi tiempo con dios para niñas",
-    "price": "",
+    "price": "370.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "infantil",
     "image": "/images/books/100522.jpg",
@@ -12905,31 +10646,11 @@
     ]
   },
   {
-    "id": 100369,
-    "name": "FUERZAS PARA CADA DIA PARA EL HOMBRE",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100369.jpg",
-    "details": "",
-    "keywords": [
-      "fuerzas",
-      "para",
-      "cada",
-      "dia",
-      "para",
-      "el",
-      "hombre"
-    ]
-  },
-  {
     "id": 100523,
-    "name": "FORTALEZA HOY PARA HOMBRES",
-    "price": "",
+    "name": "Forteleza hoy para hombres: 365 devociones",
+    "price": "450.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "libros",
     "image": "/images/books/100523.jpg",
@@ -12942,145 +10663,13 @@
     ]
   },
   {
-    "id": 100524,
-    "name": "Primeros pasos 3 a 4 alumno Sep - Feb 2026",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100524.jpg",
-    "details": "",
-    "keywords": [
-      "primeros",
-      "pasos",
-      "3",
-      "a",
-      "4",
-      "alumno",
-      "sep",
-      "feb",
-      "2026"
-    ]
-  },
-  {
-    "id": 100525,
-    "name": "Compañero 10 a 12 alumno Sep - Feb 2026",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100525.jpg",
-    "details": "",
-    "keywords": [
-      "compaero",
-      "10",
-      "a",
-      "12",
-      "alumno",
-      "sep",
-      "feb",
-      "2026"
-    ]
-  },
-  {
-    "id": 100526,
-    "name": "Tesoros del rey 5 a 6 alumno Sep - Feb 2026",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100526.jpg",
-    "details": "",
-    "keywords": [
-      "tesoros",
-      "del",
-      "rey",
-      "5",
-      "a",
-      "6",
-      "alumno",
-      "sep",
-      "feb",
-      "2026"
-    ]
-  },
-  {
-    "id": 100527,
-    "name": "Paquete Compañero 10 a 12 Sep - Feb 2026",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100527.jpg",
-    "details": "",
-    "keywords": [
-      "paquete",
-      "compaero",
-      "10",
-      "a",
-      "12",
-      "sep",
-      "feb",
-      "2026"
-    ]
-  },
-  {
-    "id": 100528,
-    "name": "Paquete Primeros pasos 3 a 4 Sep - Feb 2026",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100528.jpg",
-    "details": "",
-    "keywords": [
-      "paquete",
-      "primeros",
-      "pasos",
-      "3",
-      "a",
-      "4",
-      "sep",
-      "feb",
-      "2026"
-    ]
-  },
-  {
-    "id": 100529,
-    "name": "Paquete Tesoros del rey 5 a 6 Sep - Feb 2026",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100529.jpg",
-    "details": "",
-    "keywords": [
-      "paquete",
-      "tesoros",
-      "del",
-      "rey",
-      "5",
-      "a",
-      "6",
-      "sep",
-      "feb",
-      "2026"
-    ]
-  },
-  {
     "id": 100530,
-    "name": "Libro toca y juega textura del arca de noe",
-    "price": "",
+    "name": "Toca y juega textura El arca de noé",
+    "price": "270.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
+    "category": "infantil",
     "image": "/images/books/100530.jpg",
     "details": "",
     "keywords": [
@@ -13097,12 +10686,12 @@
   },
   {
     "id": 100531,
-    "name": "Libro toca y juega textura buenas noches",
-    "price": "",
+    "name": "Toca y juega textura Buenas noches",
+    "price": "270.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
+    "category": "infantil",
     "image": "/images/books/100531.jpg",
     "details": "",
     "keywords": [
@@ -13113,26 +10702,6 @@
       "textura",
       "buenas",
       "noches"
-    ]
-  },
-  {
-    "id": 100532,
-    "name": "Pan familiar con 150 tarjetas sabiduria madera",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "libros",
-    "image": "/images/books/100532.jpg",
-    "details": "",
-    "keywords": [
-      "pan",
-      "familiar",
-      "con",
-      "150",
-      "tarjetas",
-      "sabiduria",
-      "madera"
     ]
   },
   {
@@ -13191,10 +10760,10 @@
   },
   {
     "id": 100535,
-    "name": "nan",
-    "price": "",
+    "name": "Auténtica y única",
+    "price": "320.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "Joyce Meyer",
     "description": "",
     "category": "libros",
     "image": "/images/books/100535.jpg",
@@ -13205,30 +10774,42 @@
   },
   {
     "id": 100536,
-    "name": "nan",
-    "price": "",
+    "name": "Toca y juega textura Mis historias favoritas",
+    "price": "270.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
+    "category": "infantil",
     "image": "/images/books/100536.jpg",
     "details": "",
     "keywords": [
-      "nan"
+      "libro",
+      "toca",
+      "y",
+      "juega",
+      "textura",
+      "buenas",
+      "noches"
     ]
   },
   {
     "id": 100537,
-    "name": "nan",
-    "price": "",
+    "name": "Toca y juega textura ¡Gracias, Jesús!",
+    "price": "270.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "libros",
+    "category": "infantil",
     "image": "/images/books/100537.jpg",
     "details": "",
     "keywords": [
-      "nan"
+      "libro",
+      "toca",
+      "y",
+      "juega",
+      "textura",
+      "buenas",
+      "noches"
     ]
   }
 ]

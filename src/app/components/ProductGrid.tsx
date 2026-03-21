@@ -62,99 +62,117 @@ export default function ProductGrid({ products, showPaginate }: ProductGridProps
     <Box sx={{ display: 'flex', flexDirection: 'column', alignItems: 'center', padding: 2 }}>
       <Box sx={{ width: '100%', maxWidth: 1200, margin: '0 auto' }}>
         <Grid container spacing={4} justifyContent="center">
-          {paginatedProducts.map((product) => (
-            <Grid item xs={6} sm={6} md={3} key={product.id}>
-              <Card sx={{ position: 'relative', height: '100%' }}>
-                <Box
-                  sx={{
-                    position: 'relative',
-                    width: '100%',
-                    height: { xs: '200px', sm: '250px', md: '300px' },
-                    padding: 2,
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    cursor: 'pointer',
-                  }}
-                  onClick={() => handleMoreDetails(product.id)}
-                >
-                  <Box sx={{ position: 'relative', width: '100%', height: 300 }}>
-                    <Image
-                      src={product.image}
-                      alt={product.name}
-                      layout="fill"
-                      objectFit="contain"
-                    />
-                  </Box>
-                  {product.discount !== 0 && (
+          {paginatedProducts.map((product) => {
+            const isOutOfStock = product.stock === 0;
+
+            return (
+              <Grid item xs={6} sm={6} md={3} key={product.id}>
+                <Card sx={{ position: 'relative', height: '100%' }}>
+                  {/* Badge agotado */}
+                  {isOutOfStock && (
                     <Chip
-                      label={`-${product.discount}%`}
+                      label="Agotado"
                       color="error"
                       sx={{
                         position: 'absolute',
                         top: 8,
-                        left: 8,
-                        fontSize: { xs: '0.8rem', sm: '1rem' },
+                        right: 8,
                         fontWeight: 'bold',
-                        borderRadius: '90%',
+                        zIndex: 100,
                       }}
                     />
                   )}
-                </Box>
-
-                <CardContent sx={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
-                  <Typography variant="h6" sx={{ fontSize: { xs: '1rem', sm: '1.25rem' } }}>
-                    {product.name}
-                  </Typography>
-                  <Typography variant="body2" color="text.secondary" sx={{ fontSize: { xs: '0.8rem', sm: '1rem' } }}>
-                    {product.autor}
-                  </Typography>
-
                   <Box
                     sx={{
-                      mt: 1,
+                      position: 'relative',
+                      width: '100%',
+                      height: { xs: '200px', sm: '250px', md: '300px' },
+                      padding: 2,
                       display: 'flex',
-                      flexDirection: { xs: 'column', sm: 'row' },
-                      alignItems: { sm: 'center' },
+                      alignItems: 'center',
+                      justifyContent: 'center',
+                      cursor: 'pointer',
                     }}
+                    onClick={() => handleMoreDetails(product.id)}
                   >
-                    {product.discount !== 0 ? (
-                      <>
-                        <Typography
-                          variant="h6"
-                          sx={{
-                            textDecoration: 'line-through',
-                            color: '#72767c',
-                            fontSize: { xs: '0.9rem', sm: '1rem' },
-                            marginRight: { sm: 1 },
-                          }}
-                        >
-                          ${product.price}
-                        </Typography>
-                        <Typography variant="h6" color="primary" sx={{ fontSize: { xs: '1rem', sm: '1.25rem' } }}>
-                          ${calculateDiscount(product).toFixed(2)}
-                        </Typography>
-                      </>
-                    ) : (
-                      <Typography variant="h6" color="primary" sx={{ fontSize: { xs: '1rem', sm: '1.25rem' } }}>
-                        ${product.price}
-                      </Typography>
+                    <Box sx={{ position: 'relative', width: '100%', height: 300 }}>
+                      <Image
+                        src={product.image}
+                        alt={product.name}
+                        layout="fill"
+                        objectFit="contain"
+                      />
+                    </Box>
+                    {product.discount !== 0 && (
+                      <Chip
+                        label={`-${product.discount}%`}
+                        color="error"
+                        sx={{
+                          position: 'absolute',
+                          top: 8,
+                          left: 8,
+                          fontSize: { xs: '0.8rem', sm: '1rem' },
+                          fontWeight: 'bold',
+                          borderRadius: '90%',
+                        }}
+                      />
                     )}
                   </Box>
 
-                  <Button
-                    variant="contained"
-                    color="primary"
-                    href={`/product/${product.id}`}
-                    fullWidth
-                    sx={{ mt: 2, fontSize: { xs: '0.7rem', sm: '0.875rem' }, padding: { xs: '4px', sm: '6px' } }}
-                  >
-                    Ver detalles
-                  </Button>
-                </CardContent>
-              </Card>
-            </Grid>
-          ))}
+                  <CardContent sx={{ display: 'flex', flexDirection: 'column', height: '100%' }}>
+                    <Typography variant="h6" sx={{ fontSize: { xs: '1rem', sm: '1.25rem' } }}>
+                      {product.name}
+                    </Typography>
+                    <Typography variant="body2" color="text.secondary" sx={{ fontSize: { xs: '0.8rem', sm: '1rem' } }}>
+                      {product.autor}
+                    </Typography>
+
+                    <Box
+                      sx={{
+                        mt: 1,
+                        display: 'flex',
+                        flexDirection: { xs: 'column', sm: 'row' },
+                        alignItems: { sm: 'center' },
+                      }}
+                    >
+                      {product.discount !== 0 ? (
+                        <>
+                          <Typography
+                            variant="h6"
+                            sx={{
+                              textDecoration: 'line-through',
+                              color: '#72767c',
+                              fontSize: { xs: '0.9rem', sm: '1rem' },
+                              marginRight: { sm: 1 },
+                            }}
+                          >
+                            ${product.price}
+                          </Typography>
+                          <Typography variant="h6" color="primary" sx={{ fontSize: { xs: '1rem', sm: '1.25rem' } }}>
+                            ${calculateDiscount(product).toFixed(2)}
+                          </Typography>
+                        </>
+                      ) : (
+                        <Typography variant="h6" color="primary" sx={{ fontSize: { xs: '1rem', sm: '1.25rem' } }}>
+                          ${product.price}
+                        </Typography>
+                      )}
+                    </Box>
+
+                    <Button
+                      variant="contained"
+                      color="primary"
+                      href={`/product/${product.id}`}
+                      fullWidth
+                      sx={{ mt: 2, fontSize: { xs: '0.7rem', sm: '0.875rem' }, padding: { xs: '4px', sm: '6px' } }}
+                    >
+                      Ver detalles
+                    </Button>
+                  </CardContent>
+                </Card>
+              </Grid>
+            );
+          })}
         </Grid>
       </Box>
 

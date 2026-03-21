@@ -3,6 +3,7 @@ export interface IProduct {
   id: number;
   name: string;
   autor?: string;
+  stock?: number;
   price: string | number;
   discount?: number;
   description: string;
