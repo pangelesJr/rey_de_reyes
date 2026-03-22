@@ -6579,6 +6579,20 @@
     ]
   },
   {
+    "id": 100550,
+    "name": "Un resplandor en las tinieblas",
+    "price": "300.00",
+    "discount": 0,
+    "autor": "Emanuel Elizondo",
+    "description": "Un resplandor en las tinieblas es una novela cautivadora que combina suspenso, misterio y drama, transportándote a una época donde poseer una Biblia en español podía costar la vida, y seguir a Cristo implicaba un riesgo real. Una historia intensa sobre valentía, verdad y transformación que no podrás dejar de leer.",
+    "category": "libros",
+    "image": "/images/books/100550.jpg",
+    "details": "",
+    "keywords": [
+      "resplandor"
+    ]
+  },
+  {
     "id": 100308,
     "name": "El carácter de la mujer virtuosa",
     "price": "130.00",
