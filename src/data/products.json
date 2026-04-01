@@ -236,12 +236,12 @@
   },
   {
     "id": 100023,
-    "name": "Chicas Y Chicos",
+    "name": "Chicas y chicos",
     "price": "250.00",
     "discount": 0,
     "autor": "Sergio y Carina Valerga",
     "description": "Lecciones para Chicos y Chicas es un material diseñado para guiar a adolescentes y preadolescentes en su desarrollo personal según el plan de Dios. Enfocado en la sexualidad y la identidad de género, este libro ofrece un espacio para que los jóvenes puedan discutir y hacer preguntas sobre su vida como hombres y mujeres según el diseño divino. Es ideal para ser usado de manera individual o como material en grupos pequeños, reuniones o clases bíblicas.",
-    "category": "libros,novedades",
+    "category": "libros",
     "image": "/images/books/100023.jpg",
     "details": "",
     "keywords": [
@@ -263,7 +263,7 @@
     "discount": 0,
     "autor": "Luis Palau",
     "description": "Cuando la soledad duele: Encuentro con la compañía perfecta es un libro que aborda el dolor de la soledad desde una perspectiva bíblica. Desgarradora y silenciosa, la soledad puede atacar en cualquier etapa de la vida, ya sea por abandono, falta de pareja o aislamiento emocional. A través de este libro, el autor revela cómo la soledad afecta física, emocional, espiritual y virtualmente. Sin embargo, también ofrece esperanza, mostrando cómo solo a través de la conexión con la compañía perfecta, el Espíritu Santo, es posible superar este dolor y encontrar la paz en el alma.",
-    "category": "libros,novedades",
+    "category": "libros",
     "image": "/images/books/100025.jpg",
     "details": "",
     "keywords": [
@@ -281,7 +281,7 @@
     "discount": 0,
     "autor": "Heath Lambert",
     "description": "Por fin libre es un libro donde el profesor y consejero Heath Lambert ofrece ocho estrategias basadas en la obra de Cristo para superar la adicción a la pornografía. A través de la gracia y el evangelio, Lambert proporciona un plan práctico para el cambio, brindando esperanza y poder para romper las cadenas de este problema. Ya sea que tú mismo estés luchando o quieras ayudar a alguien más, este libro ofrece una guía llena de esperanza para alcanzar la libertad en Cristo.",
-    "category": "libros,novedades",
+    "category": "libros",
     "image": "/images/books/100026.jpg",
     "details": "",
     "keywords": [
@@ -322,7 +322,7 @@
     "discount": 10,
     "autor": "Andrés Panasiuk",
     "description": "Ofrece una guía práctica para aprender a manejar el salario y lograr la estabilidad financiera. Basado en principios bíblicos, este best seller enseña a los lectores cómo tomar control de sus finanzas, estirar su salario y utilizarlo para alcanzar sus metas económicas. Ha ayudado a más de medio millón de personas a mejorar su situación financiera.",
-    "category": "libros,ofertas,novedades",
+    "category": "libros,ofertas",
     "image": "/images/books/100028.jpg",
     "details": "",
     "keywords": [
@@ -5052,43 +5052,11 @@
     ]
   },
   {
-    "id": 100235,
-    "name": "BIBLIA 1960 T08 IMIT PIEL NEGRO ACOLCHADA LG CON ZIPER",
-    "price": 800.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100235.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "t08",
-      "imit",
-      "piel",
-      "negro",
-      "acolchada",
-      "lg",
-      "con",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100238,
-    "name": "BIBLIA RVR 1960 T06 IP ROSA / ROSA LETRA SUPER GIGANTE 14pt ZIPER",
-    "price": 920.0,
+    "name": "Biblia RVR 1960, Letra Gigante, Cierre, Rosa",
+    "price": "900.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100238.jpg",
@@ -5108,13 +5076,13 @@
       "ziper"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Gigante (14 puntos )",
+      "Dimensiones": "15.0 x 21.3 x 3.5 cm",
+      "Formato": "Imitación Piel",
+      "Índice": "No",
+      "Cierre": "Si",
+      "Color": "Rosa"
     }
   },
   {
@@ -5180,10 +5148,10 @@
   },
   {
     "id": 100241,
-    "name": "BIBLIA RVR 1960 T04 IMIT PIEL BLANCO/MARIPOSAS ZIP LM PJR",
-    "price": 590.0,
+    "name": "Biblia RVR 1960, Blanco mariposas, Cierre",
+    "price": "590.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100241.jpg",
@@ -5201,21 +5169,21 @@
       "pjr"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "13.5 x 17.8 x 2.8 cm",
+      "Formato": "Imitación Piel",
+      "Índice": "No",
+      "Cierre": "Si",
+      "Color": "Blanco mariposas"
     }
   },
   {
     "id": 100242,
-    "name": "BIBLIA RVR 1960 JEAN CINTURON MORADO CI ZIPER LG 12p",
-    "price": 560.0,
+    "name": "BBiblia RVR 1960, Letra Grande, Cinturón Lila, Índice, Cierre",
+    "price": "560.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100242.jpg",
@@ -5233,13 +5201,13 @@
       "12p"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "13.5 x 21 x 2.5 cm",
+      "Formato": "Tapa dura forrada en tela",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "Jean, Lila"
     }
   },
   {
@@ -7533,40 +7501,6 @@
     ]
   },
   {
-    "id": 100238,
-    "name": "BIBLIA RVR 1960 T06 IP ROSA / ROSA LETRA SUPER GIGANTE 14pt ZIPER",
-    "price": 920.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100238.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "t06",
-      "ip",
-      "rosa",
-      "rosa",
-      "letra",
-      "super",
-      "gigante",
-      "14pt",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100360,
     "name": "BIBLIA RVR 1960 T06 IP NEGRO LETRA SUPER GIGANTE 14pt ZIPER",
     "price": "",
@@ -9024,40 +8958,6 @@
     ]
   },
   {
-    "id": 100238,
-    "name": "BIBLIA RVR 1960 T06 IP ROSA / ROSA LETRA SUPER GIGANTE 14pt ZIPER",
-    "price": 920.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100238.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "t06",
-      "ip",
-      "rosa",
-      "rosa",
-      "letra",
-      "super",
-      "gigante",
-      "14pt",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100437,
     "name": "BIBLIA RVR 1960 T08 JEANS NEGRA SIPER COLOR VERDE LETRA GIGANTE",
     "price": "",
@@ -9159,37 +9059,6 @@
       "indice",
       "11",
       "puntos"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100241,
-    "name": "BIBLIA RVR 1960 T04 IMIT PIEL BLANCO/MARIPOSAS CIERRE 10puntos",
-    "price": 590.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100241.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "t04",
-      "imit",
-      "piel",
-      "blancomariposas",
-      "cierre",
-      "10puntos"
     ],
     "features": {
       "Versión": "",
