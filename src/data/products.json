@@ -5211,43 +5211,11 @@
     }
   },
   {
-    "id": 100243,
-    "name": "BIBLIA RVR 1960 PRIMAVERAL AZUL CLARO IP LG 11p ZIPER",
-    "price": 530.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100243.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "primaveral",
-      "azul",
-      "claro",
-      "ip",
-      "lg",
-      "11p",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100244,
-    "name": "BIBLIA RVR 1960 T04 IMIT PIEL BLANCO/FLORES ZIP LM PJR",
-    "price": 590.0,
+    "name": "Biblia RVR 1960, Blanco/Flores, Cierre",
+    "price": "590.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100244.jpg",
@@ -5265,44 +5233,12 @@
       "pjr"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100245,
-    "name": "BIBLIA RVR 1960 PRIMAVERAL IP FUCSIA LG 11p ZIPER",
-    "price": 530.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100245.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "primaveral",
-      "ip",
-      "fucsia",
-      "lg",
-      "11p",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Mediana ( 10 puntos )",
+      "Dimensiones": "18 x 13.5 x 3 cm",
+      "Formato": "Imitación Piel",
+      "Cierre": "Si",
+      "Color": "Blanco/flores"
     }
   },
   {
@@ -5476,13 +5412,14 @@
   },
   {
     "id": 100255,
-    "name": "LA GRAN BIBLIA Y YO EL NUEVO TESTAMENTO PARA COLOREAR",
-    "price": 130.0,
+    "name": "La gran biblia y yo el nuevo testamento para colorear",
+    "price": "130.00",
+    "stock": 0,
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100255.jpg",
+    "category": "libros,infantil",
+    "image": "/images/books/100255.jpg",
     "details": "",
     "keywords": [
       "la",
@@ -5495,26 +5432,18 @@
       "testamento",
       "para",
       "colorear"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
+    ]
   },
   {
     "id": 100256,
-    "name": "LA GRAN BIBLIA Y YO EL ANTIGUO TESTAMENTO PARA COLOREAR",
-    "price": 130.0,
+    "name": "La gran biblia y yo el antiguo testamento para colorear",
+    "price": "130.00",
+    "stock": 0,
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100256.jpg",
+    "category": "libros,infantil",
+    "image": "/images/books/100256.jpg",
     "details": "",
     "keywords": [
       "la",
@@ -5527,16 +5456,7 @@
       "testamento",
       "para",
       "colorear"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
+    ]
   },
   {
     "id": 100257,
@@ -5586,106 +5506,6 @@
       "tu",
       "cerebro"
     ]
-  },
-  {
-    "id": 100255,
-    "name": "LA GRAN BIBLIA Y YO EL NUEVO TESTAMENTO PARA COLOREAR",
-    "price": 130.0,
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100255.jpg",
-    "details": "",
-    "keywords": [
-      "la",
-      "gran",
-      "biblia",
-      "y",
-      "yo",
-      "el",
-      "nuevo",
-      "testamento",
-      "para",
-      "colorear"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100260,
-    "name": "Biblia RVR 1960 Elegante Rosa Café Imitación Piel Con Índice & Zíper Bolsillo",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100260.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "elegante",
-      "rosa",
-      "caf",
-      "imitacin",
-      "piel",
-      "con",
-      "ndice",
-      "zper",
-      "bolsillo"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100261,
-    "name": "Biblia RVR 1960 Elegante Verde Café Imitación Piel Con Índice & Zíper Bolsillo",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100261.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "elegante",
-      "verde",
-      "caf",
-      "imitacin",
-      "piel",
-      "con",
-      "ndice",
-      "zper",
-      "bolsillo"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100262,
@@ -6074,13 +5894,13 @@
   },
   {
     "id": 100284,
-    "name": "EXTRAORDINARIAS MUJERES DE LA BIBLIA",
-    "price": "",
+    "name": "Extraordinarias mujeres de la biblia",
+    "price": "150.00",
     "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100284.jpg",
+    "autor": "Eunice Priddy",
+    "description": "Libro que te invita a descubrir la vida de más de 150 mujeres mencionadas en las Escrituras.\nA través de sus historias, conocerás ejemplos de fe, valentía, errores y redención, encontrando en cada una valiosas lecciones para tu vida diaria.\n\nBasado en un programa de radio transmitido por Radio Transmundial en español, este libro presenta capítulos dinámicos y fáciles de seguir, enfocados en una mujer a la vez, explorando su contexto y enseñanzas de manera práctica.\n\nCada capítulo incluye preguntas de reflexión, lo que lo convierte en una excelente herramienta tanto para el estudio personal como para grupos.\nIdeal para quienes desean profundizar en la Palabra de Dios y aprender cómo Él ha obrado en la vida de diferentes mujeres a lo largo de la historia.",
+    "category": "libros",
+    "image": "/images/books/100284.jpg",
     "details": "",
     "keywords": [
       "extraordinarias",
@@ -6088,16 +5908,7 @@
       "de",
       "la",
       "biblia"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
+    ]
   },
   {
     "id": 100285,
@@ -6343,33 +6154,6 @@
       "debo",
       "asistir"
     ]
-  },
-  {
-    "id": 100299,
-    "name": "SERIE PRIMEROS PASOS - LA BIBLIA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100299.jpg",
-    "details": "",
-    "keywords": [
-      "serie",
-      "primeros",
-      "pasos",
-      "la",
-      "biblia"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
   },
   {
     "id": 100300,
@@ -6922,33 +6706,6 @@
     ]
   },
   {
-    "id": 100339,
-    "name": "SALMOS Y PROVERBIOS - BIBLIA BONITA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100339.jpg",
-    "details": "",
-    "keywords": [
-      "salmos",
-      "y",
-      "proverbios",
-      "biblia",
-      "bonita"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100340,
     "name": "Señor enséñanos a adorar",
     "price": "330.00",
@@ -7037,10 +6794,10 @@
   },
   {
     "id": 100345,
-    "name": "BIBLIA 1960 T02 PALABRAS DE VIDA AMOR ROJO BLANCO IP TELA IND",
-    "price": "",
+    "name": "Biblia RVR 1960, Palabras de vida amor, Rojo y blanco",
+    "price": "450.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100345.jpg",
@@ -7060,21 +6817,20 @@
       "ind"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Chica ( 8 puntos )",
+      "Dimensiones": "12.5 x 20 x 5 cm",
+      "Formato": "Tela",
+      "Índice": "Si",
+      "Color": "Rojo y blanco"
     }
   },
   {
     "id": 100346,
-    "name": "BIBLIA 1960 T02 PALABRAS DE VIDA AMOR LILA BLANCO IP TELA IND",
-    "price": "",
+    "name": "Biblia RVR 1960, Palabras de vida amor, Lila y blanco",
+    "price": "450.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100346.jpg",
@@ -7087,28 +6843,27 @@
       "de",
       "vida",
       "amor",
-      "lila",
+      "rojo",
       "blanco",
       "ip",
       "tela",
       "ind"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Chica ( 8 puntos )",
+      "Dimensiones": "12.5 x 20 x 5 cm",
+      "Formato": "Tela",
+      "Índice": "Si",
+      "Color": "Lila y blanco"
     }
   },
   {
     "id": 100347,
-    "name": "BIBLIA 1960 T02 PALABRAS DE VIDA AMOR VERDE BLANCO IP TELA IND",
-    "price": "",
+    "name": "Biblia RVR 1960, Palabras de vida amor, Verde y blanco",
+    "price": "450.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100347.jpg",
@@ -7121,58 +6876,27 @@
       "de",
       "vida",
       "amor",
-      "verde",
+      "rojo",
       "blanco",
       "ip",
       "tela",
       "ind"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100348,
-    "name": "BIBLIA 1960 T04 IP GEOMETRICO NGO/CAFE IND ZIPER",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100348.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "t04",
-      "ip",
-      "geometrico",
-      "ngocafe",
-      "ind",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Chica ( 8 puntos )",
+      "Dimensiones": "12.5 x 20 x 5 cm",
+      "Formato": "Tela",
+      "Índice": "Si",
+      "Color": "Verde y blanco"
     }
   },
   {
     "id": 100349,
-    "name": "BIBLIA 1960 T025 TRICOLOR ROSA BCO TURQUESA IP IND ZIPER ",
-    "price": "",
+    "name": "Biblia RVR 1960, Tricolor Rosa, blanco, turquesa, Índice, Cierre",
+    "price": "700.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100349.jpg",
@@ -7190,21 +6914,21 @@
       "ziper"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "15.5 x 22.0 x 3.0 cm",
+      "Formato": "Imitación Piel",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "Rosa, blanco, turquesa"
     }
   },
   {
     "id": 100350,
-    "name": "BIBLIA 1960 T025 TRICOLOR BCO GRIS TURQUESA IP IND ZIPER",
-    "price": "",
+    "name": "Biblia RVR 1960, Tricolor blanco, gris, turquesa, Índice, Cierre",
+    "price": "700.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100350.jpg",
@@ -7222,13 +6946,13 @@
       "ziper"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "15.5 x 22.0 x 3.0 cm",
+      "Formato": "Imitación Piel",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "blanco, gris, turquesa"
     }
   },
   {
