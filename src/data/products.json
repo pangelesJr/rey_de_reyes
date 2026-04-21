@@ -3191,6 +3191,31 @@
     }
   },
   {
+    "id": 100551,
+    "name": "Biblia compacta NTV, Beige, Cierre",
+    "price": "680.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "biblias",
+    "image": "/images/bibles/100551.jpg",
+    "details": "",
+    "keywords": [
+      "biblias",
+      "Nueva Traducción Viviente",
+      "NTV",
+      "letra grande"
+    ],
+    "features": {
+      "Versión": "Nueva Traducción Viviente",
+      "Tamaño de letra": "Grande ( 10 puntos )",
+      "Dimensiones": "14.0 x 19.5 x 3.7 cm",
+      "Formato": "SentiPiel",
+      "Índice": "No",
+      "Cierre": "Si"
+    }
+  },
+  {
     "id": 100159,
     "name": "Biblia Luz en mi camino corazones, NVI multicolor símil piel",
     "price": "480.00",
@@ -3345,7 +3370,7 @@
   {
     "id": 100166,
     "name": "Biblia de Estudio para Mujeres RVR 1960",
-    "price": "900.00",
+    "price": "990.00",
     "discount": 0,
     "autor": "",
     "description": "La Biblia de Estudio para Mujeres es una poderosa herramienta espiritual diseñada para equipar a las lectoras con un estudio bíblico profundo, claro y centrado en su identidad como hijas de Dios. \nContiene recursos únicos como introducciones a cada libro, perfiles de personajes bíblicos, devocionales “Grabado en mi corazón”, estudios de palabras clave, bosquejos, doctrinas fundamentales, herramientas para el estudio bíblico, preguntas difíciles, enseñanzas sobre la feminidad bíblica, y mucho más. Además, incluye concordancia, mapas a color, cinta separadora, canto blanco y contenido visual como tablas y cuadros de transliteración. Todo esto está presentado en un diseño elegante sin índice, ideal para un estudio individual o grupal.",
@@ -3576,7 +3601,6 @@
     "id": 100181,
     "name": "Bibliarte RVC, Rosa, Tapa Dura",
     "price": "1,300.00",
-    "stock": 0,
     "discount": 0,
     "autor": "",
     "description": "Una Biblia para inspirArte, motivArte, emocionArte y expresArte. \nBibliArte es mucho más que una Biblia: es un espacio creativo donde la Palabra de Dios y tu expresión artística se encuentran. Con 52 devocionales semanales especialmente pensados para la reflexión personal, y acceso en audio mediante códigos QR, esta edición está diseñada para acompañarte durante todo un año en tu caminar espiritual. \nSus amplios márgenes te invitan a dejar fluir tu creatividad a través del arte, el dibujo o el journaling. Además, incluye lettering con versículos bíblicos inspiradores que te animarán a profundizar en la lectura de la Escritura mientras disfrutas del proceso creativo. \nRedescubre el talento que Dios te dio, con una Biblia que alimenta tu alma y despierta tu arte: ¡eso es BibliArte!",
@@ -3608,6 +3632,7 @@
     "id": 100182,
     "name": "Biblia RVR 1960, Nombres de Dios, Cantar de Cantares",
     "price": "425.00",
+    "stock": 0,
     "discount": 0,
     "autor": "",
     "description": "La Biblia RVR 1960 Nombres de Dios – Cantar de los Cantares, tapa dura es una edición que destaca por su elegancia y significado espiritual. Combina la belleza clásica y la elocuencia de la Reina Valera Revisada 1960 con la esencia visual de la Tierra Santa a través de preciosas imágenes a todo color. Gracias a su encuadernación en tapa dura, es liviana y práctica, ideal tanto para el uso diario como para obsequiar. \nSu letra grande de 12.5 puntos proporciona una lectura cómoda y fluida, acompañada por una concordancia también en letra grande. Incluye las palabras de Cristo en rojo, encabezados claros que permiten ubicar fácilmente los pasajes y más de 10,000 referencias cruzadas para enriquecer tu estudio bíblico. \nEsta edición especial también incluye una dedicatoria, un útil plan de salvación, una cinta marcadora, cinco formas cristianas de apoyar a Israel y 16 páginas con imágenes a todo color que te conectan visualmente con la Tierra Santa. Una Biblia pensada para inspirarte, aprender y compartir tu fe.",
@@ -3638,7 +3663,7 @@
   {
     "id": 100065,
     "name": "La Biblia para todos los niños",
-    "price": "170.00",
+    "price": "180.00",
     "discount": 0,
     "autor": "",
     "description": "¡Una Biblia pensada especialmente para los más pequeños! Esta nueva edición de la Biblia para Todos los Niños viene con tapa acolchada, detalles en brillo y plateado que la hacen aún más atractiva. Con 277 páginas a todo color, reúne las historias bíblicas más destacadas en un formato accesible y visualmente atractivo para niños de 3 a 8 años. Ideal para introducir a los niños al mensaje de la Biblia de una manera clara, sencilla y llena de ilustraciones encantadoras.",
@@ -3657,7 +3682,7 @@
   {
     "id": 100066,
     "name": "La Biblia para todas las niñas",
-    "price": "170.00",
+    "price": "180.00",
     "discount": 0,
     "autor": "",
     "description": "¡Una Biblia pensada especialmente para los más pequeños! Esta nueva edición de la Biblia para Todas las Niñas viene con tapa acolchada, detalles en brillo y plateado que la hacen aún más atractiva. Con 277 páginas a todo color, reúne las historias bíblicas más destacadas en un formato accesible y visualmente atractivo para niños de 3 a 8 años. Ideal para introducir a los niños al mensaje de la Biblia de una manera clara, sencilla y llena de ilustraciones encantadoras.",
@@ -4821,6 +4846,7 @@
     "id": 100215,
     "name": "Rebelión historietas manga",
     "price": "230.00",
+    "stock": 0,
     "discount": 0,
     "autor": "",
     "description": "",
@@ -4923,7 +4949,7 @@
   {
     "id": 100225,
     "name": "Biblia infográfica para niños (Actividades)",
-    "price": "210.00",
+    "price": "220.00",
     "discount": 0,
     "autor": "",
     "description": "",
@@ -5088,7 +5114,7 @@
   {
     "id": 100239,
     "name": "Biblia RVR 1960 León dorado, Indice",
-    "price": 800.0,
+    "price": "800.00",
     "discount": 0,
     "autor": "Sin asignar",
     "description": "",
@@ -5121,7 +5147,7 @@
   {
     "id": 100240,
     "name": "Biblia RVR 1960, Jardín Turquesa, Cierre, Índice",
-    "price": "550.00",
+    "price": "900.00",
     "discount": 0,
     "autor": "",
     "description": "",
@@ -5139,7 +5165,7 @@
     ],
     "features": {
       "Versión": "Reina Valera 1960",
-      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Tamaño de letra": "Gigante ( 14 puntos )",
       "Formato": "Imitación Piel",
       "Índice": "Si",
       "Cierre": "Si",
@@ -5179,38 +5205,6 @@
     }
   },
   {
-    "id": 100242,
-    "name": "BBiblia RVR 1960, Letra Grande, Cinturón Lila, Índice, Cierre",
-    "price": "560.00",
-    "discount": 0,
-    "autor": "",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100242.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "jean",
-      "cinturon",
-      "morado",
-      "ci",
-      "ziper",
-      "lg",
-      "12p"
-    ],
-    "features": {
-      "Versión": "Reina Valera 1960",
-      "Tamaño de letra": "Grande ( 12 puntos )",
-      "Dimensiones": "13.5 x 21 x 2.5 cm",
-      "Formato": "Tapa dura forrada en tela",
-      "Índice": "Si",
-      "Cierre": "Si",
-      "Color": "Jean, Lila"
-    }
-  },
-  {
     "id": 100244,
     "name": "Biblia RVR 1960, Blanco/Flores, Cierre",
     "price": "590.00",
@@ -5239,6 +5233,38 @@
       "Formato": "Imitación Piel",
       "Cierre": "Si",
       "Color": "Blanco/flores"
+    }
+  },
+    {
+    "id": 100242,
+    "name": "Biblia RVR 1960, Letra Grande, Cinturón Lila, Índice, Cierre",
+    "price": "560.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "biblias",
+    "image": "/images/bibles/100242.jpg",
+    "details": "",
+    "keywords": [
+      "biblia",
+      "rvr",
+      "1960",
+      "jean",
+      "cinturon",
+      "morado",
+      "ci",
+      "ziper",
+      "lg",
+      "12p"
+    ],
+    "features": {
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
+      "Dimensiones": "13.5 x 21 x 2.5 cm",
+      "Formato": "Tapa dura forrada en tela",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "Jean, Lila"
     }
   },
   {
@@ -6956,225 +6982,32 @@
     }
   },
   {
-    "id": 100351,
-    "name": "BIBLIA 1960 T04 IP AZUL AMARILLO PJR IND ZIPER",
-    "price": "",
+    "id": 100552,
+    "name": "Biblia bonita para apuntes RVR 1602",
+    "price": "1,100.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
-    "image": "/images/bibles/100351.jpg",
+    "image": "/images/bibles/100552.jpg",
     "details": "",
     "keywords": [
       "biblia",
       "1960",
-      "t04",
-      "ip",
-      "azul",
-      "amarillo",
-      "pjr",
-      "ind",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100352,
-    "name": "BIBLIA 1960 T05 DE ESTUDIO ORACIONES IP GRIS NEGRO LG ZIPER PJR",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100352.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "t05",
-      "de",
-      "estudio",
-      "oraciones",
-      "ip",
-      "gris",
-      "negro",
-      "lg",
-      "ziper",
-      "pjr"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100353,
-    "name": "BIBLIA 1960 T06 IP MARRON NEGRO LG TI PJR ZIPER",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100353.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "t06",
-      "ip",
-      "marron",
-      "negro",
-      "lg",
-      "ti",
-      "pjr",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100354,
-    "name": "BIBLIA 1960 T06 IP TRICOLOR ROSA LG 12p IND ZIPER",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100354.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "t06",
-      "ip",
+      "t025",
       "tricolor",
-      "rosa",
-      "lg",
-      "12p",
+      "bco",
+      "gris",
+      "turquesa",
+      "ip",
       "ind",
       "ziper"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100355,
-    "name": "BIBLIA 1960 T02 IMIT PIEL NEGRO CANTO PLATEADO TI PJR ZIPER",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100355.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "t02",
-      "imit",
-      "piel",
-      "negro",
-      "canto",
-      "plateado",
-      "ti",
-      "pjr",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100356,
-    "name": "BIBLIA NTV EDICION COSECHA PARA COMPARTIR TR ",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100356.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "ntv",
-      "edicion",
-      "cosecha",
-      "para",
-      "compartir",
-      "tr"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100357,
-    "name": "NIV, Thinline Bible, Leathersoft, Brown, Red Letter, Comfort Print",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100357.jpg",
-    "details": "",
-    "keywords": [
-      "niv",
-      "thinline",
-      "bible",
-      "leathersoft",
-      "brown",
-      "red",
-      "letter",
-      "comfort",
-      "print"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1602",
+      "Tamaño de letra": "Mediana ( 9 puntos )",
+      "Dimensiones": "20.1 x 25.1 x 5.0 cm",
+      "Formato": "Tapa dura"
     }
   },
   {
@@ -7225,44 +7058,11 @@
     ]
   },
   {
-    "id": 100360,
-    "name": "BIBLIA RVR 1960 T06 IP NEGRO LETRA SUPER GIGANTE 14pt ZIPER",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100360.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "t06",
-      "ip",
-      "negro",
-      "letra",
-      "super",
-      "gigante",
-      "14pt",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100361,
-    "name": "BIBLIA RVR 1960 IMIT PIEL GRIS / AZUL / MARINO LETRA GRANDE INDICE ZIPER",
-    "price": "",
+    "name": "Biblia RVR 1960 gris / azul, Índice, Cierre",
+    "price": "800.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100361.jpg",
@@ -7282,42 +7082,13 @@
       "ziper"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Grande ( 12 puntos )",
       "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100362,
-    "name": "BIBLIA RVR 1960 ECONOMICA CORONA ESPINOS - RUSTICA",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100362.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "economica",
-      "corona",
-      "espinos",
-      "rustica"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Formato": "Símil piel",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "Azul marino"
     }
   },
   {
@@ -7423,10 +7194,10 @@
   },
   {
     "id": 100368,
-    "name": "BIBLIA RVC APUNTES GENERACION JOVEN",
-    "price": "",
+    "name": "Biblia generación joven RVC",
+    "price": "550.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100368.jpg",
@@ -7439,13 +7210,10 @@
       "joven"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera Contemporánea",
+      "Tamaño de letra": "Mediana ( 9 puntos )",
+      "Dimensiones": "16.5 x 22.8 x 3.3 cm",
+      "Formato": "Tapa  dura"
     }
   },
   {
@@ -7470,10 +7238,10 @@
   },
   {
     "id": 100370,
-    "name": "BIBLIA RVR 1960 IMIT PIEL FLORES FUCSIA AZUL ZIPER",
-    "price": "",
+    "name": "Biblia RVR 1960, Flores, Fucsia azul, Cierre",
+    "price": "560.00",
     "discount": 0,
-    "autor": "Sin asignar",
+    "autor": "",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100370.jpg",
@@ -7490,44 +7258,13 @@
       "ziper"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100371,
-    "name": "BIBLIA RVR 1960 T025 ELEGANTE VERDE CAFE INDICE ZIPER",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100371.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "rvr",
-      "1960",
-      "t025",
-      "elegante",
-      "verde",
-      "cafe",
-      "indice",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Tamaño de letra": "Mediana ( 8 puntos )",
+      "Dimensiones": "12.5 x 18 x 3 cm",
+      "Formato": "Simil piel",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "Fucsia azul"
     }
   },
   {
@@ -7547,10 +7284,9 @@
   },
   {
     "id": 100374,
-    "name": "BIBLIA RVR 1960 MI GRAN VIAJE LILA ZIPER",
-    "price": "",
+    "name": "Biblia RVR 1960 mi gran viaje, Lila, Cierre",
+    "price": "400.00",
     "discount": 0,
-    "autor": "Sin asignar",
     "description": "",
     "category": "biblias",
     "image": "/images/bibles/100374.jpg",
@@ -7566,13 +7302,10 @@
       "ziper"
     ],
     "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
+      "Versión": "Reina Valera 1960",
+      "Índice": "Si",
+      "Cierre": "Si",
+      "Color": "Lila"
     }
   },
   {
@@ -7775,38 +7508,6 @@
       "lg",
       "pjr",
       "concordancia",
-      "ziper"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
-    "id": 100353,
-    "name": "BIBLIA 1960 T06 IP MARRON NEGRO LG TI PJR ZIPER",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100353.jpg",
-    "details": "",
-    "keywords": [
-      "biblia",
-      "1960",
-      "t06",
-      "ip",
-      "marron",
-      "negro",
-      "lg",
-      "ti",
-      "pjr",
       "ziper"
     ],
     "features": {
@@ -10188,36 +9889,9 @@
     ]
   },
   {
-    "id": 100520,
-    "name": "Princesa de Dios Biblia Devocional",
-    "price": "",
-    "discount": 0,
-    "autor": "Sin asignar",
-    "description": "",
-    "category": "biblias",
-    "image": "/images/bibles/100520.jpg",
-    "details": "",
-    "keywords": [
-      "princesa",
-      "de",
-      "dios",
-      "biblia",
-      "devocional"
-    ],
-    "features": {
-      "Versión": "",
-      "Tamaño de letra": "",
-      "Dimensiones": "",
-      "Formato": "",
-      "Índice": "",
-      "Cierre": "",
-      "Color": ""
-    }
-  },
-  {
     "id": 100521,
     "name": "Mi tiempo con Dios para niños",
-    "price": "370.00",
+    "price": "350.00",
     "discount": 0,
     "autor": "",
     "description": "",
@@ -10236,7 +9910,7 @@
   {
     "id": 100522,
     "name": "Mi tiempo con dios para niñas",
-    "price": "370.00",
+    "price": "350.00",
     "discount": 0,
     "autor": "",
     "description": "",
@@ -10418,5 +10092,17 @@
       "buenas",
       "noches"
     ]
+  },
+  {
+    "id": 100553,
+    "name": "Princesita de Dios Biblia devocional",
+    "price": "380.00",
+    "discount": 0,
+    "autor": "",
+    "description": "",
+    "category": "infantil,biblias",
+    "image": "/images/bibles/100553.jpg",
+    "details": "",
+    "keywords": []
   }
 ]
